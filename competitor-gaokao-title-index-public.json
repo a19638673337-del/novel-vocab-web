@@ -1,0 +1,321 @@
+{
+  "source": "https://novel.quwanclass.com/?account=unified#library-catalog",
+  "sourceAsset": "https://novel.quwanclass.com/assets/index-H1d5HaDl.js",
+  "courseUrl": "https://novel.quwanclass.com/gaokao/",
+  "kind": "public-title-index",
+  "capturedDate": "2026-10-31",
+  "scope": "公开前端资源中供生词本解析故事标题的课程标题与ID索引；并非完整正文、可阅读状态或完整目录的证明。",
+  "missingFields": [
+    "no",
+    "genre",
+    "chapterCount",
+    "wordCount"
+  ],
+  "notes": "仅静态解码JSON字符串，未执行源代码。缺失字段保留null；未采集小说正文、词表、音频或账号数据。",
+  "books": [
+    {
+      "id": "book-01",
+      "no": null,
+      "title": "被困雨夜，腹黑资本家向我单膝臣服",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-02",
+      "no": null,
+      "title": "狠戾黑帮大佬×娇软落难留学生",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-03",
+      "no": null,
+      "title": "军阀的掌中雀：落魄千金的强制爱",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-04",
+      "no": null,
+      "title": "那个清冷学神偷藏了我的情书",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-05",
+      "no": null,
+      "title": "穿书后，我靠吃瓜苟成了将军的心尖宠",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-06",
+      "no": null,
+      "title": "随性散漫京圈浪子×重度强迫症女医生",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-07",
+      "no": null,
+      "title": "势均力敌的腹黑霸总×清醒独立女强人",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-08",
+      "no": null,
+      "title": "蓄意诱捕：当心机绿茶撞上斯文败类",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-09",
+      "no": null,
+      "title": "携崽潜逃后，偏执大佬他发疯求复婚",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-10",
+      "no": null,
+      "title": "咸鱼沙雕女×口嫌体正直傲娇少爷",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-11",
+      "no": null,
+      "title": "通房丫鬟上位记：撩惹禁欲腹黑权臣",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-12",
+      "no": null,
+      "title": "重生归来，我成了京圈太子爷的掌中娇",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-13",
+      "no": null,
+      "title": "佛子坠落：撕下伪装后他欲壑难填",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-14",
+      "no": null,
+      "title": "脑补狂魔自我攻略男主×油盐不进迟钝木头直女",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-15",
+      "no": null,
+      "title": "雨夜臣服：被掌控狂老男人狠狠拿捏",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-16",
+      "no": null,
+      "title": "痞帅狼狗特工×清冷高智商女军医",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-17",
+      "no": null,
+      "title": "破产后，暴富的前男友把我堵在墙角",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-18",
+      "no": null,
+      "title": "极度阴湿吃醋狂男主×迟钝心软老实人女主",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-19",
+      "no": null,
+      "title": "捡回来的十八岁忠犬男侍每天都在以下犯上",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-20",
+      "no": null,
+      "title": "高大心机重欲男×娇软懵懂迟钝木头女",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-21",
+      "no": null,
+      "title": "提分手后，高冷霸总哭着求我别走",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-22",
+      "no": null,
+      "title": "落魄傲娇天才男主×打直球治愈系小太阳",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-23",
+      "no": null,
+      "title": "替嫁医妃：病娇王爷每天都在向我争宠",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-24",
+      "no": null,
+      "title": "表面温柔背地阴暗哥哥×清冷忧郁纯真妹妹",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-25",
+      "no": null,
+      "title": "画地为牢：欠债后我成了京圈大佬的笼中鸟",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-26",
+      "no": null,
+      "title": "骄矜直球撩人富家千金×沉稳克制贫寒高岭之花",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-27",
+      "no": null,
+      "title": "杂货铺里捡到个落难的纯情霸总",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-28",
+      "no": null,
+      "title": "重生第一天，我撕了离婚协议跨坐他腿上",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-29",
+      "no": null,
+      "title": "满级科研大佬隐居村里疯狂打脸日常",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-30",
+      "no": null,
+      "title": "神秘危险西装暴徒×清冷理智高定女裁缝",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-31",
+      "no": null,
+      "title": "逃不掉：被豪门长兄全天候监控之后",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-32",
+      "no": null,
+      "title": "致命攻略：冰山大佬被作精宿主彻底拿捏",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-33",
+      "no": null,
+      "title": "久别重逢：那颗过期五年的苹果味软糖",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-34",
+      "no": null,
+      "title": "逆天强宠：高冷剑尊每天都在为我破戒",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-35",
+      "no": null,
+      "title": "凤临深渊：满级女特工拿捏腹黑摄政王",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-36",
+      "no": null,
+      "title": "迷雾回声：心理学顾问与疯批杀手的致命游戏",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-37",
+      "no": null,
+      "title": "废柴退婚：随身带个老爷爷我打爆九霄",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-38",
+      "no": null,
+      "title": "清冷禁欲权势女总裁×钓系明艳绝美大明星",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    }
+  ]
+}

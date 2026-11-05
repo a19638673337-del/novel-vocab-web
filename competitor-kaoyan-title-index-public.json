@@ -1,0 +1,465 @@
+{
+  "source": "https://novel.quwanclass.com/?account=unified#library-catalog",
+  "sourceAsset": "https://novel.quwanclass.com/assets/index-H1d5HaDl.js",
+  "courseUrl": "https://novel.quwanclass.com/kaoyan/",
+  "kind": "public-title-index",
+  "capturedDate": "2026-10-31",
+  "scope": "公开前端资源中供生词本解析故事标题的课程标题与ID索引；并非完整正文、可阅读状态或完整目录的证明。",
+  "missingFields": [
+    "no",
+    "genre",
+    "chapterCount",
+    "wordCount"
+  ],
+  "notes": "仅静态解码JSON字符串，未执行源代码。缺失字段保留null；未采集小说正文、词表、音频或账号数据。",
+  "books": [
+    {
+      "id": "book-01",
+      "no": null,
+      "title": "质子归国：十年前他被送走，十年后他带兵回来",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-02",
+      "no": null,
+      "title": "离婚冷静期最后一天，前夫的公司破产了",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-03",
+      "no": null,
+      "title": "药王谷的哑徒弟，一针扎醒了沉睡三百年的剑仙",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-04",
+      "no": null,
+      "title": "穿成恶毒继母后，我把三个反派崽子送进了书院",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-05",
+      "no": null,
+      "title": "女画师与她画了十年的那位侯府小姐",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-06",
+      "no": null,
+      "title": "联姻对象是我高中时的死对头，他记得我所有的考卷",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-07",
+      "no": null,
+      "title": "冷宫废后的第三年，给皇帝递了一份军报",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-08",
+      "no": null,
+      "title": "剑修与魔修：被困秘境的七天",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-09",
+      "no": null,
+      "title": "河伯娶亲那年，新娘自己划着船回来了",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-10",
+      "no": null,
+      "title": "乡村女医生和一场没人相信的疫情",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-11",
+      "no": null,
+      "title": "诛九族的圣旨送到府门时，世子夫人却在点兵",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-12",
+      "no": null,
+      "title": "白月光回国那天，替身递上了离职补偿单",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-13",
+      "no": null,
+      "title": "全仙门都在等我献祭，魔尊却喊我师尊",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-14",
+      "no": null,
+      "title": "公司上市前夜，唯一的女合伙人被除名了",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-15",
+      "no": null,
+      "title": "社畜穿进龙傲天文，每天带薪摸鱼",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-16",
+      "no": null,
+      "title": "我在天庭做售后，专门处理渡劫差评",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-17",
+      "no": null,
+      "title": "替公主逃婚那夜，女将军把马牵到了城门外",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-18",
+      "no": null,
+      "title": "深空航行第七百年，休眠舱被叩响了",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-19",
+      "no": null,
+      "title": "雨落紫禁：起居注史官笔下的摄政风云",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-20",
+      "no": null,
+      "title": "领证那天，协议丈夫先给我开了股东会",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-21",
+      "no": null,
+      "title": "宿敌：同一场辩论赛上，他第三次输给了我",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-22",
+      "no": null,
+      "title": "无字县志：每逢大雪，村庄就少一户人家",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-23",
+      "no": null,
+      "title": "渡劫失败后，我捡了个只剩残魂的魔尊当炉灶灵",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-24",
+      "no": null,
+      "title": "御膳房账本少了一页，满宫都在找一个小宫女",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-25",
+      "no": null,
+      "title": "高考前一百天，我和学渣同桌签了一份对赌协议",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-26",
+      "no": null,
+      "title": "塞外鸣镝：冷面镇北王与和亲使臣的十年残棋",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-27",
+      "no": null,
+      "title": "暴雨停滞在机场航站楼的第二十二个小时",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-28",
+      "no": null,
+      "title": "影后退圈前最后一场直播，关掉了所有滤镜",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-29",
+      "no": null,
+      "title": "我的系统只会发布缺德任务，偏偏男主认真执行",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-30",
+      "no": null,
+      "title": "乐队解散十年，主唱和鼓手在同一场婚礼上重逢",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-31",
+      "no": null,
+      "title": "小竹峰打铁百年，师尊惊觉我已入圣",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-32",
+      "no": null,
+      "title": "白昼盲区：连环失踪案的侧写失误",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-33",
+      "no": null,
+      "title": "女官替皇帝写下一道罪己诏",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-34",
+      "no": null,
+      "title": "帝王与权臣：一道没有发出去的圣旨",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-35",
+      "no": null,
+      "title": "豪门真千金回家第一天，就查出了全家的假账",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-36",
+      "no": null,
+      "title": "当铺收下了一个人的影子",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-37",
+      "no": null,
+      "title": "破产女老板在夜市摆摊，意外做成了全城生意",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-38",
+      "no": null,
+      "title": "宗门大比，我抽中的对手是我自己",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-39",
+      "no": null,
+      "title": "阎王殿实习生，第一天就把生死簿弄丢了",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-40",
+      "no": null,
+      "title": "穿进末日文第一天，我在超市抢到了最后一袋米",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-41",
+      "no": null,
+      "title": "首席小提琴手和他的调音师",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-42",
+      "no": null,
+      "title": "和离书送到侯府那日，她带走了全府的账本",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-43",
+      "no": null,
+      "title": "我在拍卖会上，拍下了未婚夫的家族印章",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-44",
+      "no": null,
+      "title": "雪山民宿里，第七个客人不在入住名单上",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-45",
+      "no": null,
+      "title": "灵兽园的饲养员，被一条龙认作了娘",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-46",
+      "no": null,
+      "title": "天文社最后一个社员，在毕业那晚看见了流星雨",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-47",
+      "no": null,
+      "title": "太子妃验尸：东宫血案里的第七根银针",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-48",
+      "no": null,
+      "title": "霸总失忆后，以为我是他雇来的保镖",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-49",
+      "no": null,
+      "title": "法医穿成冤死的县令夫人",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-50",
+      "no": null,
+      "title": "南极科考站，只剩两个人过冬",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-51",
+      "no": null,
+      "title": "仙门藏书阁里，有一本书在写我的结局",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-52",
+      "no": null,
+      "title": "状元郎的卷子被人调了包，阅卷的是他的未婚妻",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-53",
+      "no": null,
+      "title": "霸总家的猫成精了，天天替他安排相亲",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-54",
+      "no": null,
+      "title": "三十五岁被裁那天，我接手了一座停产的工厂",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-55",
+      "no": null,
+      "title": "穿回八十年代，我用一台收音机做起了生意",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    },
+    {
+      "id": "book-56",
+      "no": null,
+      "title": "他收购了整条街，只为保住街角那家修表铺",
+      "genre": null,
+      "chapterCount": null,
+      "wordCount": null
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+﻿id,headword,gloss_zh,status,article_count,occurrences,first_used,last_used,article_ids,meanings_zh
+abandon,abandon,"v.放弃;抛弃 | v. 放弃,抛弃",used,1,1,2026-10-31,2026-10-31,story-0007,放弃
+aboard,aboard,"adv.在(船、⻜机、火⻋等)上 | adv./prep. 上船(飞机,火车)",used,1,1,2026-10-31,2026-10-31,story-0001,上车
+abolish,abolish,"v.废除;废止 | v. 废除,废止",used,2,2,2026-10-31,2026-10-31,story-0005 | story-0007,废除
+above,above,prep.在...上面;超过adv.在...上面adj.上述的,used,1,1,2026-10-31,2026-10-31,story-0001,在……上方
+accept,accept,v.接纳;接受 | v.接受;忍受;同意,used,1,2,2026-10-31,2026-10-31,story-0001,接受 | 接收
+access,access,"n.入口; 接近...的方法 | n.入口v.到达;进入 | n. 机会,通道 v.进入,获取",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0005,访问权限 | 进入
+accompany,accompany,"vt.陪伴; 伴随 | v.陪伴;伴随 | v. 陪同,陪伴",used,1,1,2026-10-31,2026-10-31,story-0001,陪同
+account,account,"n.账户; 解释 | n.账户;描述v.认为是 | n.账户;账目 | n. 账户,描述",used,1,1,2026-10-31,2026-10-31,story-0002,账目
+accountable,accountable,adj.负责任的 | adj. 负有责任的,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0003,负有解释责任的
+accurate,accurate,"adj.精确的;准确的 | adj. 精确的,准确的",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0006,准确的
+accuse,accuse,"vt.指责, 控告 | v.控告;指控;谴责 | v. 指责,指控",used,4,4,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0006 | story-0007,指控
+address,address,"n. 地址,演讲 v.演讲,处理,解决",used,1,1,2026-10-31,2026-10-31,story-0001,收件地址
+adequate,adequate,adj.足够的 | adj.充足的;合格的 | adj. 足够的;合格的,used,1,1,2026-10-31,2026-10-31,story-0002,足够的
+admit,admit,v.赞同;准许...进入 | v. 承认,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,承认
+affection,affection,"n.喜爱, 钟爱",used,1,1,2026-10-31,2026-10-31,story-0003,喜爱
+agreement,agreement,n.协议,used,3,3,2026-10-31,2026-10-31,story-0003 | story-0004 | story-0006,协议
+algorithm,algorithm,n.算法,used,1,1,2026-10-31,2026-10-31,story-0003,算法
+allergic,allergic,adj.过敏的;对...极其反感的 | adj. 过敏的,used,1,1,2026-10-31,2026-10-31,story-0005,过敏的
+allocate,allocate,v. 分配,used,1,1,2026-10-31,2026-10-31,story-0004,分配
+alternative,alternative,a.供选择的 | adj.供选择的;可替代的n.可供选择的事物 | n. 可选择的事物 adj.可替代的,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0007,替代方案
+ambassador,ambassador,n.大使,used,1,1,2026-10-31,2026-10-31,story-0005,大使
+ambition,ambition,"n.雄心;抱负 | n. 野心,雄心",used,1,1,2026-10-31,2026-10-31,story-0002,抱负
+amend,amend,"v. 修改,修订",used,1,1,2026-10-31,2026-10-31,story-0002,修订
+analysis,analysis,n.分析,used,1,1,2026-10-31,2026-10-31,story-0004,分析
+analyze,analyze,v. 分析,used,1,1,2026-10-31,2026-10-31,story-0005,分析
+anchor,anchor,n.锚v.抛锚,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,锚
+ancient,ancient,"a.古代的; 年老的 | adj. 古老的,古代的",used,1,1,2026-10-31,2026-10-31,story-0002,古老的
+anyone,anyone,pron.任何人,used,1,3,2026-10-31,2026-10-31,story-0001,任何人
+anything,anything,pron.任何事物,used,1,1,2026-10-31,2026-10-31,story-0001,任何事情
+apology,apology,n. 道歉,used,1,1,2026-10-31,2026-10-31,story-0001,道歉
+appeal,appeal,"n.呼吁; 申诉 | v./n.呼吁;上诉;吸引力 | n./v.恳求;吸引力;上诉 | v. 呼吁,有吸引力,申诉",used,1,1,2026-10-31,2026-10-31,story-0002,申诉
+appetite,appetite,"n.食欲, 爱好 | n.⻝欲;胃口;欲望 | n.胃口;⻝欲 | n. 胃口,欲望",used,1,1,2026-10-31,2026-10-31,story-0005,食欲
+appoint,appoint,"vt.任命; 约定 | v. 委任,任命",used,1,1,2026-10-31,2026-10-31,story-0006,任命
+approach,approach,"v.接近 n.接近 | v.接近n.方法 | v.靠近n.途径 | n. 方法 v.接近;处理,解决",used,1,1,2026-10-31,2026-10-31,story-0003,方法
+appropriate,appropriate,"a.适当的; 合适的 | adj.合适的 | adj. 合适的,恰当的",used,1,1,2026-10-31,2026-10-31,story-0003,合适的
+approval,approval,n.赞成;同意;批准,used,1,1,2026-10-31,2026-10-31,story-0005,批准
+approve,approve,v.赞成; 批准 | v.赞成;称许 | v. 认可;同意,used,1,1,2026-10-31,2026-10-31,story-0001,批准
+approximate,approximate,adj.近似的,used,1,1,2026-10-31,2026-10-31,story-0004,大概的
+argue,argue,v.论证;争吵;争论,used,1,1,2026-10-31,2026-10-31,story-0006,辩称
+arithmetic,arithmetic,n. 算术;计算,used,1,1,2026-10-31,2026-10-31,story-0004,算术
+arrangement,arrangement,n.安排; 布置,used,1,1,2026-10-31,2026-10-31,story-0001,安排
+arrest,arrest,v./n.逮捕,used,1,1,2026-10-31,2026-10-31,story-0002,逮捕
+arrival,arrival,n.抵达;到达,used,1,1,2026-10-31,2026-10-31,story-0001,到达
+ashamed,ashamed,"adj.羞愧的;惭愧的 | adj. 惭愧的,羞耻的",used,1,1,2026-10-31,2026-10-31,story-0001,羞愧的
+assess,assess,"v.评估;评定 | v.评定;估价 | v.评估 | v. 评估,评定",used,1,1,2026-10-31,2026-10-31,story-0004,评估
+asset,asset,"n.资产, 财产 | n.资产;有用的人或物 | n. 资产",used,1,1,2026-10-31,2026-10-31,story-0004,资产
+assignment,assignment,"n.分配, 任务",used,1,1,2026-10-31,2026-10-31,story-0001,任务
+assume,assume,vt.假定; 承担; 呈现 | v.假定;承担;呈现 | v.假定;假设 | v. 假设;承担(责任),used,1,1,2026-10-31,2026-10-31,story-0005,假定
+assumption,assumption,n.假定; 担任 | n.假定;设定,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0003,猜测 | 假设
+attach,attach,"v.系上, 贴上, 附加 | v. 固定;附上,认为有重要性",used,1,1,2026-10-31,2026-10-31,story-0001,附上
+attendant,attendant,n.服务员,used,1,1,2026-10-31,2026-10-31,story-0005,侍从
+attraction,attraction,n.吸引旅游胜地,used,1,1,2026-10-31,2026-10-31,story-0003,吸引
+authentic,authentic,adj.真正的;可靠的 | adj.真正的;真实的 | adj. 真正的;真实的,used,3,3,2026-10-31,2026-10-31,story-0004 | story-0005 | story-0006,真实的
+authority,authority,"n.权威, 权威人 | n.权力;权威",used,5,5,2026-10-31,2026-10-31,story-0001 | story-0002 | story-0004 | story-0005 | story-0006,权限 | 权威 | 职权
+authorize,authorize,"v. 批准,授权",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0005,授权
+automatic,automatic,adj.自动的,used,1,1,2026-10-31,2026-10-31,story-0003,自动的
+autonomy,autonomy,n.自治;自治权,used,1,1,2026-10-31,2026-10-31,story-0003,自主权
+available,available,"a.可利用的 | adj.可获得的;有空的 | adj.可用的;有空的 | adj. 可用的,可获得的",used,1,1,2026-10-31,2026-10-31,story-0001,可取用的
+award,award,vt.授予n.奖 | n.奖品;奖金 | n.奖;薪水v.授予;奖励,used,1,1,2026-10-31,2026-10-31,story-0002,奖项
+background,background,n.背景,used,1,1,2026-10-31,2026-10-31,story-0001,背景（此处指电话那头的环境声）
+balance,balance,n.平衡;平稳 | n.平衡;余额v.保持平衡,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0007,平衡 | 结平账目
+balcony,balcony,n.阳台; 楼厅 | n. 阳台,used,1,1,2026-10-31,2026-10-31,story-0005,露台
+ballot,ballot,n.投票;投票选举v.投票,used,1,1,2026-10-31,2026-10-31,story-0004,投票
+bandage,bandage,n.绷带v.用绷带包扎,used,1,1,2026-10-31,2026-10-31,story-0007,绷带
+banquet,banquet,n.宴会,used,1,1,2026-10-31,2026-10-31,story-0005,宴会
+barrier,barrier,"n.屏障;障碍 | n. 障碍,屏障",used,3,3,2026-10-31,2026-10-31,story-0002 | story-0005 | story-0007,屏障 | 隔栏
+battery,battery,n. 电池;一系列,used,1,1,2026-10-31,2026-10-31,story-0003,电池
+belief,belief,n.信仰;信心,used,1,1,2026-10-31,2026-10-31,story-0007,信仰
+below,below,prep.在...下面;低于,used,1,2,2026-10-31,2026-10-31,story-0001,在……下方
+betray,betray,"v.出卖;背叛;泄露;辜负 | v.背叛;泄露 | v. 背叛,泄露",used,1,1,2026-10-31,2026-10-31,story-0006,背叛
+beyond,beyond,prep. 超出,used,1,1,2026-10-31,2026-10-31,story-0001,越过
+bias,bias,n.偏见 vt.使有偏见 | n.偏⻅;偏爱v.使有偏⻅;使偏向 | n.偏⻅,used,1,1,2026-10-31,2026-10-31,story-0003,偏差
+bind,bind,vt.捆绑; 使结合; 约束 | v. 捆绑 n.窘境,used,1,1,2026-10-31,2026-10-31,story-0007,系牢
+bitter,bitter,adj.苦的;痛苦的;怨恨的;严寒的,used,1,1,2026-10-31,2026-10-31,story-0005,苦的
+blame,blame,"v.责怪;把...归咎于n.责任 | v.责怪 | v. 责怪,把...归咎于 n.责备",used,1,1,2026-10-31,2026-10-31,story-0001,责怪
+blank,blank,adj.空白的n.空白,used,1,1,2026-10-31,2026-10-31,story-0005,空白的
+block,block,"n.大块;街区;大楼;障碍物v.堵住;拦截 | n. 阻碍,障碍;街区 v.阻碍",used,1,1,2026-10-31,2026-10-31,story-0007,堵住
+board,board,"n.板;董事会;伙⻝;膳⻝v.登上(船、⻋、⻜机);寄宿 | n. 木板,董事会",used,1,2,2026-10-31,2026-10-31,story-0001,显示牌 | 木板
+border,border,n.边缘; 边界; v.近似 | n. 边界 v.与...毗邻,used,1,1,2026-10-31,2026-10-31,story-0006,边境
+boundary,boundary,"n.边界 | n.分界线;边界 | n. 边界,界限",used,1,1,2026-10-31,2026-10-31,story-0003,界限
+breathe,breathe,v. 呼吸,used,2,2,2026-10-31,2026-10-31,story-0005 | story-0007,呼吸
+bribe,bribe,n.贿赂,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0004,贿赂
+budget,budget,n.预算 | n.预算v.把...编入预算adj.价格低廉的,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,预算
+burden,burden,n.负荷;负担 | n.负担;重担,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0005,重担 | 负担
+cable,cable,n.电缆 vt.给...发电报 | n.电缆;缆绳;电报 | n. 电缆,used,1,1,2026-10-31,2026-10-31,story-0002,缆绳
+cage,cage,n.笼;⻦笼,used,1,1,2026-10-31,2026-10-31,story-0007,笼子
+calculate,calculate,v.计算;估计,used,1,1,2026-10-31,2026-10-31,story-0004,计算
+cancel,cancel,v.取消;抵消;划掉,used,1,1,2026-10-31,2026-10-31,story-0003,取消
+capacity,capacity,"n.容量, 能力 | n.容量;能力 | n. 能力;容积",used,2,2,2026-10-31,2026-10-31,story-0006 | story-0007,容量 | 排水能力
+capital,capital,"n.资本;首都;大写字母 | n.首都;资金;大写字母adj.资本的 | n. 首都,资本,启动资金,大写字母",used,1,1,2026-10-31,2026-10-31,story-0006,首都
+ceremony,ceremony,"n.典礼;仪式 | n. 典礼,仪式",used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,仪式 | 典礼
+chain,chain,n.链;链条;一连串v.用锁链拴,used,1,1,2026-10-31,2026-10-31,story-0007,铁链
+challenge,challenge,n/v.挑战 | n./v.挑战,used,1,1,2026-10-31,2026-10-31,story-0002,挑战
+channel,channel,"n.频道; 沟渠 | n. 渠道,途径 v.输送",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,水道
+charge,charge,"n.收费;控告;掌管;电荷v.收费;控诉;充电 | v. 充电,收费,对...负责,上诉 n.电荷,负责,收 费,指控",used,1,1,2026-10-31,2026-10-31,story-0006,指控
+choice,choice,n.选择;挑选,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0007,选择
+citizen,citizen,n.市⺠ | n.公⺠ | n. 公民,used,1,1,2026-10-31,2026-10-31,story-0002,市民
+claim,claim,"v./n.宣称;声称;索取 | n.宣言;断言 | v. 声称 n.声明,索赔",used,1,3,2026-10-31,2026-10-31,story-0001,认领
+clue,clue,"n.提示;线索 | n.线索;提示 | n. 线索,提示",used,1,1,2026-10-31,2026-10-31,story-0001,线索
+coastal,coastal,adj. 海岸的,used,1,1,2026-10-31,2026-10-31,story-0007,沿海的
+code,code,"n.密码;道德准则;法典v.为...编码 | n. 密码,代码;行为准则",used,1,1,2026-10-31,2026-10-31,story-0003,代码
+collapse,collapse,"n.倒塌, 暴跌 | v./n.倒塌;崩溃 | n.倒坍;崩溃 | v. 倒塌,崩溃",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,坍塌
+colleague,colleague,n.同事 | n.同事;同僚,used,1,1,2026-10-31,2026-10-31,story-0001,同事
+collective,collective,a.集体的n.集体 | adj. 集体的;共同的,used,3,3,2026-10-31,2026-10-31,story-0003 | story-0004 | story-0007,共同的 | 集体
+command,command,v.命令n.指示;命令 | n.命令;指令,used,3,3,2026-10-31,2026-10-31,story-0003 | story-0005 | story-0006,命令
+commander,commander,n.司令官;指挥官,used,1,1,2026-10-31,2026-10-31,story-0005,指挥官
+commitment,commitment,n.承诺; 信奉 | n.承诺;保证,used,1,1,2026-10-31,2026-10-31,story-0003,承诺
+communal,communal,adj.社区的,used,1,1,2026-10-31,2026-10-31,story-0007,公用的
+community,community,"n.社区, 社团 | n.社区;社会;社团 | n. 社区,团体;界",used,3,3,2026-10-31,2026-10-31,story-0001 | story-0002 | story-0007,社区
+compass,compass,n. 指南针,used,1,1,2026-10-31,2026-10-31,story-0007,指南针
+compassion,compassion,n. 同情;怜悯,used,1,1,2026-10-31,2026-10-31,story-0006,怜悯
+compatible,compatible,adj.兼容的;和睦共处的;志趣相投的 | adj.兼容的 | adj. 兼容的,used,1,1,2026-10-31,2026-10-31,story-0003,相合的
+compensate,compensate,v.补偿,used,1,1,2026-10-31,2026-10-31,story-0006,补偿
+compensation,compensation,n.赔偿,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,赔偿
+competition,competition,"n.竞争, 比赛",used,1,1,2026-10-31,2026-10-31,story-0004,竞争
+complete,complete,v.完成;使完整,used,1,1,2026-10-31,2026-10-31,story-0001,完成的
+compromise,compromise,v./n.妥协;和解 | n./v.妥协,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0006,折中办法 | 折中方案 | 妥协
+compulsory,compulsory,adj.强制性的;必修的;义务的 | adj.强制的;必修的,used,1,1,2026-10-31,2026-10-31,story-0003,强制的
+conceal,conceal,v.隐藏;隐瞒,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0002,藏起 | 遮掩
+concern,concern,"v.涉及; 使关心 n.担心 | n.关心v.使担心 | v. 涉及,担忧 n.关心,担心",used,1,1,2026-10-31,2026-10-31,story-0001,担心
+conclude,conclude,"v.推断出, 得出结论 | v.推断出;总结",used,1,1,2026-10-31,2026-10-31,story-0006,得出结论
+condemn,condemn,v.谴责;指责;判刑 | v.谴责;宣判 | v. 谴责,used,1,1,2026-10-31,2026-10-31,story-0006,判罪
+confess,confess,v.坦白; 承认 | v.承认;坦白,used,1,1,2026-10-31,2026-10-31,story-0001,坦白
+confidential,confidential,a.秘密的; 表示信任,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0006,保密的
+confirm,confirm,vt.证实; 批准 | v.确认;确定;批准 | v.证实;确认 | v. 证实;使坚定,used,1,1,2026-10-31,2026-10-31,story-0001,确认
+conflict,conflict,n.争执;冲突 | n./v.冲突;斗争 | v. 冲突 n. 冲突,used,1,1,2026-10-31,2026-10-31,story-0001,争执
+confront,confront,v.面对;对抗 | v.正视;直面 | v. 面临;对峙,used,1,1,2026-10-31,2026-10-31,story-0006,直面
+connection,connection,n.关系;联系,used,1,1,2026-10-31,2026-10-31,story-0001,联系
+conscience,conscience,n.良心;道德心 | n.良心,used,1,1,2026-10-31,2026-10-31,story-0006,良心
+consciousness,consciousness,n.意识;知觉;观念,used,1,1,2026-10-31,2026-10-31,story-0005,意识
+consensus,consensus,"n.一致, 一致同意 | n. 共识,一致的意见",used,1,1,2026-10-31,2026-10-31,story-0004,共识
+consent,consent,n./v.同意;赞成 | v./n. 同意,used,4,4,2026-10-31,2026-10-31,story-0001 | story-0002 | story-0003 | story-0007,同意
+consequence,consequence,"n.结果;后果 | n.结果;重要(性) | n. 结果,影响 考前必备高分词",used,3,3,2026-10-31,2026-10-31,story-0002 | story-0003 | story-0006,后果
+consider,consider,"v.仔细考虑;认为 | v. 仔细考虑,认为",used,1,1,2026-10-31,2026-10-31,story-0001,仔细思考
+consistent,consistent,"a.坚持的; 一致的 | adj.一致的;连续的 | adj.始终如一的 | adj. 一致的,持续的,始终如一的",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0006,一致的
+construction,construction,n.建筑;建筑物,used,1,1,2026-10-31,2026-10-31,story-0007,建筑物
+contain,contain,v.包含 | v.包含;容纳,used,1,1,2026-10-31,2026-10-31,story-0001,装有
+contaminate,contaminate,v.污染 | v.污染;弄脏;腐蚀 | v. 污染;弄脏,used,1,1,2026-10-31,2026-10-31,story-0004,污染
+contract,contract,n.合同 | n.合同;契约v.缩小;感染 | v. 缩小;感染 n.合同,used,3,3,2026-10-31,2026-10-31,story-0003 | story-0004 | story-0007,合同 | 契约
+contradict,contradict,v.反驳;与...矛盾 | v.反驳;相矛盾 | v. 反驳;相反,used,1,1,2026-10-31,2026-10-31,story-0006,反驳
+contrast,contrast,n.对比;对照 | v./n.对比;对照 | n./v. 对比,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,对比 | 反差
+convince,convince,v.使确信;使信服,used,1,1,2026-10-31,2026-10-31,story-0007,说服
+cooperate,cooperate,v.合作;协作 | v. 合作,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0007,合作
+cooperation,cooperation,n.合作;协助,used,1,1,2026-10-31,2026-10-31,story-0001,配合
+coordinate,coordinate,v.(使)协调;搭配n.坐标 | v.搭配adj.同等的 | v. 使协调;使相互配合,used,1,1,2026-10-31,2026-10-31,story-0002,协调
+corrupt,corrupt,adj.贪污的v.使腐化;使堕落 | adj.腐败的v.使堕落,used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,贪腐的
+costume,costume,n. 服装;戏服,used,1,1,2026-10-31,2026-10-31,story-0004,戏服
+council,council,"n.委员会, 理事会 | n.理事会;委员会 | n.委员会;地方议会",used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,议事会 | 委员会
+counter,counter,n.柜台;对立面adj.反面的v.反驳,used,1,5,2026-10-31,2026-10-31,story-0001,柜台
+crack,crack,n.裂缝;缝隙v.(使)破裂,used,1,1,2026-10-31,2026-10-31,story-0002,裂缝
+craft,craft,n.工艺;手艺;⻜行器,used,1,1,2026-10-31,2026-10-31,story-0004,手艺
+cream,cream,n.奶油;乳脂;奶油色,used,1,1,2026-10-31,2026-10-31,story-0005,稀奶油
+credible,credible,"adj. 可行的,可靠的",used,2,2,2026-10-31,2026-10-31,story-0004 | story-0005,可信的
+credit,credit,"n.信用, 信誉v.相信 | n.信用;信用贷款 | n.信用;借款;贷款 | n. 信用,学分",used,1,1,2026-10-31,2026-10-31,story-0004,信用
+critical,critical,adj.关键的 | adj.批判的;极其重要的 | adj.批评的;严重的,used,1,1,2026-10-31,2026-10-31,story-0002,关键的
+crown,crown,n.王冠;冕;花冠;桂冠;冠军,used,1,1,2026-10-31,2026-10-31,story-0006,王冠
+crucial,crucial,"adj.至关重要的 | adj.关键性的;至关重要的 | adj. 关键性的,至关重要的",used,1,1,2026-10-31,2026-10-31,story-0002,至关重要的
+cuisine,cuisine,"/n.烹饪 , 菜肴 | n. 菜肴",used,1,1,2026-10-31,2026-10-31,story-0005,菜肴
+currency,currency,n.货币;通用 | n.货币;通行,used,1,1,2026-10-31,2026-10-31,story-0004,货币
+current,current,"a.当前的 , 流通的 | adj. 当前的,流行的",used,1,1,2026-10-31,2026-10-31,story-0002,水流
+damage,damage,"n./v. 伤害,损害",used,1,1,2026-10-31,2026-10-31,story-0007,损坏
+damp,damp,adj.潮湿的;微湿的n.潮湿;湿气,used,1,1,2026-10-31,2026-10-31,story-0004,潮湿的
+deadline,deadline,n. 最后期限,used,1,1,2026-10-31,2026-10-31,story-0001,截止时间
+debate,debate,"n.争论;辩论 | n./v.讨论;辩论 | v./n. 辩论,讨论",used,1,1,2026-10-31,2026-10-31,story-0006,辩论
+debt,debt,n.负债 | n.债务;欠款 | n. 债务;借款,used,1,1,2026-10-31,2026-10-31,story-0001,欠款
+deceive,deceive,vt.欺骗 | v.欺骗;蒙骗 | v. 欺骗,used,1,1,2026-10-31,2026-10-31,story-0003,欺骗
+defect,defect,n.缺陷;缺点 | n.缺点;瑕疵,used,1,1,2026-10-31,2026-10-31,story-0003,缺陷
+defend,defend,"v.辩护;保卫 | v. 保卫;防御,为...辩解",used,2,2,2026-10-31,2026-10-31,story-0001 | story-0005,为……辩解 | 为自己辩护
+deficit,deficit,n.赤字 | n.赤字;亏损 | n. 赤字;亏损,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,赤字
+delay,delay,v./n.延迟;延期 | n.延期;延误 | v. 延迟,used,1,1,2026-10-31,2026-10-31,story-0001,耽搁
+delete,delete,v.删除 | v. 删除,used,1,1,2026-10-31,2026-10-31,story-0003,删除
+deliberate,deliberate,adj.故意的;不慌不忙的v.仔细考虑 | adj.故意的v.深思 | adj. 故意的 v.深思熟虑,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0006,有意安排的 | 故意的
+deliver,deliver,"v.递送;发表;分娩;接生 | v.传达;递送 | v. 传送,发表(讲话)",used,1,2,2026-10-31,2026-10-31,story-0001,递送
+demand,demand,n.所需事物;需求,used,1,1,2026-10-31,2026-10-31,story-0001,要求
+departure,departure,n.离开;启程,used,1,1,2026-10-31,2026-10-31,story-0001,发车
+deposit,deposit,"n.存款 vt.使沉淀 | v.储存;放置n.订金;存 | n.存款;押金 | n. 定金,沉积物 v.沉积,寄存",used,1,1,2026-10-31,2026-10-31,story-0004,保证金
+depth,depth,n.深度) | n.深;深度,used,1,1,2026-10-31,2026-10-31,story-0007,深度
+desire,desire,n.渴望;欲望 | v./n. 渴望,used,1,1,2026-10-31,2026-10-31,story-0003,愿望
+desperate,desperate,adj.不顾一切的;绝望的,used,1,1,2026-10-31,2026-10-31,story-0002,绝望的
+destination,destination,n.目的;终点 | n.目的地,used,1,1,2026-10-31,2026-10-31,story-0001,目的地
+detail,detail,n.详情;全部细节 | n.细节;详情,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0006,详细情况 | 细节
+detect,detect,"v.查明;检测 | v. 发现,查明",used,2,2,2026-10-31,2026-10-31,story-0005 | story-0007,发现
+device,device,n.装置; 策略 | n.装置;设备;方法;手段 | n. 设备;装置,used,1,1,2026-10-31,2026-10-31,story-0003,设备
+diagnose,diagnose,v.诊断 | v. 诊断,used,1,1,2026-10-31,2026-10-31,story-0005,诊断
+diagnosis,diagnosis,n.诊断;判断,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0005,诊断结论 | 诊断结果
+diagram,diagram,"n.图解, 简图, 图表",used,1,1,2026-10-31,2026-10-31,story-0002,示意图
+dignity,dignity,n.尊严;尊贵;高尚,used,4,4,2026-10-31,2026-10-31,story-0002 | story-0005 | story-0006 | story-0007,尊严
+disclose,disclose,"v.透露 | v. 泄露,揭露",used,1,1,2026-10-31,2026-10-31,story-0004,披露
+discount,discount,n.折扣 | n.折扣v.打折,used,1,1,2026-10-31,2026-10-31,story-0004,折扣
+discrimination,discrimination,"n.区别, 歧视 | n.歧视;辨别;区别;识别",used,1,1,2026-10-31,2026-10-31,story-0003,区别对待
+distinction,distinction,n.差别;优秀;荣誉,used,1,1,2026-10-31,2026-10-31,story-0001,区别
+distinguish,distinguish,"v. 区分,辨别",used,2,2,2026-10-31,2026-10-31,story-0001 | story-0003,区分
+distribute,distribute,"v.分配 | v.分布;发散 | v. 分配,分发",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,分发 | 分配
+dizzy,dizzy,adj.头晕目眩的;眩晕的,used,1,1,2026-10-31,2026-10-31,story-0005,头晕的
+document,document,n.文件 | v. 记录 n.文件,used,3,3,2026-10-31,2026-10-31,story-0001 | story-0002 | story-0005,文件
+domestic,domestic,"a.家庭的, 国内 | adj.国内的;家庭的;驯养的 | adj.本国的;国内的 | adj. 本国的,家用的,驯养的",used,1,1,2026-10-31,2026-10-31,story-0004,国内的
+dose,dose,"n. 一次,(药)一剂",used,1,1,2026-10-31,2026-10-31,story-0005,剂量
+doubt,doubt,"n.疑惑;疑问 | v. 怀疑,不确定",used,1,1,2026-10-31,2026-10-31,story-0007,疑问
+drain,drain,v.排空;流出n.下水道;排水管 | v.排走n.下水道;排水管,used,1,1,2026-10-31,2026-10-31,story-0002,排出
+drainage,drainage,n.排水;排水系统,used,1,1,2026-10-31,2026-10-31,story-0004,排水系统
+drawer,drawer,n.抽屉;开票人;出票人,used,1,1,2026-10-31,2026-10-31,story-0001,抽屉
+drown,drown,v.淹死;溺死;淹没,used,1,1,2026-10-31,2026-10-31,story-0007,溺死
+dust,dust,n.灰尘;尘土;粉末,used,1,1,2026-10-31,2026-10-31,story-0001,灰尘
+echo,echo,n.回声;反响v.发出回声,used,1,1,2026-10-31,2026-10-31,story-0004,回声
+edge,edge,n.边缘;优势,used,1,1,2026-10-31,2026-10-31,story-0001,边缘
+elderly,elderly,adj.年纪较大的n.老人,used,1,1,2026-10-31,2026-10-31,story-0001,年长的
+eliminate,eliminate,"v.消除, 排除 | v.排除;消除;淘汰 | v.排除;淘汰 | v. 淘汰,消除",used,1,1,2026-10-31,2026-10-31,story-0007,消除
+emerge,emerge,"vi. (考频; 暴露 | v.出现;浮现;暴露;摆脱 | v.浮现;显露 | v. 出现,显现",used,1,1,2026-10-31,2026-10-31,story-0007,露出
+emergency,emergency,"n.紧急情况;突发事件adj.紧急的 | n. 紧急情况,突发事件",used,1,1,2026-10-31,2026-10-31,story-0001,应急的
+emotion,emotion,n.情感;情绪,used,1,1,2026-10-31,2026-10-31,story-0003,情绪
+emperor,emperor,n.皇帝,used,1,1,2026-10-31,2026-10-31,story-0006,皇帝
+empty,empty,adj. 空的,used,1,3,2026-10-31,2026-10-31,story-0001,空着的
+enclose,enclose,v.围住,used,1,1,2026-10-31,2026-10-31,story-0001,随信附上
+energy,energy,n.活力;精力;能源;能量,used,1,1,2026-10-31,2026-10-31,story-0007,精力
+enforce,enforce,"v.强制实施;强制执行;强迫 | v.强制;执行 | v. 强制执行,强迫",used,1,1,2026-10-31,2026-10-31,story-0003,执行
+enquiry,enquiry,(亦作inquiry)n.询问;调查;探索,used,1,1,2026-10-31,2026-10-31,story-0001,询问（收件人身份）
+entry,entry,n.入口;进入;登记;条目 | n.入口;登记;进入,used,1,1,2026-10-31,2026-10-31,story-0001,条目
+envelope,envelope,n.信封,used,1,2,2026-10-31,2026-10-31,story-0001,信封
+equality,equality,n.相等;等同;平等 | n.均等;平等,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0006,平等
+equivalent,equivalent,adj.等价的;相等的n.等价物;等量,used,1,1,2026-10-31,2026-10-31,story-0004,等量的
+erase,erase,v.擦掉;抹去;清除,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0006,抹去
+escape,escape,v./n.逃跑;漏出 | v.逃跑;逃脱;避开,used,1,1,2026-10-31,2026-10-31,story-0007,逃生
+esteem,esteem,n./v.尊重,used,1,1,2026-10-31,2026-10-31,story-0007,尊重
+estimate,estimate,"v.估算, 估计 | v.估计;估算 | v.估计;估价",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0004,估计 | 估算
+evacuate,evacuate,v. 疏散;转移,used,1,1,2026-10-31,2026-10-31,story-0002,撤离
+eventually,eventually,"adv.最后, 终于",used,1,1,2026-10-31,2026-10-31,story-0001,终于
+evidence,evidence,n.证据;证明 | n.证据,used,4,5,2026-10-31,2026-10-31,story-0001 | story-0003 | story-0006 | story-0007,证据
+exact,exact,adj.准确的;确切的,used,1,1,2026-10-31,2026-10-31,story-0004,确切的
+examine,examine,v.审查;检验,used,1,1,2026-10-31,2026-10-31,story-0005,检查
+exhausted,exhausted,adj.筋疲力尽的;耗尽的,used,1,1,2026-10-31,2026-10-31,story-0007,筋疲力尽的
+exhibit,exhibit,v.表现;显示 | v.展览;展出;表现;显出 | v. 展出;表现,used,1,1,2026-10-31,2026-10-31,story-0001,展览
+expand,expand,"v.扩张; 胀 | v. 扩大,扩展",used,1,1,2026-10-31,2026-10-31,story-0004,膨胀
+expect,expect,v. 预期,used,1,1,2026-10-31,2026-10-31,story-0001,预料
+expense,expense,n.花费,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,费用
+experiment,experiment,n.实验v.做实验,used,1,1,2026-10-31,2026-10-31,story-0003,实验
+explanation,explanation,n.阐述,used,2,4,2026-10-31,2026-10-31,story-0001 | story-0007,说明 | 解释
+explicit,explicit,a.详述的明晰的明确的 | adj.明确的;详述的 | adj.明确的;清楚的,used,1,1,2026-10-31,2026-10-31,story-0003,明确的
+export,export,v/n.出口物) | n.出口(物)v.出口,used,1,1,2026-10-31,2026-10-31,story-0004,出口
+expose,expose,vt.暴露; 揭露 | v.暴露;揭露 | v.暴露 | v. 暴露,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0003,揭露
+fabric,fabric,"n.织物;布料;结构 | n. (社会/机构)结构;织物,布料",used,1,1,2026-10-31,2026-10-31,story-0004,织物
+fabricate,fabricate,v.捏造;制造 | v. 编造;制造,used,1,1,2026-10-31,2026-10-31,story-0005,捏造
+fade,fade,v.(使)褪色;淡出;逐渐消失 | v.逐渐消失;变得脆弱,used,1,1,2026-10-31,2026-10-31,story-0001,褪色的
+failure,failure,n.失败,used,1,1,2026-10-31,2026-10-31,story-0002,失败
+fair,fair,adj.公平的;公正的;适当的n.集市,used,1,1,2026-10-31,2026-10-31,story-0006,公正的
+familiar,familiar,adj. 熟悉的,used,1,1,2026-10-31,2026-10-31,story-0001,熟悉的
+fare,fare,n.⻋费;船费v.进展 | n.票价 | n. 票价,used,1,1,2026-10-31,2026-10-31,story-0001,车费
+fate,fate,n.命运,used,1,1,2026-10-31,2026-10-31,story-0007,命运
+fatigue,fatigue,"n.疲劳;劳累 | n. 疲劳,劳累",used,1,1,2026-10-31,2026-10-31,story-0007,疲劳
+fault,fault,n.错误;故障 | n.缺点;过失;故障,used,1,1,2026-10-31,2026-10-31,story-0003,错误
+fear,fear,n./v.害怕,used,1,1,2026-10-31,2026-10-31,story-0001,害怕
+feedback,feedback,n.反馈意见;回复 | n.反馈 | n. 反馈,used,1,1,2026-10-31,2026-10-31,story-0003,反馈
+ferry,ferry,n.渡船v.摆渡 | n. 渡船 v.运送;渡运,used,1,1,2026-10-31,2026-10-31,story-0007,渡船
+festival,festival,n.节日,used,1,1,2026-10-31,2026-10-31,story-0004,节庆
+financial,financial,"a.财政的, 金融的",used,1,1,2026-10-31,2026-10-31,story-0006,财政的
+finger,finger,"n. 手指 v.告发,拨弄",used,1,1,2026-10-31,2026-10-31,story-0001,手指
+finish,finish,"v. 完成,结束",used,1,1,2026-10-31,2026-10-31,story-0001,完成
+flavor,flavor,"n. 味道,特色 v.给...调味",used,1,1,2026-10-31,2026-10-31,story-0005,风味
+float,float,v.浮动;漂浮,used,1,1,2026-10-31,2026-10-31,story-0007,漂浮
+flour,flour,n. 面粉,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0005,面粉
+fog,fog,n. 雾,used,1,1,2026-10-31,2026-10-31,story-0007,雾
+forbid,forbid,v.禁止;不许;阻止,used,1,1,2026-10-31,2026-10-31,story-0002,禁止
+forge,forge,v.伪造;锻造;稳步前进,used,1,1,2026-10-31,2026-10-31,story-0005,伪造
+fortune,fortune,"n. 运气,财富",used,1,1,2026-10-31,2026-10-31,story-0002,运气
+foundation,foundation,n.创办;基础 | n.基础;地基;基金会 | n.基金会;基础,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,地基
+fraction,fraction,n.小部分;分数,used,1,1,2026-10-31,2026-10-31,story-0004,部分
+fragile,fragile,"adj. 脆弱的,易碎的",used,1,2,2026-10-31,2026-10-31,story-0001,易碎的
+fraud,fraud,"n.欺诈; 骗子 | n.欺诈;骗子 | n. 诈骗,骗子",used,3,3,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0006,欺诈
+gather,gather,"v.收集;增加 | v.聚集;集合v.收集 | v. 聚集,聚合",used,1,1,2026-10-31,2026-10-31,story-0001,收集
+generous,generous,"adj.慷慨的;大量的 | adj. 慷慨的,大方的",used,1,1,2026-10-31,2026-10-31,story-0006,慷慨的
+genuine,genuine,"adj.真正的 | adj.真的;真诚的 | adj. 真正的,真诚的",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0004,真实的 | 真正的
+govern,govern,"v. 统治,支配",used,1,1,2026-10-31,2026-10-31,story-0006,统治
+governor,governor,n.主管;董事;总裁,used,1,1,2026-10-31,2026-10-31,story-0002,地方长官
+grain,grain,n. 谷物;粮食,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0006,粮食
+guarantee,guarantee,v.确保 | n./v.保证;担保 | v./n. 保证,used,3,3,2026-10-31,2026-10-31,story-0001 | story-0005 | story-0007,保证
+guard,guard,"n.警卫, 看守 | v./n.保卫;看守 | v. 守卫",used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,卫兵 | 卫士
+guilty,guilty,adj.羞愧的;内疚的,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0002,有罪的
+handle,handle,"v.应付, 处理 | v. 处理,应付 n.把手",used,1,1,2026-10-31,2026-10-31,story-0001,把手
+harbor,harbor,"n. 海港,港口",used,1,1,2026-10-31,2026-10-31,story-0007,海港
+harmony,harmony,n.融洽;和谐 | n. 和睦;和谐,used,1,1,2026-10-31,2026-10-31,story-0007,和谐
+hesitate,hesitate,v.犹豫;不情愿 | v. 犹豫,used,1,1,2026-10-31,2026-10-31,story-0001,犹豫
+hollow,hollow,a.空洞的; 虚伪的 | adj.空的;空心的;凹陷的;虚伪的,used,1,1,2026-10-31,2026-10-31,story-0004,中空的
+honour,honour,(亦作honor)n.荣幸;尊敬;敬意v.尊敬,used,1,1,2026-10-31,2026-10-31,story-0005,表彰
+hook,hook,"n.钩, 钩状物 vt.钩住",used,1,1,2026-10-31,2026-10-31,story-0007,钩子
+humble,humble,"adj.谦逊的 | adj. 谦逊的,卑微",used,1,1,2026-10-31,2026-10-31,story-0002,地位卑微的
+hypothesis,hypothesis,"n.假说, 前提 | n.假说 | n. 假说,假定",used,1,1,2026-10-31,2026-10-31,story-0005,假说
+identical,identical,adj.相同的,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0004,完全相同的
+identify,identify,"v.鉴定认出发现 | v.确认;认出;鉴定 | v. 确认,识别",used,1,1,2026-10-31,2026-10-31,story-0001,确认身份
+imperial,imperial,adj.帝国的;(度量衡)英制的,used,1,1,2026-10-31,2026-10-31,story-0006,皇家的
+implication,implication,n.暗示 | n.可能的影响;暗指;牵涉 | n.暗指;暗示,used,1,1,2026-10-31,2026-10-31,story-0005,含意
+independent,independent,adj.独立的,used,1,1,2026-10-31,2026-10-31,story-0003,独立的
+individual,individual,"adj.个人的 n.个人 | adj. 个人的,独特的",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0004,个人
+infer,infer,v.推断;推论,used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,推断
+ingredient,ingredient,n.成分配料要素 | n.部分;原料 | n. 成分;原料,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0005,原料 | 配料
+innocent,innocent,adj.无辜的;清白的;无罪的,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0005 | story-0006,无罪的 | 无辜的
+input,input,"n./v.输入;投入 | v. 输入(信息),投入(时间/精力)",used,1,1,2026-10-31,2026-10-31,story-0003,输入内容
+insist,insist,"v.坚持;坚持要求 | v. 坚持,坚决要求",used,1,1,2026-10-31,2026-10-31,story-0001,坚持说
+inspect,inspect,v.检查;视察;检阅 | v. 检查,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0007,检查
+instead,instead,"adv. 代替,反而",used,1,3,2026-10-31,2026-10-31,story-0001,转而（采取另一种做法）
+institution,institution,"n.社会公共机构 | n.机构;制度;习俗 | n.制度;习俗 | n. 机构,建立",used,1,1,2026-10-31,2026-10-31,story-0006,机构
+instruction,instruction,n.教授;指示;命令 | n.指示;指导,used,1,2,2026-10-31,2026-10-31,story-0001,操作要求
+integrity,integrity,"n.完整, 正直, 诚实 | n.完整;诚实;正直 | n.完整;完好 | n. 正直;诚实",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0005,诚信 | 完整性
+intention,intention,n.打算;意图,used,1,1,2026-10-31,2026-10-31,story-0006,意图
+interval,interval,n.间隔;休息时间 | n. 间隔;间隙,used,1,1,2026-10-31,2026-10-31,story-0005,间隔
+intimate,intimate,"adj.亲密的v.透露n.密友 | adj. 亲密的,",used,1,1,2026-10-31,2026-10-31,story-0003,亲密的
+introduce,introduce,"v. 介绍,引进",used,1,1,2026-10-31,2026-10-31,story-0001,介绍
+invalid,invalid,a.无效的; n.病人,used,1,1,2026-10-31,2026-10-31,story-0005,无效的
+investigation,investigation,n.调查,used,1,1,2026-10-31,2026-10-31,story-0007,调查
+iron,iron,n.铁;熨斗v.熨;烫平adj.坚强的,used,1,1,2026-10-31,2026-10-31,story-0004,铁
+irrational,irrational,adj.不合理的,used,1,1,2026-10-31,2026-10-31,story-0003,不理性的
+item,item,"n.一项, 一条; 条款 | n.条款;一条;项目 | n. 物品,项目",used,1,2,2026-10-31,2026-10-31,story-0001,物品
+jam,jam,n.堵塞;拥挤;果酱,used,1,1,2026-10-31,2026-10-31,story-0002,堵塞
+justice,justice,"n.公正; 司法 | n.公正;正义;司法 | n. 公正,公平",used,4,4,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0005 | story-0006,公正
+knot,knot,n.绳结;痉挛v.把...打成结,used,1,1,2026-10-31,2026-10-31,story-0007,绳结
+label,label,n.标签 | n.标签;标记v.贴标签于... | n. 标签 v.贴标签于...,used,2,3,2026-10-31,2026-10-31,story-0001 | story-0004,标签
+law,law,n.法律;定律,used,1,1,2026-10-31,2026-10-31,story-0006,法律
+leak,leak,v. (使) 漏; 泄露,used,1,1,2026-10-31,2026-10-31,story-0004,渗漏
+legal,legal,"adj.法律的;合法的 | adj. 法律的,合法的",used,3,3,2026-10-31,2026-10-31,story-0004 | story-0005 | story-0006,法律的
+legitimate,legitimate,"adj.合理的v.使合法 | adj. 合法的,正当合理的",used,1,1,2026-10-31,2026-10-31,story-0004,正当的
+levy,levy,v. 征税 n. 税款,used,1,1,2026-10-31,2026-10-31,story-0004,征收
+liberty,liberty,n.自由,used,1,1,2026-10-31,2026-10-31,story-0006,自由
+lid,lid,n.盖子,used,1,1,2026-10-31,2026-10-31,story-0001,盖子
+light,light,n.光线; v.照亮,used,1,1,2026-10-31,2026-10-31,story-0001,灯（用于照明）
+liquid,liquid,n.液体adj.液体的 | n. 液体,used,1,1,2026-10-31,2026-10-31,story-0005,液体
+loan,loan,n.贷款 vt.借出 | n.贷款;借出v.借出,used,1,1,2026-10-31,2026-10-31,story-0004,借款
+local,local,"adj. 本地的,地方的",used,1,2,2026-10-31,2026-10-31,story-0001,当地的
+logical,logical,adj.符合逻辑的;合乎情理的,used,1,1,2026-10-31,2026-10-31,story-0005,合乎逻辑的
+loyalty,loyalty,n.忠诚;忠实,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0006,忠诚
+machine,machine,n.机器;机械装置 | n. 机器,used,1,1,2026-10-31,2026-10-31,story-0007,机器
+maintenance,maintenance,n.维护;保养,used,1,1,2026-10-31,2026-10-31,story-0004,维修
+majority,majority,n.大部分;大多数 | n.多数;大多数,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,多数 | 多数人
+manipulate,manipulate,v.操作;操纵 | v.操纵 | v. 操纵;操作,used,1,1,2026-10-31,2026-10-31,story-0003,操纵
+manufacture,manufacture,"v.制造, 虚构 | v.(用机器大量)生产;制造n.批量生产 | v.捏造n.制造品 | n./v. 制造;生产",used,1,1,2026-10-31,2026-10-31,story-0004,制造
+manuscript,manuscript,n. 手稿,used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,手写原稿 | 手稿
+margin,margin,"n.边缘, 利润, 余地 | n边缘;⻚边的空白 | n. 边缘,页面空白;差额",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0005,空白处 | 页边空白
+marine,marine,adj.海洋的;海运的 | adj.海洋的;海产的,used,1,1,2026-10-31,2026-10-31,story-0007,海洋的
+match,match,n. 比赛 v.相匹配,used,1,1,2026-10-31,2026-10-31,story-0001,与……相符
+material,material,n.材料;原料,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0005,材料
+mean,mean,"adj. 吝啬的 v.意思是,打算",used,1,1,2026-10-31,2026-10-31,story-0001,意味着
+measure,measure,v. 测量 n.措施,used,3,3,2026-10-31,2026-10-31,story-0004 | story-0006 | story-0007,测量
+measurement,measurement,n.测量;尺寸,used,1,1,2026-10-31,2026-10-31,story-0002,测量
+medicine,medicine,n.药;医学,used,1,1,2026-10-31,2026-10-31,story-0005,药物
+merchant,merchant,n.商人 | n.商人;批发商 | n. 商人,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0004,商人 | 商贩
+mercy,mercy,n.仁慈;慈悲;恩惠 | n.仁慈;恩惠,used,1,1,2026-10-31,2026-10-31,story-0006,仁慈
+merit,merit,n.优点;⻓处;功绩,used,1,1,2026-10-31,2026-10-31,story-0002,优点
+metal,metal,n.金属 | n. 金属,used,1,1,2026-10-31,2026-10-31,story-0001,金属
+military,military,adj军事的;军用的,used,1,1,2026-10-31,2026-10-31,story-0006,军事的
+minister,minister,n.部⻓;大臣,used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,大臣
+minority,minority,n.少数; 少数民族 | n.少数;少数⺠族,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,少数人
+mission,mission,n.任务;使命;使团 | n. 任务;使命,used,1,1,2026-10-31,2026-10-31,story-0003,任务
+moisture,moisture,n.潮气;水分,used,1,1,2026-10-31,2026-10-31,story-0004,水分
+monopoly,monopoly,n.垄断 | n. 垄断,used,1,1,2026-10-31,2026-10-31,story-0004,垄断企业
+motive,motive,"n.动机, 目的",used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,动机
+municipal,municipal,adj.市政的;城市的 | adj.市政的 | adj. 市政的,used,1,1,2026-10-31,2026-10-31,story-0004,市政的
+mutual,mutual,a.相互的; 共同的 | adj.相互的;共同的 | adj.相互的,used,1,1,2026-10-31,2026-10-31,story-0003,相互的
+myth,myth,n. 神话,used,1,1,2026-10-31,2026-10-31,story-0007,神话
+narrow,narrow,adj.狭窄的;狭隘的;勉强的,used,1,1,2026-10-31,2026-10-31,story-0001,狭窄的
+natural,natural,adj.天然的;自然的; | adj.自然界的;天然的;天生的;正常的,used,1,1,2026-10-31,2026-10-31,story-0007,自然的
+nature,nature,n.大自然; 天性,used,1,1,2026-10-31,2026-10-31,story-0007,自然
+navigate,navigate,v.导航;航行,used,1,1,2026-10-31,2026-10-31,story-0007,航行
+neat,neat,"adj.整洁的;简洁的;纯的 | adj. 整洁的,整齐的",used,1,1,2026-10-31,2026-10-31,story-0001,整齐的
+negotiate,negotiate,"v.谈判, 协商 | v.谈判;协商 | v. 协商,谈判",used,4,4,2026-10-31,2026-10-31,story-0002 | story-0003 | story-0004 | story-0006,协商
+noble,noble,adj.贵族的;高尚的;宏伟的,used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,贵族 | 贵族的
+nutrition,nutrition,n.营养 | n. 营养,used,1,1,2026-10-31,2026-10-31,story-0005,营养
+obey,obey,"v.服从;遵守 | v. 服从,遵从",used,1,1,2026-10-31,2026-10-31,story-0003,服从
+object,object,"n.物体;目标v.反对 | v. 反对 n.物体,目标",used,1,1,2026-10-31,2026-10-31,story-0001,物品
+obligation,obligation,n.义务;责任,used,4,4,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0006 | story-0007,职责 | 义务
+obstacle,obstacle,"n.障碍;障碍物 | n. 障碍,障碍物",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,障碍物
+obvious,obvious,adj.显然的 | adj.明显的;显然的 | adj. 明显的,used,1,1,2026-10-31,2026-10-31,story-0005,明显的
+offer,offer,v. 提供 n.提议,used,1,3,2026-10-31,2026-10-31,story-0001,主动提出
+omit,omit,v.省略;删掉;遗漏,used,1,1,2026-10-31,2026-10-31,story-0006,省略
+oppose,oppose,v.反对;抵制 | v.反对;反抗 | v.反对;阻止 | v. 反对,used,1,1,2026-10-31,2026-10-31,story-0003,反对
+option,option,n.选择权),used,2,2,2026-10-31,2026-10-31,story-0003 | story-0007,选项 | 选择
+ordinary,ordinary,adj.平常的;平凡的,used,1,1,2026-10-31,2026-10-31,story-0001,寻常的
+origin,origin,n.起源;开端 | n.起源;起因,used,1,1,2026-10-31,2026-10-31,story-0005,来源
+original,original,adj.原来的;起初的 | adj.原来的;首创的,used,3,3,2026-10-31,2026-10-31,story-0001 | story-0005 | story-0006,原始的 | 原来的
+outcome,outcome,"n.结果, 成果 | n. 结果",used,1,1,2026-10-31,2026-10-31,story-0006,结果
+output,output,n.产量; 输出 vt.输出 | n.产量;输出,used,1,1,2026-10-31,2026-10-31,story-0003,输出结果
+oxygen,oxygen,n.氧气 | n. 氧气,used,1,1,2026-10-31,2026-10-31,story-0007,氧气
+pack,pack,v.包装;(把...)打包n.包裹;捆;小盒;一伙,used,1,3,2026-10-31,2026-10-31,story-0001,打包 | 打包好的
+parcel,parcel,n.包裹;邮包;一块地,used,1,3,2026-10-31,2026-10-31,story-0001,包裹
+particular,particular,"adj.特殊的;特定的;挑剔的 | adj. 特别的,挑剔的",used,1,1,2026-10-31,2026-10-31,story-0001,特定的
+path,path,n.路径;小道;道路,used,1,1,2026-10-31,2026-10-31,story-0001,小路
+pattern,pattern,n.模式;方式;范例;图案 | n. 模式,used,1,1,2026-10-31,2026-10-31,story-0002,纹样
+pay,pay,v.付款;交款,used,1,1,2026-10-31,2026-10-31,story-0001,支付
+payment,payment,n.支付的款项;支付,used,1,1,2026-10-31,2026-10-31,story-0004,付款
+penalty,penalty,n.惩罚 | n.惩罚;处罚;刑罚 | n.处罚;罚金 | n. 处罚;惩罚,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0004,惩罚 | 处罚
+permanent,permanent,"a.永久的 | adj.永久的;⻓久的 | adj.永久的;固定的 | adj. 永久的,长久的",used,2,2,2026-10-31,2026-10-31,story-0001 | story-0002,永久的
+permission,permission,n.许可,used,1,1,2026-10-31,2026-10-31,story-0001,许可
+personality,personality,"n.性格, 人格 | n.个性;性格",used,1,1,2026-10-31,2026-10-31,story-0003,性格
+persuade,persuade,v.劝说;说服 | v. 说服;使信服,used,1,1,2026-10-31,2026-10-31,story-0001,说服
+photograph,photograph,n. 照片 v.拍照,used,1,6,2026-10-31,2026-10-31,story-0001,照片
+physician,physician,"n.医师, 内科医生",used,1,1,2026-10-31,2026-10-31,story-0005,医师
+platform,platform,n.平台 | n.平台;站台;讲台;纲领 | n. 平台,used,1,2,2026-10-31,2026-10-31,story-0001,站台
+plausible,plausible,adj. 有道理的;花言巧语的,used,1,1,2026-10-31,2026-10-31,story-0005,貌似合理的
+poison,poison,n.毒药,used,1,1,2026-10-31,2026-10-31,story-0005,毒药
+political,political,adj.政治的 | adj.政治的;党派的,used,1,1,2026-10-31,2026-10-31,story-0006,政治的
+porcelain,porcelain,n. 瓷器,used,1,1,2026-10-31,2026-10-31,story-0005,瓷器
+port,port,n.港;港口;港口城市,used,1,1,2026-10-31,2026-10-31,story-0007,港口
+portion,portion,n.部分v.分配 | n.部分;一份 | n.一部分v.分配,used,1,1,2026-10-31,2026-10-31,story-0005,份
+possibility,possibility,n.可能,used,1,1,2026-10-31,2026-10-31,story-0001,可能性
+potential,potential,"n.潜力 a.潜在的 | adj.可能的;潜在的n.可能性;潜力 | adj. 潜在的,可能的",used,1,1,2026-10-31,2026-10-31,story-0003,潜力
+practical,practical,adj.有用的;实际的,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0005,实用的 | 切实可行的
+precaution,precaution,n.预防措施 | n.预防;警惕 | n. 预防措施,used,1,1,2026-10-31,2026-10-31,story-0007,预防措施
+predict,predict,"v.预测;预言 | v.预言;预测 | v. 预测,预言",used,1,1,2026-10-31,2026-10-31,story-0003,预测
+preference,preference,n.偏爱;喜爱 | n.偏爱,used,1,1,2026-10-31,2026-10-31,story-0003,偏好
+prejudice,prejudice,n.偏⻅;成⻅ | n.偏⻅v.使有成⻅ | n. 偏见;歧视,used,1,1,2026-10-31,2026-10-31,story-0006,成见
+preserve,preserve,"v.保护;维持;保存 | v. 维护,保护",used,3,3,2026-10-31,2026-10-31,story-0001 | story-0002 | story-0006,保存
+previous,previous,"a.先前的 | adj.以前的 | adj. 先前的,以往的",used,1,1,2026-10-31,2026-10-31,story-0001,以前的
+priest,priest,n.牧师;神父;祭司,used,1,1,2026-10-31,2026-10-31,story-0007,祭司
+principle,principle,"n.原则 , 原理 | n.原则 | n. 原则,原理",used,1,1,2026-10-31,2026-10-31,story-0005,原则
+priority,priority,n.优先 | n.优先;优先权,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0005,首要事务 | 优先权
+prison,prison,n.监狱;监禁,used,1,1,2026-10-31,2026-10-31,story-0006,监狱
+privacy,privacy,n.隐私,used,1,1,2026-10-31,2026-10-31,story-0003,隐私
+private,private,a.私人的,used,1,1,2026-10-31,2026-10-31,story-0003,私人的
+privilege,privilege,"n.特权 | n.特权;优惠 | n.特权;荣幸 | n. 特权,优惠",used,1,1,2026-10-31,2026-10-31,story-0006,特权
+procedure,procedure,n.程序;步骤,used,1,1,2026-10-31,2026-10-31,story-0005,程序
+profit,profit,n.利润 vt.有益于,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0006,利润
+prohibit,prohibit,vt.禁止 | v.禁止;阻止,used,1,1,2026-10-31,2026-10-31,story-0005,禁止
+proof,proof,n.证明;证据adj.防...的,used,1,2,2026-10-31,2026-10-31,story-0001,证明
+proper,proper,"adj.正确的;恰当的;合乎体统的 | adj. 适当的,恰当的",used,1,1,2026-10-31,2026-10-31,story-0001,正确的
+property,property,n.财产; 性质 | n.财产;资产;性质 | n. 财产;特性,used,1,1,2026-10-31,2026-10-31,story-0001,财物（此处指失物）
+proportion,proportion,n.比例; 部分; 均 | n.比例;部分 | n. 比例,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,比例
+proposal,proposal,n.提议;建议 | n.提议;求婚,used,1,1,2026-10-31,2026-10-31,story-0001,提议
+prosperity,prosperity,n.繁荣;昌盛;兴旺,used,1,1,2026-10-31,2026-10-31,story-0004,兴旺
+publish,publish,"v.发布;出版 | v. 出版,发行",used,1,1,2026-10-31,2026-10-31,story-0003,公布
+pump,pump,v.用泵输送;涌出 | n.泵v.用泵输送,used,1,1,2026-10-31,2026-10-31,story-0007,水泵
+punctual,punctual,adj.按时的;准时的 | adj. 准时的,used,1,1,2026-10-31,2026-10-31,story-0005,准时的
+quantity,quantity,n.数量;大量,used,1,1,2026-10-31,2026-10-31,story-0004,数量
+raise,raise,"v. 举起,提升,筹款,抚养",used,1,1,2026-10-31,2026-10-31,story-0001,举起
+rank,rank,n. 级别 v.把...分等级,used,1,1,2026-10-31,2026-10-31,story-0006,品级
+ratio,ratio,n.比率;比例 | n. 比率;比例,used,1,1,2026-10-31,2026-10-31,story-0004,比率
+rational,rational,"a.理性的 , 合理 | adj.合理的;理性的 | adj.合理的 | adj. 合理的",used,3,3,2026-10-31,2026-10-31,story-0003 | story-0005 | story-0007,理性的 | 合理的
+recipe,recipe,n.烹饪法;⻝谱;秘诀,used,1,1,2026-10-31,2026-10-31,story-0005,食谱
+recognize,recognize,"v.承认;辨别 | v.识别出;承认 | v. 认出,识别",used,1,1,2026-10-31,2026-10-31,story-0001,认出
+record,record,n.记录;案,used,3,3,2026-10-31,2026-10-31,story-0001 | story-0003 | story-0005,记录
+reform,reform,"n.改革, 改良 | v./n.改良;改革 | n.改革;变革;改良 | v./ n. 改革",used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,改革
+refuge,refuge,n.避难所;庇护,used,1,1,2026-10-31,2026-10-31,story-0002,避难处
+refund,refund,n.退款v.退还 | v. 退还 n.退款,used,1,1,2026-10-31,2026-10-31,story-0004,退款
+refuse,refuse,v.拒绝,used,1,1,2026-10-31,2026-10-31,story-0007,拒绝
+register,register,v.登记n.登记簿 | v.登记;注册n.登记簿 | n.登记本v.登记,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0005,登记簿
+regulation,regulation,n.规章 | n.章程;规章制度,used,1,1,2026-10-31,2026-10-31,story-0004,规章
+reinforce,reinforce,v.增援;加强;巩固 | v.增强 | v. 加强;加固,used,1,1,2026-10-31,2026-10-31,story-0002,加固
+reject,reject,v.拒绝 | v.拒绝;拒绝接受 | v. 拒绝,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0007,拒绝
+relationship,relationship,"n.关系, 联系",used,1,1,2026-10-31,2026-10-31,story-0003,关系
+release,release,"v.释放, 发布 | v.发布;释放;解雇 | v. 释放,发泄 n.发布",used,2,2,2026-10-31,2026-10-31,story-0004 | story-0007,释放 | 放走
+relevant,relevant,adj.有关的;有意义的 | adj.相关的,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0003,有关的 | 相关的
+reliable,reliable,adj.可靠的 | adj.可信赖的;可靠的,used,1,1,2026-10-31,2026-10-31,story-0001,可信的
+relief,relief,n.解脱;救济,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0002,如释重负 | 宽慰
+religious,religious,adj.宗教的;虔诚的,used,1,1,2026-10-31,2026-10-31,story-0007,宗教的
+reluctant,reluctant,"adj.不情愿的;勉强的 | adj. 不情愿的,勉强的",used,1,1,2026-10-31,2026-10-31,story-0001,不情愿的
+remain,remain,"v. 保持,继续",used,1,2,2026-10-31,2026-10-31,story-0001,留在 | 剩余的
+repair,repair,"v. 修理,修补",used,3,4,2026-10-31,2026-10-31,story-0001 | story-0002 | story-0007,修理 | 维修工作 | 修复
+repay,repay,v.归还;报答,used,1,1,2026-10-31,2026-10-31,story-0004,偿还
+represent,represent,"vt.象征; 描绘; 代表 | v.代表;陈述 | v. 展现,代表",used,1,1,2026-10-31,2026-10-31,story-0001,意味着
+representative,representative,adj.典型的;有代表性的n.代表 | n.代表adj.典型的,used,1,1,2026-10-31,2026-10-31,story-0004,代表
+reputation,reputation,"n.名誉;名声 | n. 名声,名誉",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0005,名声
+requirement,requirement,n.要求,used,1,1,2026-10-31,2026-10-31,story-0003,要求
+rescue,rescue,vt./n.营救 | v./n.援救;营救 | v. 救援;营救,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,营救
+reserve,reserve,"v.保留预定保护区 | v.预定;保留 | v. 预定,保留 n.保护区",used,1,1,2026-10-31,2026-10-31,story-0004,储备金
+reservoir,reservoir,n. 蓄水池,used,1,1,2026-10-31,2026-10-31,story-0002,蓄水池
+resident,resident,adj.定居的n.居民 | n.居⺠adj.居住的 | n.居⺠,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0002,居民
+resign,resign,"v.辞职 | v. 辞去,辞职",used,1,1,2026-10-31,2026-10-31,story-0006,辞职
+resist,resist,"v.抵抗;反抗 | v. 反对,抵制",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0003,抵抗 | 抵制
+resource,resource,n. 资源,used,1,1,2026-10-31,2026-10-31,story-0007,资源
+respond,respond,"v.回应;应对 | v. 回复,作出反应",used,1,1,2026-10-31,2026-10-31,story-0001,回复
+response,response,n.回答; 反应,used,1,1,2026-10-31,2026-10-31,story-0001,回应
+responsible,responsible,a.有责任感的,used,1,1,2026-10-31,2026-10-31,story-0002,负有责任的
+restore,restore,"vt.恢复; 修复; 归还 | v.恢复;归还;修复 | v.恢复;归还 | v. 恢复,修复",used,4,4,2026-10-31,2026-10-31,story-0001 | story-0002 | story-0004 | story-0006,修复 | 恢复
+retire,retire,"vi.退休, 退役; 退出就寝 | v. 退休",used,1,2,2026-10-31,2026-10-31,story-0001,退休
+retreat,retreat,v./n.后退;撤退;躲避 | v./n.撤退 | v./n. 撤退;后退 n.隐居处,used,1,1,2026-10-31,2026-10-31,story-0006,撤退
+reveal,reveal,"v.揭示, 显示 | v.揭示;暴露 | v.揭露;展现 | v. 揭露,揭示",used,1,1,2026-10-31,2026-10-31,story-0001,揭示
+revenue,revenue,"n.收入, 税收 | n.财政收入;税收 | n.收入;税收 | n. 收益,收入",used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,收入 | 财政收入
+revise,revise,v.修订;修改;复习n.校订 | v. 复习;修改,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0005 | story-0006,修改 | 修订
+reward,reward,n.报答;奖赏;酬金,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0003,奖赏 | 奖励
+risk,risk,n.危险 vt.冒...的危险,used,1,1,2026-10-31,2026-10-31,story-0007,风险
+rival,rival,n.对手;竞争者v.竞争 | n. 竞争对手 v.与...相匹敌,used,1,1,2026-10-31,2026-10-31,story-0004,对手
+romantic,romantic,adj.浪漫的,used,1,1,2026-10-31,2026-10-31,story-0003,浪漫的
+rope,rope,n.粗绳;绳索v.用绳捆,used,1,1,2026-10-31,2026-10-31,story-0007,粗绳
+rotate,rotate,v.旋转;轮流,used,1,1,2026-10-31,2026-10-31,story-0002,转动
+route,route,n.路线;途径 | n. 固定路线,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0005 | story-0007,路线
+royal,royal,adj.王室的;皇家的;盛大的 | adj. 皇家的,used,2,2,2026-10-31,2026-10-31,story-0005 | story-0006,王室的
+sacred,sacred,adj.神圣的;宗教(性)的 | adj. 神圣的,used,1,1,2026-10-31,2026-10-31,story-0007,神圣的
+sacrifice,sacrifice,v.牺牲;祭献n.牺牲;祭品 | n.牺牲;祭品;献祭 | v./n. 牺牲,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,祭品
+sail,sail,n.帆;船v.航行,used,1,1,2026-10-31,2026-10-31,story-0007,帆
+sample,sample,n.样品 | n. 样本,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0005,样本 | 样品
+sanitation,sanitation,n. 公共卫生,used,1,1,2026-10-31,2026-10-31,story-0004,公共卫生
+scent,scent,n.香味;气息;察觉v.嗅出;察觉出 | n.香味;踪迹v.嗅到,used,1,1,2026-10-31,2026-10-31,story-0005,气味
+schedule,schedule,"n.日程安排v.安排 | n. 日程安排;时刻表 v.安排,预定",used,1,1,2026-10-31,2026-10-31,story-0005,日程表
+scholar,scholar,n.学者,used,1,1,2026-10-31,2026-10-31,story-0002,读书人
+score,score,"n. 得分,比分",used,1,1,2026-10-31,2026-10-31,story-0003,分数
+scrape,scrape,"v.刮, 擦n.; 刮痕",used,1,1,2026-10-31,2026-10-31,story-0001,摩擦发出刺耳声
+screen,screen,"n. 屏幕 v.筛检,保护",used,1,1,2026-10-31,2026-10-31,story-0003,屏幕
+seal,seal,n.封条; 图章 | n.密封;印章;海豹v.密封 | n.封条;图章;海豹,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0006,密封着的 | 印章
+secret,secret,"adj/ n . 秘密的,机密的 n.秘密",used,1,1,2026-10-31,2026-10-31,story-0006,秘密
+secure,secure,a.安全的 vt.得到; 使安全 | adj. 安全的,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0007,固定好 | 固定
+select,select,"vt选择a.精选的; | v. 选择,挑选",used,1,1,2026-10-31,2026-10-31,story-0003,选择
+separate,separate,adj.不同的 | adj.单独的;分开的v.(使)分开;分离,used,1,1,2026-10-31,2026-10-31,story-0003,分开的
+sequence,sequence,n.顺序;次序 | n. 顺序,used,1,1,2026-10-31,2026-10-31,story-0005,顺序
+servant,servant,n.仆人;佣人;职员,used,1,1,2026-10-31,2026-10-31,story-0005,仆役
+sewage,sewage,n.污水;下水道,used,1,1,2026-10-31,2026-10-31,story-0004,污水
+shallow,shallow,adj.浅的;肤浅的;弱的 | adj. 肤浅的,used,1,1,2026-10-31,2026-10-31,story-0007,浅的
+sharp,sharp,adj. 锋利的;急剧的;鲜明的,used,1,1,2026-10-31,2026-10-31,story-0001,急促的
+sheet,sheet,"n.床单, 一张, 薄片 | n.被单;纸张;薄板;一张;一大片",used,1,3,2026-10-31,2026-10-31,story-0001,纸页（此处为值班表） | 张（纸）
+shelf,shelf,n.架子;搁板;大陆架,used,1,2,2026-10-31,2026-10-31,story-0001,架子
+shelter,shelter,n住所; 庇护所v.庇护 | n.庇护处v.躲避;保护 | n. 避难所 v.保护,used,1,1,2026-10-31,2026-10-31,story-0001,避寒处
+shore,shore,n.岸;滨,used,1,1,2026-10-31,2026-10-31,story-0007,岸边
+shortage,shortage,n.不足;缺少 | n.不足;缺少;短缺,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0006,短缺
+signal,signal,v.标志;表明;预示n.信号 | n. 信号 v.预示,used,1,1,2026-10-31,2026-10-31,story-0002,信号
+simply,simply,adv.仅仅;浅显地;简直,used,1,1,2026-10-31,2026-10-31,story-0001,直接就（不经其他手续）
+sincere,sincere,"adj.真诚的;诚挚的;诚实的 | adj. 真诚的,诚实的",used,1,1,2026-10-31,2026-10-31,story-0003,真诚的
+sink,sink,v.(使)下沉n.水池;水槽 | v. 下沉,used,1,1,2026-10-31,2026-10-31,story-0007,下沉
+software,software,n.软件,used,1,1,2026-10-31,2026-10-31,story-0003,软件
+soldier,soldier,n.军人;士兵;战士,used,1,1,2026-10-31,2026-10-31,story-0006,士兵
+solid,solid,adj.固体的;结实的;可靠的n.固体,used,1,1,2026-10-31,2026-10-31,story-0004,坚实的
+sovereign,sovereign,n. 君主 adj.有主权的,used,1,1,2026-10-31,2026-10-31,story-0006,君主
+stable,stable,"a.稳定的, 稳重的 | adj.稳定的;牢固的 | adj.稳定的n.⻢厩 | adj. 稳定的,稳重的",used,1,1,2026-10-31,2026-10-31,story-0007,稳固的
+staff,staff,n.全体职员;职工,used,1,2,2026-10-31,2026-10-31,story-0001,员工
+stair,stair,n.楼梯,used,1,1,2026-10-31,2026-10-31,story-0005,台阶
+statistics,statistics,n.统计学;统计数字,used,1,1,2026-10-31,2026-10-31,story-0003,统计学
+status,status,"n.状况;地位 | n.地位;身份;状况 | n. 地位,状况",used,1,1,2026-10-31,2026-10-31,story-0006,地位
+statute,statute,n. 法令,used,1,1,2026-10-31,2026-10-31,story-0006,法令
+steady,steady,"a.平稳的; 稳固的 | adj.稳定的;稳固的 | adj. 稳定的,持续的",used,1,1,2026-10-31,2026-10-31,story-0002,稳定的
+steer,steer,v.驾驶;行驶;引导;控制 | v.驾驶;引导;掌(舵),used,1,1,2026-10-31,2026-10-31,story-0002,掌舵
+stock,stock,"n.储备 | n.股票 | n. 股票,库存 v.储存",used,1,1,2026-10-31,2026-10-31,story-0004,存货
+storm,storm,n. 暴风雨,used,1,1,2026-10-31,2026-10-31,story-0007,暴风雨
+strength,strength,n.力量;毅力实力;⻓处,used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,力量
+structure,structure,"n.结构, 构造 vt.建造 | n.结构;构造;建筑物",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0007,建筑结构 | 结构
+submit,submit,"v.屈服; 提交; 主张 | v.呈递;提交;服从 | v.提交 | v. 顺从,提交",used,1,1,2026-10-31,2026-10-31,story-0001,提交
+subsidy,subsidy,n.补助金;津贴,used,1,1,2026-10-31,2026-10-31,story-0004,补助款
+substitute,substitute,"n.代替者;替代品v.用...代替adj.替代性的 | v.替代 | n. 代替物 v.代替,取代",used,1,1,2026-10-31,2026-10-31,story-0005,替代品
+sufficient,sufficient,"a.足够的 | adj.足够的;充分的 | adj. 充足的,足够的",used,2,2,2026-10-31,2026-10-31,story-0001 | story-0002,足够的
+superstition,superstition,n. 迷信,used,1,1,2026-10-31,2026-10-31,story-0002,迷信
+supervisor,supervisor,n.主管,used,1,1,2026-10-31,2026-10-31,story-0001,主管
+supply,supply,"v.提供, 供应",used,1,1,2026-10-31,2026-10-31,story-0001,储备
+surplus,surplus,"n. 过剩,盈余 adj.过剩的;剩余的",used,3,3,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0006,余粮 | 盈余
+surveillance,surveillance,n. 监视,used,1,1,2026-10-31,2026-10-31,story-0003,监视
+survival,survival,n.幸存; 幸存者,used,1,1,2026-10-31,2026-10-31,story-0007,生存
+survive,survive,"v.生存;比...活得久 | v. 幸存,生存",used,1,1,2026-10-31,2026-10-31,story-0001,延续下来
+suspect,suspect,v.怀疑 n.嫌疑犯 | v.怀疑n.嫌疑犯 | v.推测n.可疑分子 | v. 怀疑 n.嫌疑人,used,1,1,2026-10-31,2026-10-31,story-0001,怀疑
+swift,swift,a.迅速的; 敏捷的,used,1,1,2026-10-31,2026-10-31,story-0002,迅速的
+sympathetic,sympathetic,adj.同情的;赞同的,used,1,1,2026-10-31,2026-10-31,story-0003,同情的
+symptom,symptom,"n.征兆 , 症状 | n.症状;征兆 | n. 症状;征兆",used,1,1,2026-10-31,2026-10-31,story-0005,症状
+target,target,"n.目标, 靶子 vt.瞄准",used,1,1,2026-10-31,2026-10-31,story-0003,目标
+tax,tax,n. 税,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0006,税 | 税款
+temporary,temporary,a.暂时的 | adj.暂时的;临时的 | adj.暂时的;短暂的 | adj. 临时的;暂时的,used,2,2,2026-10-31,2026-10-31,story-0001 | story-0002,临时的
+tension,tension,n.紧张 | n.紧张;拉紧;张力,used,1,1,2026-10-31,2026-10-31,story-0007,张力
+terminate,terminate,v. 使停止,used,1,1,2026-10-31,2026-10-31,story-0003,终止
+territory,territory,"n.领土;领域 | n.领土;版图 | n. 领土,领地",used,1,1,2026-10-31,2026-10-31,story-0006,领土
+terror,terror,n.恐怖;惊骇;小捣蛋,used,1,1,2026-10-31,2026-10-31,story-0007,恐惧
+testimony,testimony,"n.证明 | n. 证明,证词",used,4,4,2026-10-31,2026-10-31,story-0002 | story-0004 | story-0005 | story-0006,证词
+texture,texture,n.质地;构造,used,1,1,2026-10-31,2026-10-31,story-0005,质地
+thief,thief,n.小偷;贼,used,1,1,2026-10-31,2026-10-31,story-0001,小偷
+though,though,conj.虽然;尽管,used,1,1,2026-10-31,2026-10-31,story-0001,虽然
+thought,thought,n.思想;思考;想法;关心,used,1,1,2026-10-31,2026-10-31,story-0001,想法
+threat,threat,n.威胁,used,1,1,2026-10-31,2026-10-31,story-0003,威胁
+threaten,threaten,"v.威胁, 恐吓 | v.威胁;恐吓",used,1,1,2026-10-31,2026-10-31,story-0002,威胁
+throat,throat,n.咽喉;喉咙,used,1,1,2026-10-31,2026-10-31,story-0005,喉咙
+throne,throne,"n. 宝座,王位",used,1,1,2026-10-31,2026-10-31,story-0006,王位
+throw,throw,v.投;抛;掷;扔,used,1,1,2026-10-31,2026-10-31,story-0001,扔掉
+thumb,thumb,n.拇指v.示意要求搭⻋,used,1,1,2026-10-31,2026-10-31,story-0001,拇指
+thunder,thunder,n.雷(声)v.打雷;怒吼,used,1,1,2026-10-31,2026-10-31,story-0007,雷声
+tolerance,tolerance,n.忍受;宽容;忍受,used,1,1,2026-10-31,2026-10-31,story-0003,宽容
+torch,torch,n.火炬;火把;手电筒,used,1,1,2026-10-31,2026-10-31,story-0002,火把
+toxic,toxic,adj.有毒的 | adj. 有毒的,used,1,1,2026-10-31,2026-10-31,story-0005,有毒的
+trace,trace,n.痕迹v.追踪;追溯 | v. 追溯 n.踪迹,used,1,1,2026-10-31,2026-10-31,story-0005,追查
+transaction,transaction,n.交易;办理 | n. 交易,used,1,1,2026-10-31,2026-10-31,story-0004,交易
+transfer,transfer,"n.转移, 调任 | v./n.转移;搬迁 | v.转移;调动;转学n.转移;调动;转学 | v. 转移,调动",used,1,1,2026-10-31,2026-10-31,story-0001,转移
+transparent,transparent,adj.透明的;显而易⻅的 | adj.显然的 | adj. 透明的,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0005,透明的
+treatment,treatment,n.治疗;处理 | n.疗法;治疗,used,1,1,2026-10-31,2026-10-31,story-0005,治疗
+treaty,treaty,n.条约;协议;协定,used,1,1,2026-10-31,2026-10-31,story-0007,协议
+trial,trial,n.审讯;试验;考验,used,1,1,2026-10-31,2026-10-31,story-0005,审理
+triumph,triumph,"n.胜利;成功v.战胜 | n. 成功,胜利 v.战胜",used,1,1,2026-10-31,2026-10-31,story-0002,成功
+tunnel,tunnel,n.隧道 | n.隧道;坑道;地道,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0007,隧道
+unconscious,unconscious,adj.不省人事的;无意识的,used,1,1,2026-10-31,2026-10-31,story-0005,失去知觉的
+valid,valid,adj.有效的;正当的,used,1,1,2026-10-31,2026-10-31,story-0003,有效的
+vanish,vanish,"vi.消失; 不复存在 | v.突然不⻅;消失 | v.消失;不复存在 | v. 消失,消亡",used,1,1,2026-10-31,2026-10-31,story-0007,消失
+variable,variable,n.变量adj.多变的;易变的 | adj.易变的n.变量,used,1,1,2026-10-31,2026-10-31,story-0003,变量
+verdict,verdict,n. 裁决,used,3,3,2026-10-31,2026-10-31,story-0002 | story-0005 | story-0006,裁决
+verify,verify,"v.核实;查证 | v.证实;核实 | v. 核实,证明",used,2,2,2026-10-31,2026-10-31,story-0003 | story-0004,核实
+version,version,n.版本;样式;说法,used,1,1,2026-10-31,2026-10-31,story-0006,版本
+vessel,vessel,"n.容器, 血管 , 船",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0006,船 | 船舶
+victim,victim,"n.牺牲品, 受害者 | n.受害者;罹难者",used,1,1,2026-10-31,2026-10-31,story-0007,牺牲者
+violate,violate,vt.违反; 侵犯 | v.侵犯;违反;违背 | v.违反;亵渎;侵犯 | v. 违反,used,1,1,2026-10-31,2026-10-31,story-0005,违反
+volume,volume,n.卷;册;量;体积;音量 | n. 体积;(书籍的)卷;音量,used,2,2,2026-10-31,2026-10-31,story-0004 | story-0006,容积 | 卷
+voluntary,voluntary,adj.自愿的;志愿的,used,1,1,2026-10-31,2026-10-31,story-0003,自愿的
+volunteer,volunteer,"n. 志愿者,义工",used,1,1,2026-10-31,2026-10-31,story-0001,自愿帮忙
+voyage,voyage,"v./n.航行;航海 | n. 旅行,远行",used,1,1,2026-10-31,2026-10-31,story-0007,航程
+warehouse,warehouse,n.仓库,used,1,1,2026-10-31,2026-10-31,story-0002,仓库
+weave,weave,v.编织,used,1,1,2026-10-31,2026-10-31,story-0004,编织
+welfare,welfare,"n.福利 | n.福利;幸福 | n. 幸福,福利",used,2,2,2026-10-31,2026-10-31,story-0002 | story-0004,福祉 | 福利
+whisper,whisper,n.耳语;谣传v.耳语;低语,used,1,1,2026-10-31,2026-10-31,story-0001,低声
+withdraw,withdraw,vt.提取 vi.撤退 | v.撤回;退出;收回;提;取 | v.撤回;撤退 | v. 撤回;退出,used,2,2,2026-10-31,2026-10-31,story-0003 | story-0004,退出 | 提取
+withstand,withstand,v.承受;经受住 | v. 承受;经受住,used,1,1,2026-10-31,2026-10-31,story-0002,承受
+witness,witness,"n.目击者; 证据 vt.目击 | n.目击者;证人v.目击 | v. 见证,目击 n.目击者",used,3,3,2026-10-31,2026-10-31,story-0001 | story-0002 | story-0006,证人
+worthy,worthy,"a.值得的; 可尊敬的 | adj. 有价值的,值得...的",used,1,1,2026-10-31,2026-10-31,story-0002,值得尊重的
+wound,wound,n.(身体或心灵上的)伤;伤口,used,1,1,2026-10-31,2026-10-31,story-0007,伤口

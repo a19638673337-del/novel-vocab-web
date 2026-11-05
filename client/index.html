@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#28483d">
+  <meta name="description" content="在小说的语境里读词、记词、复习。支持词卡、生词本、英文填空与阅读进度保存。">
+  <title>全站书架 · ToTo趣味英语</title>
+  <link rel="stylesheet" href="./styles.css?v=prose1">
+  <link rel="stylesheet" href="./portal.css?v=prose1">
+  <link rel="stylesheet" href="./gaokao.css?v=prose1">
+  <link rel="stylesheet" href="./ielts.css?v=prose1">
+  <link rel="stylesheet" href="./kaoyan.css?v=prose1">
+  <link rel="stylesheet" href="./cet.css?v=prose1">
+  <script type="module" src="./app.mjs?v=prose1"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main" data-action="skip-content">跳到正文</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#library-catalog" aria-label="ToTo趣味英语，返回全站书架"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M5 6c5-1 8 0 11 3 3-3 6-4 11-3v21c-5-1-8 0-11 3-3-3-6-4-11-3Z"/><path d="M16 9v21M9 12l3 1m8 0 3-1M9 17l3 1m8 0 3-1"/></svg><span>ToTo趣味英语</span><small>在故事里，记住单词</small></a>
+      <nav aria-label="主导航"><a href="#library-catalog" data-nav="library-catalog">总览</a><a href="#cet" data-nav="cet">四六级</a><a href="#notebook" data-nav="notebook">生词本<span id="nav-count">0</span></a><a href="#review" data-nav="review">复习</a><a href="#membership" data-nav="membership" aria-label="会员中心">会员</a></nav>
+      <button class="icon-btn settings-trigger" data-action="settings" aria-label="阅读设置与备份" title="阅读设置与备份">•••</button>
+    </div>
+  </header>
+  <div id="storage-notice" class="storage-notice" hidden role="status"></div>
+  <main id="main" class="page" tabindex="-1"></main>
+  <footer class="site-footer"><span>ToTo趣味英语 <span class="footer-dot">·</span> 让每个单词都有故事</span><button class="text-btn" data-action="source">内容说明</button><span>学习记录保存在当前浏览器</span></footer>
+  <dialog id="modal" aria-labelledby="modal-title"><div id="modal-content"></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript><p>请启用JavaScript以使用词卡、填空和生词本。</p></noscript>
+</body>
+</html>

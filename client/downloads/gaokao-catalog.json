@@ -1,0 +1,2175 @@
+{
+  "source": "https://novel.quwanclass.com/gaokao/",
+  "sourceAsset": "https://novel.quwanclass.com/assets/index-ZA2_A_vG.js",
+  "courseUrl": "https://novel.quwanclass.com/gaokao/",
+  "capturedDate": "2026-10-31",
+  "scope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+  "notes": "仅解析数据字面量和JSON字符串，未执行第三方脚本，未请求需登录的正文或懒加载正文块。chapters.sourceAvailable仅保留原目录标记，不代表本站已导入或可以阅读。",
+  "course": "高中",
+  "sourceKind": "public-catalog",
+  "contentAccess": "metadata-only",
+  "books": [
+    {
+      "id": "gaokao-book-01",
+      "no": 1,
+      "title": "被困雨夜，腹黑资本家向我单膝臣服",
+      "genre": null,
+      "intro": "江城连绵的午夜，冰冷的细雨斜打在顶层套房巨大的玻璃落地",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-01.jpg",
+      "chapterCount": 4,
+      "wordCount": 67,
+      "chapters": [
+        {
+          "id": "story-001",
+          "no": 1,
+          "title": "交锋",
+          "wordCount": 21,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-002",
+          "no": 2,
+          "title": "试探",
+          "wordCount": 18,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-003",
+          "no": 3,
+          "title": "禁锢",
+          "wordCount": 15,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-004",
+          "no": 4,
+          "title": "沉沦",
+          "wordCount": 13,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 67
+      },
+      "sourceId": "book-01",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 67
+    },
+    {
+      "id": "gaokao-book-02",
+      "no": 2,
+      "title": "狠戾黑帮大佬×娇软落难留学生",
+      "genre": null,
+      "intro": "伦敦的冬日，天空被设定成了一片阴郁的铅灰，仿佛随时会坠",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-02.jpg",
+      "chapterCount": 3,
+      "wordCount": 75,
+      "chapters": [
+        {
+          "id": "story-005",
+          "no": 1,
+          "title": "序幕",
+          "wordCount": 17,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-006",
+          "no": 2,
+          "title": "往昔残片",
+          "wordCount": 19,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-007",
+          "no": 3,
+          "title": "破碎的拼图",
+          "wordCount": 39,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 3,
+        "wordCount": 75
+      },
+      "sourceId": "book-02",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 75
+    },
+    {
+      "id": "gaokao-book-03",
+      "no": 3,
+      "title": "军阀的掌中雀：落魄千金的强制爱",
+      "genre": null,
+      "intro": "窗外的雪下得极其狂暴，正如此刻这间督军府书房里的氛围，",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-03.jpg",
+      "chapterCount": 4,
+      "wordCount": 106,
+      "chapters": [
+        {
+          "id": "story-008",
+          "no": 1,
+          "title": "风雪夜归",
+          "wordCount": 17,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-009",
+          "no": 2,
+          "title": "无处遁形",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-010",
+          "no": 3,
+          "title": "插翅难飞",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-011",
+          "no": 4,
+          "title": "臣服与交易",
+          "wordCount": 46,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 107
+      },
+      "sourceId": "book-03",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 106
+    },
+    {
+      "id": "gaokao-book-04",
+      "no": 4,
+      "title": "那个清冷学神偷藏了我的情书",
+      "genre": null,
+      "intro": "窗外的雨像一张密不透风的巨网，彻底遮蔽了月亮，让这个CBD的",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-04.jpg",
+      "chapterCount": 4,
+      "wordCount": 108,
+      "chapters": [
+        {
+          "id": "story-012",
+          "no": 1,
+          "title": "沉寂的堡垒",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-013",
+          "no": 2,
+          "title": "孤独的战役",
+          "wordCount": 28,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-014",
+          "no": 3,
+          "title": "克制的送别",
+          "wordCount": 18,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-015",
+          "no": 4,
+          "title": "盛大的落幕",
+          "wordCount": 42,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 108
+      },
+      "sourceId": "book-04",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 108
+    },
+    {
+      "id": "gaokao-book-05",
+      "no": 5,
+      "title": "穿书后，我靠吃瓜苟成了将军的心尖宠",
+      "genre": null,
+      "intro": "苏颜做梦也没想到，自己作为一名医学的研究生，竟然在去雪山采风时，",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-05.jpg",
+      "chapterCount": 5,
+      "wordCount": 99,
+      "chapters": [
+        {
+          "id": "story-016",
+          "no": 1,
+          "title": "天外来客",
+          "wordCount": 19,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-017",
+          "no": 2,
+          "title": "野蛮与文明",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-018",
+          "no": 3,
+          "title": "扭转战局",
+          "wordCount": 10,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-019",
+          "no": 4,
+          "title": "海那边的月亮",
+          "wordCount": 18,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-020",
+          "no": 5,
+          "title": "尘埃落定",
+          "wordCount": 27,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 99
+      },
+      "sourceId": "book-05",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 99
+    },
+    {
+      "id": "gaokao-book-06",
+      "no": 6,
+      "title": "随性散漫京圈浪子×重度强迫症女医生",
+      "genre": null,
+      "intro": "十一月的上海，连绵的秋雨打湿了满街的梧桐。裴衍坐在明",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-06.jpg",
+      "chapterCount": 5,
+      "wordCount": 118,
+      "chapters": [
+        {
+          "id": "story-021",
+          "no": 1,
+          "title": "失控的轨迹",
+          "wordCount": 23,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-022",
+          "no": 2,
+          "title": "变奏的频率",
+          "wordCount": 8,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-023",
+          "no": 3,
+          "title": "意外的协奏",
+          "wordCount": 17,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-024",
+          "no": 4,
+          "title": "失控的沉沦",
+          "wordCount": 7,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-025",
+          "no": 5,
+          "title": "永恒的画卷",
+          "wordCount": 65,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 120
+      },
+      "sourceId": "book-06",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 118
+    },
+    {
+      "id": "gaokao-book-07",
+      "no": 7,
+      "title": "势均力敌的腹黑霸总×清醒独立女强人",
+      "genre": null,
+      "intro": "窗外的寒风异常喧闹的，像是一群孤狼在荒凉的大草原上哀嚎。",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-07.jpg",
+      "chapterCount": 4,
+      "wordCount": 84,
+      "chapters": [
+        {
+          "id": "story-026",
+          "no": 1,
+          "title": "冰雪来客",
+          "wordCount": 16,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-027",
+          "no": 2,
+          "title": "沸腾与沉寂",
+          "wordCount": 21,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-028",
+          "no": 3,
+          "title": "风雪的拷问",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-029",
+          "no": 4,
+          "title": "越不过的边界",
+          "wordCount": 29,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 86
+      },
+      "sourceId": "book-07",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 84
+    },
+    {
+      "id": "gaokao-book-08",
+      "no": 8,
+      "title": "蓄意诱捕：当心机绿茶撞上斯文败类",
+      "genre": null,
+      "intro": "时间是下午四点p.m.(下午)。“大家都知道了吧，你们王教授因为到了退休的",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-08.jpg",
+      "chapterCount": 6,
+      "wordCount": 107,
+      "chapters": [
+        {
+          "id": "story-030",
+          "no": 1,
+          "title": "荒唐的重逢",
+          "wordCount": 19,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-031",
+          "no": 2,
+          "title": "无处可逃",
+          "wordCount": 10,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-032",
+          "no": 3,
+          "title": "雨夜惊魂",
+          "wordCount": 12,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-033",
+          "no": 4,
+          "title": "狼狈与救赎",
+          "wordCount": 9,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-034",
+          "no": 5,
+          "title": "迟来的情深",
+          "wordCount": 39,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-035",
+          "no": 6,
+          "title": "蓄谋已久",
+          "wordCount": 18,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 6,
+        "wordCount": 107
+      },
+      "sourceId": "book-08",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 107
+    },
+    {
+      "id": "gaokao-book-09",
+      "no": 9,
+      "title": "携崽潜逃后，偏执大佬他发疯求复婚",
+      "genre": null,
+      "intro": "贺祈年将黑色的越野车辆稳稳地停在了小镇边缘的空地上。",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-09.jpg",
+      "chapterCount": 4,
+      "wordCount": 107,
+      "chapters": [
+        {
+          "id": "story-036",
+          "no": 1,
+          "title": "废墟里的浪漫",
+          "wordCount": 28,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-037",
+          "no": 2,
+          "title": "意外与温柔",
+          "wordCount": 27,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-038",
+          "no": 3,
+          "title": "星空下的誓言",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-039",
+          "no": 4,
+          "title": "我们的归宿",
+          "wordCount": 36,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 111
+      },
+      "sourceId": "book-09",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 107
+    },
+    {
+      "id": "gaokao-book-10",
+      "no": 10,
+      "title": "咸鱼沙雕女×口嫌体正直傲娇少爷",
+      "genre": null,
+      "intro": "黎初坐在意大利风格的露天咖啡厅里，手里拿着一块半冷的sandwich(三",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-10.jpg",
+      "chapterCount": 6,
+      "wordCount": 117,
+      "chapters": [
+        {
+          "id": "story-040",
+          "no": 1,
+          "title": "觉醒的猎物",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-041",
+          "no": 2,
+          "title": "致命的诱饵",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-042",
+          "no": 3,
+          "title": "审判与荣光",
+          "wordCount": 16,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-043",
+          "no": 4,
+          "title": "王者的加冕",
+          "wordCount": 9,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-044",
+          "no": 5,
+          "title": "星芒与微光",
+          "wordCount": 14,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-045",
+          "no": 6,
+          "title": "余生的协奏",
+          "wordCount": 42,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 6,
+        "wordCount": 121
+      },
+      "sourceId": "book-10",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 117
+    },
+    {
+      "id": "gaokao-book-11",
+      "no": 11,
+      "title": "通房丫鬟上位记：撩惹禁欲腹黑权臣",
+      "genre": null,
+      "intro": "正是一个晴朗的天气，别墅外的湖面上波光粼粼，清澈的湖水倒",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-11.jpg",
+      "chapterCount": 4,
+      "wordCount": 122,
+      "chapters": [
+        {
+          "id": "story-046",
+          "no": 1,
+          "title": "无形的囚牢",
+          "wordCount": 27,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-047",
+          "no": 2,
+          "title": "短暂的鲜活",
+          "wordCount": 27,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-048",
+          "no": 3,
+          "title": "铁血家规",
+          "wordCount": 29,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-049",
+          "no": 4,
+          "title": "逃不掉的宿命",
+          "wordCount": 44,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 127
+      },
+      "sourceId": "book-11",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 122
+    },
+    {
+      "id": "gaokao-book-12",
+      "no": 12,
+      "title": "重生归来，我成了京圈太子爷的掌中娇",
+      "genre": null,
+      "intro": "浴室的白炽灯滋滋作响。沈星若站在盥洗室的镜子前，看着那个正在低",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-12.jpg",
+      "chapterCount": 4,
+      "wordCount": 110,
+      "chapters": [
+        {
+          "id": "story-050",
+          "no": 1,
+          "title": "破碎的幻象",
+          "wordCount": 22,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-051",
+          "no": 2,
+          "title": "冷漠的标本",
+          "wordCount": 23,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-052",
+          "no": 3,
+          "title": "最后的交易",
+          "wordCount": 30,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-053",
+          "no": 4,
+          "title": "重获新生",
+          "wordCount": 36,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 111
+      },
+      "sourceId": "book-12",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 110
+    },
+    {
+      "id": "gaokao-book-13",
+      "no": 13,
+      "title": "佛子坠落：撕下伪装后他欲壑难填",
+      "genre": null,
+      "intro": "三月的一个雨夜，天空突发紧急情况！窗外的暴雨像是在发",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-13.jpg",
+      "chapterCount": 5,
+      "wordCount": 124,
+      "chapters": [
+        {
+          "id": "story-054",
+          "no": 1,
+          "title": "潮湿的入侵",
+          "wordCount": 22,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-055",
+          "no": 2,
+          "title": "危险的试探",
+          "wordCount": 28,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-056",
+          "no": 3,
+          "title": "理智的崩塌",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-057",
+          "no": 4,
+          "title": "彻底沉沦",
+          "wordCount": 27,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-058",
+          "no": 5,
+          "title": "最终的猎物",
+          "wordCount": 25,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 127
+      },
+      "sourceId": "book-13",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 124
+    },
+    {
+      "id": "gaokao-book-14",
+      "no": 14,
+      "title": "脑补狂魔自我攻略男主×油盐不进迟钝木头直女",
+      "genre": null,
+      "intro": "在这个夏天最让人烦躁的午后，空气里的热浪像喷了一层刺鼻的",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-14.jpg",
+      "chapterCount": 5,
+      "wordCount": 121,
+      "chapters": [
+        {
+          "id": "story-059",
+          "no": 1,
+          "title": "迟到的考验",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-060",
+          "no": 2,
+          "title": "跨频道的脑回路",
+          "wordCount": 28,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-061",
+          "no": 3,
+          "title": "浪漫的对牛弹琴",
+          "wordCount": 29,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-062",
+          "no": 4,
+          "title": "永不气馁的脑补",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-063",
+          "no": 5,
+          "title": "单向奔赴的胜利",
+          "wordCount": 25,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 126
+      },
+      "sourceId": "book-14",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 121
+    },
+    {
+      "id": "gaokao-book-15",
+      "no": 15,
+      "title": "雨夜臣服：被掌控狂老男人狠狠拿捏",
+      "genre": null,
+      "intro": "当苏念那辆破旧的小车终于驶入半山别墅的车库时，她才堪堪松了一口",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-15.jpg",
+      "chapterCount": 4,
+      "wordCount": 29,
+      "chapters": [
+        {
+          "id": "story-064",
+          "no": 1,
+          "title": "雨夜归巢",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-065",
+          "no": 2,
+          "title": "无声的惩罚",
+          "wordCount": 7,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-066",
+          "no": 3,
+          "title": "绝对的偏爱",
+          "wordCount": 4,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-067",
+          "no": 4,
+          "title": "永恒的归宿",
+          "wordCount": 5,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 29
+      },
+      "sourceId": "book-15",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 29
+    },
+    {
+      "id": "gaokao-book-16",
+      "no": 16,
+      "title": "痞帅狼狗特工×清冷高智商女军医",
+      "genre": null,
+      "intro": "废弃工业区的浓得化不开，沉重地压在这座钢铁废城的半空中。这是",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-16.jpg",
+      "chapterCount": 5,
+      "wordCount": 115,
+      "chapters": [
+        {
+          "id": "story-068",
+          "no": 1,
+          "title": "喋血的安全屋",
+          "wordCount": 18,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-069",
+          "no": 2,
+          "title": "末日里的微光",
+          "wordCount": 29,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-070",
+          "no": 3,
+          "title": "致命的电波",
+          "wordCount": 22,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-071",
+          "no": 4,
+          "title": "绝地反击",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-072",
+          "no": 5,
+          "title": "黎明与新生",
+          "wordCount": 23,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 116
+      },
+      "sourceId": "book-16",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 115
+    },
+    {
+      "id": "gaokao-book-17",
+      "no": 17,
+      "title": "破产后，暴富的前男友把我堵在墙角",
+      "genre": null,
+      "intro": "包间里的紧张气氛似乎比空调的冷气还要逼人。这是一个入冬后的",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-17.jpg",
+      "chapterCount": 6,
+      "wordCount": 114,
+      "chapters": [
+        {
+          "id": "story-073",
+          "no": 1,
+          "title": "重逢名利场",
+          "wordCount": 16,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-074",
+          "no": 2,
+          "title": "十九岁的雪",
+          "wordCount": 43,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-075",
+          "no": 3,
+          "title": "风雨夜的试探",
+          "wordCount": 21,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-076",
+          "no": 4,
+          "title": "错位的嫉妒",
+          "wordCount": 12,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-077",
+          "no": 5,
+          "title": "雨夜的乞求",
+          "wordCount": 15,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-078",
+          "no": 6,
+          "title": "未决的航线",
+          "wordCount": 11,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 6,
+        "wordCount": 118
+      },
+      "sourceId": "book-17",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 114
+    },
+    {
+      "id": "gaokao-book-18",
+      "no": 18,
+      "title": "极度阴湿吃醋狂男主×迟钝心软老实人女主",
+      "genre": null,
+      "intro": "窗外的暴雨下得仿佛要将整座城市吞没。他是我的合法丈夫，也是这个家里演技",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-18.jpg",
+      "chapterCount": 4,
+      "wordCount": 116,
+      "chapters": [
+        {
+          "id": "story-079",
+          "no": 1,
+          "title": "温柔的绞肉机",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-080",
+          "no": 2,
+          "title": "无死角的监控",
+          "wordCount": 42,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-081",
+          "no": 3,
+          "title": "理智彻底蒸发",
+          "wordCount": 36,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-082",
+          "no": 4,
+          "title": "疯狂的占有",
+          "wordCount": 16,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 118
+      },
+      "sourceId": "book-18",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 116
+    },
+    {
+      "id": "gaokao-book-19",
+      "no": 19,
+      "title": "捡回来的十八岁忠犬男侍每天都在以下犯上",
+      "genre": null,
+      "intro": "温时夏从未想/认为过，自己三年前一时心软捡回来的小孩，会",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-19.jpg",
+      "chapterCount": 5,
+      "wordCount": 122,
+      "chapters": [
+        {
+          "id": "story-083",
+          "no": 1,
+          "title": "河岸边的濒死者",
+          "wordCount": 14,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-084",
+          "no": 2,
+          "title": "全能的守护神",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-085",
+          "no": 3,
+          "title": "克制的野望",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-086",
+          "no": 4,
+          "title": "帐篷里的暗火",
+          "wordCount": 26,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-087",
+          "no": 5,
+          "title": "臣服与加冕",
+          "wordCount": 41,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 130
+      },
+      "sourceId": "book-19",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 122
+    },
+    {
+      "id": "gaokao-book-20",
+      "no": 20,
+      "title": "高大心机重欲男×娇软懵懂迟钝木头女",
+      "genre": null,
+      "intro": "顾慕笙这次出差去了极其远的的海外。但即便身在异国，他依然时刻把家里",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-20.jpg",
+      "chapterCount": 5,
+      "wordCount": 113,
+      "chapters": [
+        {
+          "id": "story-088",
+          "no": 1,
+          "title": "猎人归巢",
+          "wordCount": 10,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-089",
+          "no": 2,
+          "title": "待宰的羔羊",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-090",
+          "no": 3,
+          "title": "诱敌深入",
+          "wordCount": 14,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-091",
+          "no": 4,
+          "title": "取消分房协议",
+          "wordCount": 27,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-092",
+          "no": 5,
+          "title": "绝对的掌控",
+          "wordCount": 49,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 113
+      },
+      "sourceId": "book-20",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 113
+    },
+    {
+      "id": "gaokao-book-21",
+      "no": 21,
+      "title": "提分手后，高冷霸总哭着求我别走",
+      "genre": null,
+      "intro": "许听晚怎么也没想过，自己会在香港顶级酒店的幽暗走廊里，被贺",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-21.jpg",
+      "chapterCount": 5,
+      "wordCount": 125,
+      "chapters": [
+        {
+          "id": "story-093",
+          "no": 1,
+          "title": "午夜的拦截",
+          "wordCount": 23,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-094",
+          "no": 2,
+          "title": "卑微的筹码",
+          "wordCount": 29,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-095",
+          "no": 3,
+          "title": "眼泪的决堤",
+          "wordCount": 21,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-096",
+          "no": 4,
+          "title": "不甘的执念",
+          "wordCount": 30,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-097",
+          "no": 5,
+          "title": "再次被捡回家",
+          "wordCount": 29,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 132
+      },
+      "sourceId": "book-21",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 125
+    },
+    {
+      "id": "gaokao-book-22",
+      "no": 22,
+      "title": "落魄傲娇天才男主×打直球治愈系小太阳",
+      "genre": null,
+      "intro": "狂风在窗外肆虐，疯狂地吹着摇摇欲坠的窗棂，仿佛正在对这座破旧的公",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-22.jpg",
+      "chapterCount": 5,
+      "wordCount": 114,
+      "chapters": [
+        {
+          "id": "story-098",
+          "no": 1,
+          "title": "敲开那扇死寂的门",
+          "wordCount": 21,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-099",
+          "no": 2,
+          "title": "废墟里的傲骨",
+          "wordCount": 26,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-100",
+          "no": 3,
+          "title": "两条平行的方向",
+          "wordCount": 22,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-101",
+          "no": 4,
+          "title": "笨拙的妥协",
+          "wordCount": 32,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-102",
+          "no": 5,
+          "title": "真实的修补",
+          "wordCount": 16,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 117
+      },
+      "sourceId": "book-22",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 114
+    },
+    {
+      "id": "gaokao-book-23",
+      "no": 23,
+      "title": "替嫁医妃：病娇王爷每天都在向我争宠",
+      "genre": null,
+      "intro": "时针刚刚划过深夜十一点钟。窗外恐怖的风暴正在疯狂肆虐，",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-23.jpg",
+      "chapterCount": 4,
+      "wordCount": 112,
+      "chapters": [
+        {
+          "id": "story-103",
+          "no": 1,
+          "title": "极寒的救赎",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-104",
+          "no": 2,
+          "title": "另一个维度的童话",
+          "wordCount": 19,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-105",
+          "no": 3,
+          "title": "深渊里的种子",
+          "wordCount": 49,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-106",
+          "no": 4,
+          "title": "献祭与沉沦",
+          "wordCount": 19,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 112
+      },
+      "sourceId": "book-23",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 112
+    },
+    {
+      "id": "gaokao-book-24",
+      "no": 24,
+      "title": "表面温柔背地阴暗哥哥×清冷忧郁纯真妹妹",
+      "genre": null,
+      "intro": "这是第十二个让人感到阴郁寒冷的二月傍晚。",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-24.jpg",
+      "chapterCount": 4,
+      "wordCount": 95,
+      "chapters": [
+        {
+          "id": "story-107",
+          "no": 1,
+          "title": "雨夜的重逢",
+          "wordCount": 31,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-108",
+          "no": 2,
+          "title": "名为保护的试探",
+          "wordCount": 26,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-109",
+          "no": 3,
+          "title": "失控的暗流",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-110",
+          "no": 4,
+          "title": "深渊之畔的克制",
+          "wordCount": 23,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 4,
+        "wordCount": 105
+      },
+      "sourceId": "book-24",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 95
+    },
+    {
+      "id": "gaokao-book-25",
+      "no": 25,
+      "title": "画地为牢：欠债后我成了京圈大佬的笼中鸟",
+      "genre": null,
+      "intro": "窗外北方刮来的风暴极其猛烈，带着冰冻的雨水",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-25.jpg",
+      "chapterCount": 5,
+      "wordCount": 110,
+      "chapters": [
+        {
+          "id": "story-111",
+          "no": 1,
+          "title": "风暴中的困兽",
+          "wordCount": 17,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-112",
+          "no": 2,
+          "title": "清醒的锁链",
+          "wordCount": 22,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-113",
+          "no": 3,
+          "title": "甜蜜的惩罚",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-114",
+          "no": 4,
+          "title": "金丝雀的妄想",
+          "wordCount": 23,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-115",
+          "no": 5,
+          "title": "画地为牢的臣服",
+          "wordCount": 30,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 112
+      },
+      "sourceId": "book-25",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 110
+    },
+    {
+      "id": "gaokao-book-26",
+      "no": 26,
+      "title": "骄矜直球撩人富家千金×沉稳克制贫寒高岭之花",
+      "genre": null,
+      "intro": "十月的北方，迎来了一场极其迅速的/急促的降雪。",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-26.jpg",
+      "chapterCount": 5,
+      "wordCount": 112,
+      "chapters": [
+        {
+          "id": "story-116",
+          "no": 1,
+          "title": "骄纵与冰山",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-117",
+          "no": 2,
+          "title": "荒唐的联姻",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-118",
+          "no": 3,
+          "title": "风雪里的困局",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-119",
+          "no": 4,
+          "title": "暴雪中的失控",
+          "wordCount": 28,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-120",
+          "no": 5,
+          "title": "冰山消融",
+          "wordCount": 15,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 116
+      },
+      "sourceId": "book-26",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 112
+    },
+    {
+      "id": "gaokao-book-27",
+      "no": 27,
+      "title": "杂货铺里捡到个落难的纯情霸总",
+      "genre": null,
+      "intro": "晚上十一点，天空划过一道刺目的闪电，紧接着雷声轰鸣，暴雨丝毫没",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-27.jpg",
+      "chapterCount": 6,
+      "wordCount": 115,
+      "chapters": [
+        {
+          "id": "story-121",
+          "no": 1,
+          "title": "亡命的霸总",
+          "wordCount": 10,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-122",
+          "no": 2,
+          "title": "藏匿的盲盒",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-123",
+          "no": 3,
+          "title": "影后的诞生",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-124",
+          "no": 4,
+          "title": "霸总的反差",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-125",
+          "no": 5,
+          "title": "暧昧的试探",
+          "wordCount": 21,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-126",
+          "no": 6,
+          "title": "缘分的闭环",
+          "wordCount": 31,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 6,
+        "wordCount": 120
+      },
+      "sourceId": "book-27",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 115
+    },
+    {
+      "id": "gaokao-book-28",
+      "no": 28,
+      "title": "重生第一天，我撕了离婚协议跨坐他腿上",
+      "genre": null,
+      "intro": "夜色深沉，窗外的暴雨简直像是有神明在天上疯狂地倾倒下来一般，",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-28.jpg",
+      "chapterCount": 5,
+      "wordCount": 106,
+      "chapters": [
+        {
+          "id": "story-127",
+          "no": 1,
+          "title": "重回诀别夜",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-128",
+          "no": 2,
+          "title": "撕毁的契约",
+          "wordCount": 19,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-129",
+          "no": 3,
+          "title": "深渊里的微光",
+          "wordCount": 18,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-130",
+          "no": 4,
+          "title": "温柔的沉溺",
+          "wordCount": 23,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-131",
+          "no": 5,
+          "title": "唯一的归途",
+          "wordCount": 25,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 109
+      },
+      "sourceId": "book-28",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 106
+    },
+    {
+      "id": "gaokao-book-29",
+      "no": 29,
+      "title": "满级科研大佬隐居村里疯狂打脸日常",
+      "genre": null,
+      "intro": "至于那个喜欢把鼻子翘到天上去的傲慢前任？就让他带着他的虚荣见鬼去",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-29.jpg",
+      "chapterCount": 5,
+      "wordCount": 124,
+      "chapters": [
+        {
+          "id": "story-132",
+          "no": 1,
+          "title": "孤岛的日常",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-133",
+          "no": 2,
+          "title": "喧闹的闯入者",
+          "wordCount": 20,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-134",
+          "no": 3,
+          "title": "降维打击",
+          "wordCount": 23,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-135",
+          "no": 4,
+          "title": "无知的代价",
+          "wordCount": 27,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-136",
+          "no": 5,
+          "title": "雨后新生",
+          "wordCount": 37,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 132
+      },
+      "sourceId": "book-29",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 124
+    },
+    {
+      "id": "gaokao-book-30",
+      "no": 30,
+      "title": "神秘危险西装暴徒×清冷理智高定女裁缝",
+      "genre": null,
+      "intro": "窗外的雨势凶猛，像是无数透明的军队正在发起冲锋，狂风将路",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-30.jpg",
+      "chapterCount": 5,
+      "wordCount": 110,
+      "chapters": [
+        {
+          "id": "story-137",
+          "no": 1,
+          "title": "不速之客",
+          "wordCount": 14,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-138",
+          "no": 2,
+          "title": "限时修复",
+          "wordCount": 29,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-139",
+          "no": 3,
+          "title": "无法拒绝的条件",
+          "wordCount": 21,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-140",
+          "no": 4,
+          "title": "越界的尺寸",
+          "wordCount": 25,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-141",
+          "no": 5,
+          "title": "黎明与新篇章",
+          "wordCount": 22,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 111
+      },
+      "sourceId": "book-30",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 110
+    },
+    {
+      "id": "gaokao-book-31",
+      "no": 31,
+      "title": "逃不掉：被豪门长兄全天候监控之后",
+      "genre": null,
+      "intro": "深秋，秋天的凉意顺着落地窗无声地渗进来。墙上的古董挂钟刚走过三点，",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-31.jpg",
+      "chapterCount": 6,
+      "wordCount": 110,
+      "chapters": [
+        {
+          "id": "story-142",
+          "no": 1,
+          "title": "逃离的序曲",
+          "wordCount": 18,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-143",
+          "no": 2,
+          "title": "虚假的施舍",
+          "wordCount": 22,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-144",
+          "no": 3,
+          "title": "无死角的监控",
+          "wordCount": 22,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-145",
+          "no": 4,
+          "title": "绝望的深渊",
+          "wordCount": 21,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-146",
+          "no": 5,
+          "title": "唯一的归途",
+          "wordCount": 19,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-147",
+          "no": 6,
+          "title": "病态的闭环",
+          "wordCount": 11,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 6,
+        "wordCount": 113
+      },
+      "sourceId": "book-31",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 110
+    },
+    {
+      "id": "gaokao-book-32",
+      "no": 32,
+      "title": "致命攻略：冰山大佬被作精宿主彻底拿捏",
+      "genre": null,
+      "intro": "苏瓷赤着脚踩在偌大房子的羊毛地毯上，这里冷气开得极足，像",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-32.jpg",
+      "chapterCount": 5,
+      "wordCount": 120,
+      "chapters": [
+        {
+          "id": "story-148",
+          "no": 1,
+          "title": "冰冷夜色与警报",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-149",
+          "no": 2,
+          "title": "猎手与猎物",
+          "wordCount": 18,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-150",
+          "no": 3,
+          "title": "天降奇兵",
+          "wordCount": 32,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-151",
+          "no": 4,
+          "title": "护短的红玫瑰",
+          "wordCount": 17,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-152",
+          "no": 5,
+          "title": "沉沦与救赎",
+          "wordCount": 48,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 128
+      },
+      "sourceId": "book-32",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 120
+    },
+    {
+      "id": "gaokao-book-33",
+      "no": 33,
+      "title": "久别重逢：那颗过期五年的苹果味软糖",
+      "genre": null,
+      "intro": "雨下得简直是最坏/最糟的状态，高架桥上的交通彻底瘫痪了。",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-33.jpg",
+      "chapterCount": 5,
+      "wordCount": 91,
+      "chapters": [
+        {
+          "id": "story-153",
+          "no": 1,
+          "title": "困兽与白鹿",
+          "wordCount": 17,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-154",
+          "no": 2,
+          "title": "被献祭的过去",
+          "wordCount": 15,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-155",
+          "no": 3,
+          "title": "极地的距离",
+          "wordCount": 19,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-156",
+          "no": 4,
+          "title": "带锁的糖罐",
+          "wordCount": 23,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-157",
+          "no": 5,
+          "title": "守恒的惩罚",
+          "wordCount": 20,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 94
+      },
+      "sourceId": "book-33",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 91
+    },
+    {
+      "id": "gaokao-book-34",
+      "no": 34,
+      "title": "逆天强宠：高冷剑尊每天都在为我破戒",
+      "genre": null,
+      "intro": "在万剑宗最险恶的绝命悬崖边缘，黎音重重地跌倒在满是碎石的",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-34.jpg",
+      "chapterCount": 5,
+      "wordCount": 56,
+      "chapters": [
+        {
+          "id": "story-158",
+          "no": 1,
+          "title": "血染的试炼",
+          "wordCount": 10,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-159",
+          "no": 2,
+          "title": "冰雪里的靠近",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-160",
+          "no": 3,
+          "title": "崩塌的道心",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-161",
+          "no": 4,
+          "title": "逆天的救赎",
+          "wordCount": 12,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-162",
+          "no": 5,
+          "title": "永恒的羁绊",
+          "wordCount": 8,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 56
+      },
+      "sourceId": "book-34",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 56
+    },
+    {
+      "id": "gaokao-book-35",
+      "no": 35,
+      "title": "凤临深渊：满级女特工拿捏腹黑摄政王",
+      "genre": null,
+      "intro": "沈清月睁开眼睛的时候，首先闻到的是一股极其浓烈的鲜血的腥气，混合",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-35.jpg",
+      "chapterCount": 7,
+      "wordCount": 112,
+      "chapters": [
+        {
+          "id": "story-163",
+          "no": 1,
+          "title": "血色的觉醒",
+          "wordCount": 30,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-164",
+          "no": 2,
+          "title": "暗夜里的杀神",
+          "wordCount": 24,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-165",
+          "no": 3,
+          "title": "深渊的交易",
+          "wordCount": 18,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-166",
+          "no": 4,
+          "title": "侯府的立威",
+          "wordCount": 12,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-167",
+          "no": 5,
+          "title": "权臣的偏爱",
+          "wordCount": 10,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-168",
+          "no": 6,
+          "title": "撕裂的防线",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-169",
+          "no": 7,
+          "title": "共揽这万里江山",
+          "wordCount": 7,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 7,
+        "wordCount": 114
+      },
+      "sourceId": "book-35",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 112
+    },
+    {
+      "id": "gaokao-book-36",
+      "no": 36,
+      "title": "迷雾回声：心理学顾问与疯批杀手的致命游戏",
+      "genre": null,
+      "intro": "这座大楼里的沉默总是让人感到极度的不安。作为一名主",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-36.jpg",
+      "chapterCount": 5,
+      "wordCount": 60,
+      "chapters": [
+        {
+          "id": "story-170",
+          "no": 1,
+          "title": "午夜的来信",
+          "wordCount": 14,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-171",
+          "no": 2,
+          "title": "废弃的疯人院",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-172",
+          "no": 3,
+          "title": "密室的倒计时",
+          "wordCount": 14,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-173",
+          "no": 4,
+          "title": "扭曲的真相",
+          "wordCount": 11,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-174",
+          "no": 5,
+          "title": "迷雾里的回声",
+          "wordCount": 9,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 61
+      },
+      "sourceId": "book-36",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 60
+    },
+    {
+      "id": "gaokao-book-37",
+      "no": 37,
+      "title": "废柴退婚：随身带个老爷爷我打爆九霄",
+      "genre": null,
+      "intro": "九霄大陆的夜空总是弥漫着一股肃杀的凉意。",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-37.jpg",
+      "chapterCount": 5,
+      "wordCount": 57,
+      "chapters": [
+        {
+          "id": "story-175",
+          "no": 1,
+          "title": "陨落的天才",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-176",
+          "no": 2,
+          "title": "屈辱的退婚",
+          "wordCount": 13,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-177",
+          "no": 3,
+          "title": "深渊中的觉醒",
+          "wordCount": 12,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-178",
+          "no": 4,
+          "title": "烈焰焚天",
+          "wordCount": 12,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-179",
+          "no": 5,
+          "title": "王者归来",
+          "wordCount": 8,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 58
+      },
+      "sourceId": "book-37",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 57
+    },
+    {
+      "id": "gaokao-book-38",
+      "no": 38,
+      "title": "清冷禁欲权势女总裁×钓系明艳绝美大明星",
+      "genre": null,
+      "intro": "深秋的夜晚，京城最顶级的慈善派对正在极其奢华的酒店顶层举行。",
+      "cover": "https://novel.quwanclass.com/gaokao/assets/covers/book-38.jpg",
+      "chapterCount": 5,
+      "wordCount": 46,
+      "chapters": [
+        {
+          "id": "story-180",
+          "no": 1,
+          "title": "名利场的焦点",
+          "wordCount": 10,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-181",
+          "no": 2,
+          "title": "阳台上的试探",
+          "wordCount": 12,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-182",
+          "no": 3,
+          "title": "隐秘的契约",
+          "wordCount": 9,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-183",
+          "no": 4,
+          "title": "失控的边缘",
+          "wordCount": 8,
+          "sourceAvailable": true
+        },
+        {
+          "id": "story-184",
+          "no": 5,
+          "title": "玫瑰的臣服",
+          "wordCount": 7,
+          "sourceAvailable": true
+        }
+      ],
+      "rawCounts": {
+        "chapterCount": 5,
+        "wordCount": 46
+      },
+      "sourceId": "book-38",
+      "course": "高中",
+      "sourceUrl": "https://novel.quwanclass.com/gaokao/",
+      "status": "reference",
+      "sourceKind": "public-catalog",
+      "sourceScope": "高中专区公开前端内联目录及其显示统计：38本书的标题、开篇短简介、章节题名和词数；不包含小说正文、词表、音频或账号数据，不证明当前内容授权或可读性。",
+      "originalWordCount": 46
+    }
+  ]
+}

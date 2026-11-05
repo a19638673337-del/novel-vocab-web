@@ -1,0 +1,6 @@
+[
+  {"file":"competitor-cet-catalog-public.json","course":"四六级","prefix":"cet"},
+  {"file":"competitor-ielts-catalog-public.json","course":"雅思","prefix":"ielts"},
+  {"file":"competitor-gaokao-catalog-public.json","course":"高中","prefix":"gaokao"},
+  {"file":"competitor-kaoyan-catalog-public.json","course":"考研","prefix":"kaoyan"}
+]

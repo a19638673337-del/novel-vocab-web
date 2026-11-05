@@ -1,0 +1,1990 @@
+{
+  "source": "https://novel.quwanclass.com/ielts/?account=unified",
+  "sourceAsset": "https://novel.quwanclass.com/assets/index-aPVReUZS.js",
+  "courseUrl": "https://novel.quwanclass.com/ielts/",
+  "kind": "public-catalog",
+  "capturedDate": "2026-11-01",
+  "scope": "雅思专区公开前端目录：100篇短篇，以及《京圈豪门弃女》的5个篇章、100章题名和各章词数；含公开简介与封面地址，不包含正文、词表或音频，不证明当前内容授权或可读性。",
+  "notes": "只解析JSON字符串和限定数据字面量，未执行第三方脚本，未访问正文API或懒加载正文块。chapters.sourceAvailable仅保留来源目录标记，不表示本站可读。长篇各章保持在parts内，不计作100本新增小说。词数来自公开目录，不计入本地词汇台账或掌握率。",
+  "extraction": {
+    "snapshot": "参考网页快照/reference-ielts-2026-11-01.js",
+    "snapshotSha256": "98d30b1598902184cfee930b629ba91357bdb4359b898d214712900734657f7f",
+    "shortBooksSymbol": "za",
+    "longPartsSymbol": "g1",
+    "sourceStatsSymbol": "d2",
+    "assetBaseHref": "/",
+    "titleSource": "reference-ielts-2026-11-01.html <title>"
+  },
+  "reportedShortStats": {
+    "stories": 100,
+    "wordCount": 8164,
+    "wordOccurrences": 12206,
+    "glossaryWordCount": 9399
+  },
+  "books": [
+    {
+      "id": "book-01",
+      "no": 1,
+      "title": "第三次落榜那日，捡来的神剑逼我去救一座城",
+      "genre": "古风奇幻",
+      "coverShortTitle": "落榜书生与镇河古剑",
+      "intro": "苏砚第三次落榜那天，在当铺门口捡到了一把锈剑。剑身细长，剑鞘上刻着几乎磨平的纹路。他还没看清，剑里忽然响起苍老的声音：“背一下《治河",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-01-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-01-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-01-640.webp 640w"
+    },
+    {
+      "id": "book-02",
+      "no": 2,
+      "title": "系统逼我和她谈恋爱，结果她教我的第一件事是拒绝",
+      "genre": "双女主·科幻",
+      "coverShortTitle": "她按下了拒绝键",
+      "intro": "吴眠睁开眼时，面前悬着一块透明的光屏。【任务：在七十二小时内与陆知夏建立爱情。亲密度达到九十分，即可离开。】她还没弄清身在何处，系统",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-02-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-02-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-02-640.webp 640w"
+    },
+    {
+      "id": "book-03",
+      "no": 3,
+      "title": "妖王把账房钥匙交给我那晚，我正准备封掉他的夜市",
+      "genre": "双男主·奇幻",
+      "coverShortTitle": "妖王的夜市账房",
+      "intro": "妖城开放夜市的第一晚，捉妖师谢临坐在收银台后面，给一只三百岁的狐妖找零。“八文。”他板着脸说，“你刚才少付两文。”狐妖亮出九条尾巴，",
+      "chapterCount": 1,
+      "wordCount": 112,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-03-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-03-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-03-640.webp 640w"
+    },
+    {
+      "id": "book-04",
+      "no": 4,
+      "title": "宫宴上昭仪忽然昏倒，我却盯上了那本送膳簿",
+      "genre": "古风悬疑",
+      "coverShortTitle": "宫宴甜汤疑云",
+      "intro": "唐栀穿进宫斗小说第三天，差点因两盅甜汤丢命。“左边是给昭仪的清梨羹，右边是给别处的核桃梨羹。”小太监把两只白瓷盅端进御膳房，“上头催",
+      "chapterCount": 1,
+      "wordCount": 117,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-04-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-04-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-04-640.webp 640w"
+    },
+    {
+      "id": "book-05",
+      "no": 5,
+      "title": "我在史馆写下新帝必败，他当夜带兵来夺我的笔",
+      "genre": "双男主·古风",
+      "coverShortTitle": "新帝夺笔之夜",
+      "intro": "沈既白在史馆写完今夜记录，又添上“北征必败”四字时，窗外刚响过二更的更鼓。他把墨晾干，抬头便见禁军的火把沿廊下排开，照出他尚未上报的",
+      "chapterCount": 1,
+      "wordCount": 118,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-05-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-05-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-05-640.webp 640w"
+    },
+    {
+      "id": "book-06",
+      "no": 6,
+      "title": "海神拒收最后一份祭品那晚，我牵着她走进了风暴",
+      "genre": "双女主·奇幻",
+      "coverShortTitle": "海神与守灯人",
+      "intro": "我们村把渔船的灯一盏盏熄掉时，海面还亮着不正常的银光。我叫闻灯，二十八岁，在南岬灯塔守了七年。这里的人懂潮汐，也懂海风，却没人能解释",
+      "chapterCount": 1,
+      "wordCount": 122,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-06-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-06-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-06-640.webp 640w"
+    },
+    {
+      "id": "book-07",
+      "no": 7,
+      "title": "订婚宴上他递来一纸协议，我转身成了婚庆公司的老板",
+      "genre": "都市言情",
+      "coverShortTitle": "订婚宴后的新事业",
+      "intro": "许知意在订婚宴开始前十分钟，收到了一份写着“新娘须知”的合同。最上面印着酒店集团的标志，条款里竟有一项：婚礼举办期间，新娘不得公开谈",
+      "chapterCount": 1,
+      "wordCount": 119,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-07-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-07-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-07-640.webp 640w"
+    },
+    {
+      "id": "book-08",
+      "no": 8,
+      "title": "开业当天她拎着破婚纱来砸场，我却认出了裙摆里的暗针",
+      "genre": "双女主·都市",
+      "coverShortTitle": "婚纱裙摆里的暗针",
+      "intro": "秦照的婚纱店刚举办完开业仪式，门口的花篮就被人撞翻。她看了眼时间：才过十七分钟。一位顾客举着手机，指着她橱窗里那件白色礼服，说她剽窃",
+      "chapterCount": 1,
+      "wordCount": 125,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-08-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-08-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-08-640.webp 640w"
+    },
+    {
+      "id": "book-09",
+      "no": 9,
+      "title": "巡演只剩两站，他当众删了我写给他的情歌",
+      "genre": "双男主·音乐",
+      "coverShortTitle": "最后两站的情歌",
+      "intro": "巡演只剩最后两站，第二轮彩排刚开始，段霁就当着全团的面，把《潮声》从节目单上划掉了。全场安静。那首歌的副歌每次一响，几千名观众都会跟",
+      "chapterCount": 1,
+      "wordCount": 120,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-09-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-09-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-09-640.webp 640w"
+    },
+    {
+      "id": "book-10",
+      "no": 10,
+      "title": "电台停播第九夜，午夜广播竟点到了我的名字",
+      "genre": "都市悬疑",
+      "coverShortTitle": "停播后的午夜来信",
+      "intro": "临湾电台停播的第九个夜晚，我在午夜听见了自己的名字。那台老式收音机原本摆在窗边，旋钮卡在九十六点四。先是一阵刺耳的静电杂音，接着响起",
+      "chapterCount": 1,
+      "wordCount": 121,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-10-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-10-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-10-640.webp 640w"
+    },
+    {
+      "id": "book-11",
+      "no": 11,
+      "title": "电梯第七次停在十三楼，他却叫出了我被抹掉的名字",
+      "genre": "双男主·悬疑",
+      "coverShortTitle": "不存在的十三楼",
+      "intro": "我接到这项紧急测试工作时，委托人只说，城西旧商厦的电梯偶尔会停在不存在的楼层。商厦只有十二层，建筑设计文件里，连夹层都没标出十三楼。",
+      "chapterCount": 1,
+      "wordCount": 118,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-11-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-11-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-11-640.webp 640w"
+    },
+    {
+      "id": "book-12",
+      "no": 12,
+      "title": "认亲宴上他们让我嫁给投资人，我只问谁锁了我的毕业证",
+      "genre": "都市言情",
+      "coverShortTitle": "她要拿回毕业证",
+      "intro": "盛家认亲宴开始二十分钟，林见微就被宣布订婚了。亲生父亲盛鸿远举着酒杯，笑得仿佛刚签下一笔好生意：“见微回家，以后盛家有了懂技术的女儿",
+      "chapterCount": 1,
+      "wordCount": 123,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-12-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-12-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-12-640.webp 640w"
+    },
+    {
+      "id": "book-13",
+      "no": 13,
+      "title": "三十五岁生日那天，前任寄回的手账还停在我们分手那页",
+      "genre": "双女主·重逢",
+      "coverShortTitle": "手账停在分手那页",
+      "intro": "叶闻溪三十五岁生日那天，收到一只没有署名的包裹。拆开牛皮纸，里面不是礼物，而是一本边角起毛的蓝色旅行手账。封皮贴着十年前的火车票，第",
+      "chapterCount": 1,
+      "wordCount": 123,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-13-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-13-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-13-640.webp 640w"
+    },
+    {
+      "id": "book-14",
+      "no": 14,
+      "title": "灾年豆腐涨到六文，砸店的妇人竟替我敲响了县衙的鼓",
+      "genre": "双女主·古风",
+      "coverShortTitle": "豆腐铺里的六文钱",
+      "intro": "青石县的豆腐涨到六文那天，有人抄起一块砖头砸歪了柳记的招牌。“昨日还卖三文！”织席的王婶站在街心，声音沙哑，“连豆腐都吃不起，你们还",
+      "chapterCount": 1,
+      "wordCount": 128,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-14-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-14-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-14-640.webp 640w"
+    },
+    {
+      "id": "book-15",
+      "no": 15,
+      "title": "并购签约前夜，死对头把毁掉自己的证据交给了我",
+      "genre": "双男主·都市",
+      "coverShortTitle": "并购前夜的告白",
+      "intro": "并购协议原定第二天上午九点签署。晚上十一点，沈知澜却走进收购方的办公室，把一份财务明细放到周谨言桌上。“这笔付款是我批准的。”他指着",
+      "chapterCount": 1,
+      "wordCount": 124,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-15-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-15-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-15-640.webp 640w"
+    },
+    {
+      "id": "book-16",
+      "no": 16,
+      "title": "首演前三天她拒跳最后一次托举，我当众改了压轴结局",
+      "genre": "双女主·舞台",
+      "coverShortTitle": "最后一次托举",
+      "intro": "首演前三天，领舞许知音正带妆排演，忽然在聚光灯下停住。乐队还在奏最后八拍，搭档已半蹲预备将她举起，她却退后一步，按住右脚踝。“最后那",
+      "chapterCount": 1,
+      "wordCount": 121,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-16-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-16-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-16-640.webp 640w"
+    },
+    {
+      "id": "book-17",
+      "no": 17,
+      "title": "庆功宴上少了三十个名字，太子妃把皇帝的赏赐退了",
+      "genre": "双女主·古风",
+      "coverShortTitle": "被退回的御赐明珠",
+      "intro": "庆功宴会的第三巡酒刚过，御前把一匣明珠送到太子妃苏令宜面前。她没有伸手，只从袖中抽出一张沾着灰的纸，放在金盘旁边。“儿臣不敢领赏。”",
+      "chapterCount": 1,
+      "wordCount": 120,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-17-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-17-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-17-640.webp 640w"
+    },
+    {
+      "id": "book-18",
+      "no": 18,
+      "title": "飞升榜抹了他的名字，那把断剑却求我别替他翻案",
+      "genre": "双男主·仙侠",
+      "coverShortTitle": "断剑与无名飞升榜",
+      "intro": "谢观澜守了三百年的飞升榜，第一次见自己的笔写不出一个人的名字。那晚天庭的钟声敲到第七响，榜上原本赫赫有名的剑修沈无咎，忽然只剩一道潮",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-18-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-18-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-18-640.webp 640w"
+    },
+    {
+      "id": "book-19",
+      "no": 19,
+      "title": "冷宫查出三年假账，失宠皇后问我愿不愿陪她出宫",
+      "genre": "双女主·古风",
+      "coverShortTitle": "冷宫账房与失宠皇后",
+      "intro": "顾晚桥进冷宫的第一天，管事把一只破算盘扔给她：“三年前的账，天黑之前算清。”桌上摊着八册账册，领用清单上明明写着“冬衣已发”，墙角的",
+      "chapterCount": 1,
+      "wordCount": 117,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-19-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-19-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-19-640.webp 640w"
+    },
+    {
+      "id": "book-20",
+      "no": 20,
+      "title": "订婚宴上他家拿钻戒换专利，我端上台的却是一桶废水",
+      "genre": "都市言情",
+      "coverShortTitle": "钻戒换不走的专利",
+      "intro": "订婚宴开始前十分钟，程见雪把一桶灰蒙蒙的水放在了香槟塔旁。宴会主持人正核对流程，抬头就愣了：“程小姐，戒指呢？”“没有戒指。”她掀开",
+      "chapterCount": 1,
+      "wordCount": 119,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-20-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-20-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-20-640.webp 640w"
+    },
+    {
+      "id": "book-21",
+      "no": 21,
+      "title": "降落新星第七夜，她忘了故乡，却还记得我教她的歌",
+      "genre": "双女主·科幻",
+      "coverShortTitle": "她仍记得故乡的歌",
+      "intro": "抵达新星的第七夜，顾迢在舱门前问闻书岚：“‘故乡’两个字，怎么说？”她能翻译十一种口音，曾是飞船上最好的翻译官，此刻却连自己的母语都",
+      "chapterCount": 1,
+      "wordCount": 119,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-21-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-21-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-21-640.webp 640w"
+    },
+    {
+      "id": "book-22",
+      "no": 22,
+      "title": "镖局封门那晚，他递来十七张赔款单，要我押最后一趟镖",
+      "genre": "双男主·古风",
+      "coverShortTitle": "镖局最后一趟镖",
+      "intro": "陆沉舟亲手摘下“长风镖局”匾额时，门闩发出一声哐当声。马厩里只剩一副发硬的旧鞍，最后一匹马也卖了，桌上是父亲磨钝的刀和一纸封门告示。",
+      "chapterCount": 1,
+      "wordCount": 123,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-22-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-22-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-22-640.webp 640w"
+    },
+    {
+      "id": "book-23",
+      "no": 23,
+      "title": "沙漠客栈要拿真话换水，我撒谎后连来时的路都没了",
+      "genre": "奇幻冒险",
+      "coverShortTitle": "用真话换一碗水",
+      "intro": "许鹤川在辽阔的沙漠里走到第四天，看见一盏灯浮在沙丘背后。那不像寻常的海市蜃楼。灯下有一座低矮的客栈，门前系着三头骆驼，脚边放着一点饲",
+      "chapterCount": 1,
+      "wordCount": 125,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-23-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-23-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-23-640.webp 640w"
+    },
+    {
+      "id": "book-24",
+      "no": 24,
+      "title": "药泉封禁第三夜，闯禁地的炼器师砸碎了第二轮月亮",
+      "genre": "双女主·仙侠",
+      "coverShortTitle": "药泉里的第二轮月亮",
+      "intro": "药泉封禁的第三夜，温引霜在水里看见了两轮月亮。天上只有一轮。温引霜用铜盆里的清水对照，倒影并无异状。泉底那轮透着发光的银辉，边缘伸出",
+      "chapterCount": 1,
+      "wordCount": 112,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-24-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-24-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-24-640.webp 640w"
+    },
+    {
+      "id": "book-25",
+      "no": 25,
+      "title": "他送来一车玫瑰赔罪，我让他先查花园里的那口井",
+      "genre": "都市言情",
+      "coverShortTitle": "玫瑰车与旧水井",
+      "intro": "玫瑰车停在研究所门口那天，叶见青正准备把一盆从温室搬出的病月季送进实验室。司机从驾驶室探头，问她是不是植物学研究员。车厢一开，一束又",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-25-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-25-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-25-640.webp 640w"
+    },
+    {
+      "id": "book-26",
+      "no": 26,
+      "title": "答辩前七天我撤回论文，死对头学长却替我留了一盏灯",
+      "genre": "双男主·校园",
+      "coverShortTitle": "答辩前夜的一盏灯",
+      "intro": "答辩前第七天，林见川在自己的学位论文上划掉了一行字：漏水识别准确率百分之九十四点六。实验楼西侧那根旧水管正在漏水，仪器通常遇到这种情",
+      "chapterCount": 1,
+      "wordCount": 117,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-26-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-26-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-26-640.webp 640w"
+    },
+    {
+      "id": "book-27",
+      "no": 27,
+      "title": "凤袍绣样流进市集，掌衣女官从赃布里拆出两个人的名字",
+      "genre": "双女主·古风",
+      "coverShortTitle": "凤袍绣样里的名字",
+      "intro": "皇后新制的礼服还没上身，京城西市就有人穿着同样的燕尾纹招摇过街。最先吆喝的是一间时兴衣饰铺的伙计。他把一件花哨的披帛挂到门外，说是照",
+      "chapterCount": 1,
+      "wordCount": 107,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-27-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-27-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-27-640.webp 640w"
+    },
+    {
+      "id": "book-28",
+      "no": 28,
+      "title": "全书都在预言她会死，女将军却把那张纸撕了",
+      "genre": "双女主·古风",
+      "coverShortTitle": "她撕掉了死亡预言",
+      "intro": "纪见微穿进《孤城录》第三天，看到最后一章写着章节末尾的一句判词：霜降之夜，贺停霜死于北门。她把致命的预言带进帅帐，称这是无法更改的凶",
+      "chapterCount": 1,
+      "wordCount": 119,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-28-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-28-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-28-640.webp 640w"
+    },
+    {
+      "id": "book-29",
+      "no": 29,
+      "title": "基地重启后被判失踪的人，竟还在写植物日记",
+      "genre": "双男主·科幻",
+      "coverShortTitle": "植物日记仍在更新",
+      "intro": "基地重启那晚，林叙收到一条令人担忧的通知：温室工程师顾沉舟失踪，已从居民名单除名。暴风已迫近，窗外响起警报，他却收到顾沉舟刚写的种植",
+      "chapterCount": 1,
+      "wordCount": 89,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-29-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-29-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-29-640.webp 640w"
+    },
+    {
+      "id": "book-30",
+      "no": 30,
+      "title": "怪谈旅馆的保洁守则：第一条竟然是永远不关灯",
+      "genre": "都市怪谈",
+      "coverShortTitle": "旅馆里不能熄灭的灯",
+      "intro": "凌晨，唐映看见三条守则：灯不许灭；清洁车只能有一辆；听见呼唤先看工牌。她觉得这份守则有些古怪，甚至像某个怪人的恶作剧；落款签名却属于",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-30-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-30-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-30-640.webp 640w"
+    },
+    {
+      "id": "book-31",
+      "no": 31,
+      "title": "宫宴等着看一支献舞，舞师却捧出一整本赈灾账簿",
+      "genre": "古风群像",
+      "coverShortTitle": "舞袖中的赈灾账簿",
+      "intro": "宫宴前，沈知遥最后练了一遍舞蹈。礼官送来告示：献舞之后不得提北境水患。她将旧账本藏在舞袖中，另抱着一卷厚重的原始文书，那是灾民留下的",
+      "chapterCount": 1,
+      "wordCount": 114,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-31-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-31-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-31-640.webp 640w"
+    },
+    {
+      "id": "book-32",
+      "no": 32,
+      "title": "同一段录音里有两次落雨，证人却说那晚天晴",
+      "genre": "双男主·悬疑",
+      "coverShortTitle": "录音里的第二场雨",
+      "intro": "录音播放到第七秒，法庭忽然响起一阵神秘的雨声。程叙白问证人：“你坚持那晚没有下雨？”对方点头。负责法庭鉴定音频分析的沈砚舟却按下暂停",
+      "chapterCount": 1,
+      "wordCount": 103,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-32-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-32-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-32-640.webp 640w"
+    },
+    {
+      "id": "book-33",
+      "no": 33,
+      "title": "录取名单公布前，实验室冰箱里的关键样品不见了",
+      "genre": "双女主·校园",
+      "coverShortTitle": "冰箱里的空白标签",
+      "intro": "距离联合培养计划公布录取名单只剩十二小时，六人入围。楼道的监视器还亮着，林照却站在实验室的低温冰箱前。她昨晚亲手放进冷柜的样品，如今",
+      "chapterCount": 1,
+      "wordCount": 111,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-33-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-33-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-33-640.webp 640w"
+    },
+    {
+      "id": "book-34",
+      "no": 34,
+      "title": "全楼监控慢了七分钟，保安坚持那晚从未停电",
+      "genre": "都市悬疑",
+      "coverShortTitle": "慢了七分钟的录像",
+      "intro": "调查记者宋予接到报案时，住户方璟已被怀疑涉及入室盗窃。大厦保管室丢了一份涉及保障房住户人口统计与产权情况的原始档案，警方依据物业提供",
+      "chapterCount": 1,
+      "wordCount": 100,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-34-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-34-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-34-640.webp 640w"
+    },
+    {
+      "id": "book-35",
+      "no": 35,
+      "title": "狐妖带着一整车受伤的鸟敲门，捉妖女捕快只好先开药箱",
+      "genre": "双女主·奇幻",
+      "coverShortTitle": "狐妖送来受伤的鸟",
+      "intro": "下雪那晚，女捕快裴青棠听见急促的叩门声。门外站着县衙告示上的通缉狐妖，披风上满是带血的羽毛，身后拖着一辆木车。车里蜷着十几只迁徙的候",
+      "chapterCount": 1,
+      "wordCount": 109,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-35-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-35-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-35-640.webp 640w"
+    },
+    {
+      "id": "book-36",
+      "no": 36,
+      "title": "停战国书竟有两条国界，催我出关的校尉连夜改道",
+      "genre": "古风冒险",
+      "coverShortTitle": "两条国界的停战书",
+      "intro": "赐婚圣旨抵达青石驿那夜，江辞衡发现，两份停战国书竟画着两条不同的国界。北梁负责外交的官署送来一份外交译稿，南汀使臣态度有礼貌的，也递",
+      "chapterCount": 1,
+      "wordCount": 118,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-36-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-36-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-36-640.webp 640w"
+    },
+    {
+      "id": "book-37",
+      "no": 37,
+      "title": "重回高考前夜，我先救下那个八年后举报我的同桌",
+      "genre": "校园成长",
+      "coverShortTitle": "回到高考前一天",
+      "intro": "六月六日，教室风扇发出一阵咔嗒声。林知夏抬头，黑板上写着“高考倒计时：一天”。窗外是阴沉的雨，她摸到书包里熟悉的练习本，才发现自己回",
+      "chapterCount": 1,
+      "wordCount": 109,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-37-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-37-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-37-640.webp 640w"
+    },
+    {
+      "id": "book-38",
+      "no": 38,
+      "title": "离婚后我拆掉旧门牌，隔壁女木匠却刻上了两个名字",
+      "genre": "双女主·都市",
+      "coverShortTitle": "女木匠刻下的新门牌",
+      "intro": "离婚后的第二十一天，沈砚秋收到一件寄错称呼的包裹。快递单上的地址是兰桥巷十七号，收件人却仍写“顾太太”。她抬头看门：黑漆牌上的“顾宅",
+      "chapterCount": 1,
+      "wordCount": 111,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-38-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-38-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-38-640.webp 640w"
+    },
+    {
+      "id": "book-39",
+      "no": 39,
+      "title": "获奖提名刚公布，男二就把辞演书递给了改剧本的人",
+      "genre": "双男主·娱乐",
+      "coverShortTitle": "辞演书背面的剧本",
+      "intro": "颁奖礼开场十七分钟，江澈的名字出现在最佳男配角的提名名单上。镜头扫过观众席，表演嘉宾刚演唱完主题曲。这位凭悬疑剧集成名的演员没有站起",
+      "chapterCount": 1,
+      "wordCount": 107,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-39-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-39-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-39-640.webp 640w"
+    },
+    {
+      "id": "book-40",
+      "no": 40,
+      "title": "被赶出豪门第三天，亲妹妹的公司把订单递到了我面前",
+      "genre": "都市成长",
+      "coverShortTitle": "她拿走了自己的设计稿",
+      "intro": "认亲宴结束不到半小时，林知夏的工牌就失效了。公司在社交的平台上公布真正的继承人，品牌编辑团队竟把她的旧照剪成一段笑话。她站在电梯口，",
+      "chapterCount": 1,
+      "wordCount": 93,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-40-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-40-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-40-640.webp 640w"
+    },
+    {
+      "id": "book-41",
+      "no": 41,
+      "title": "反派拒绝杀人后，无名侍卫半夜来找我讨一个名字",
+      "genre": "双男主·古风奇幻",
+      "coverShortTitle": "侍卫来讨一个名字",
+      "intro": "反派把剑扔进护城河那夜，霜城迎来了下雪的寒夜。原著里，他该在祭典上杀死摆渡人，替摄政王背上邪恶的罪名。可裴孤鸿当众拒绝了命令。钟声刚",
+      "chapterCount": 1,
+      "wordCount": 113,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-41-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-41-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-41-640.webp 640w"
+    },
+    {
+      "id": "book-42",
+      "no": 42,
+      "title": "密室第三关要删掉一个人，她先划掉了自己的名字",
+      "genre": "双女主·悬疑",
+      "coverShortTitle": "密室里被划掉的名字",
+      "intro": "比赛进行到第三关，屏幕突然亮出一行红字：请在六十秒内执行一次删除，否则全员淘汰。摄像机对准刻着姓名的七块大理石牌，每块后面都有一扇门",
+      "chapterCount": 1,
+      "wordCount": 114,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-42-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-42-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-42-640.webp 640w"
+    },
+    {
+      "id": "book-43",
+      "no": 43,
+      "title": "县令判她三日后出嫁，女讼师连夜请来八个证人",
+      "genre": "双女主·古风",
+      "coverShortTitle": "女讼师与八位证人",
+      "intro": "“第三日迎亲。”县丞把婚姻的契约推到堂前。沈家女儿沈素没接，问：“我娘死了五年，怎么会在三年前替我画押？”堂上众人不安。县令只看红印",
+      "chapterCount": 1,
+      "wordCount": 118,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-43-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-43-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-43-640.webp 640w"
+    },
+    {
+      "id": "book-44",
+      "no": 44,
+      "title": "酒店要铲平楼顶花园，冷脸经理竟把设计师请上董事会",
+      "genre": "双男主·都市",
+      "coverShortTitle": "楼顶花园不能铲平",
+      "intro": "“周五清场，周一动工。”通知贴在酒店三层的露台门上。三十二岁的景观设计师沈序赶来时，工人们已围住花园的花坛边界。那片露台平台，马上要",
+      "chapterCount": 1,
+      "wordCount": 118,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-44-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-44-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-44-640.webp 640w"
+    },
+    {
+      "id": "book-45",
+      "no": 45,
+      "title": "领离婚证那天，丈夫递来的旧事故记录里有我的签名",
+      "genre": "都市重逢",
+      "coverShortTitle": "离婚证前的旧记录",
+      "intro": "林晚枝把花店门口的鲜花收进桶里时，手机跳出领证通知。今天是两人约定领取离婚证的日子，预约确认的截止时间就在中午。她昨夜装好证件，却落",
+      "chapterCount": 1,
+      "wordCount": 114,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-45-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-45-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-45-640.webp 640w"
+    },
+    {
+      "id": "book-46",
+      "no": 46,
+      "title": "拆迁图上最后一家书报亭成了空地，她带来一份旧租约",
+      "genre": "双女主·都市",
+      "coverShortTitle": "旧租约里的书报亭",
+      "intro": "拆迁公告贴满墙时，老街最后一家书报亭仍在卖报纸。记者宋见微发现，公示图竟把亭子标成“空地”。万秋用硬纸板压住报纸：“我人还在，怎么就",
+      "chapterCount": 1,
+      "wordCount": 111,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-46-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-46-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-46-640.webp 640w"
+    },
+    {
+      "id": "book-47",
+      "no": 47,
+      "title": "灵树化形那夜，他要我亲手拆掉守了三百年的护山阵",
+      "genre": "双男主·仙侠",
+      "coverShortTitle": "守山人与化形灵树",
+      "intro": "大雪封山的第三百年，沈停云发现那棵多年生的灵树正在掉叶。往日茂盛的植被一夜灰白，守山碑上的每年的霜线却向山脚移动了七丈。他以为有妖物",
+      "chapterCount": 1,
+      "wordCount": 104,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-47-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-47-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-47-640.webp 640w"
+    },
+    {
+      "id": "book-48",
+      "no": 48,
+      "title": "天庭裁掉最后一位雨神后，他在人间送的第一单是求雨信",
+      "genre": "奇幻故事",
+      "coverShortTitle": "雨神送来的求雨信",
+      "intro": "南天门的裁员榜贴出来时，掌雨使余霁还坐在半张旧宝座上补水账。名单把他列为失业的人员，理由是云务署推行自动降雨，旧神职属于效率不足的岗",
+      "chapterCount": 1,
+      "wordCount": 98,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-48-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-48-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-48-640.webp 640w"
+    },
+    {
+      "id": "book-49",
+      "no": 49,
+      "title": "返航燃料只够一程，舰长却要我把星舰驶向求救信号",
+      "genre": "双男主·科幻",
+      "coverShortTitle": "只够一程的星舰",
+      "intro": "返航倒计时前，导航员沈砚发现一束异常信号束，从巨行星赫澜背面传出三次求救，附着这里两个字。银梭号结束了六个月的航行，燃料剩余量只够回",
+      "chapterCount": 1,
+      "wordCount": 113,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-49-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-49-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-49-640.webp 640w"
+    },
+    {
+      "id": "book-50",
+      "no": 50,
+      "title": "江南第一女镖师拒接盐票，女掌柜却押上了自己的命",
+      "genre": "双女主·古风",
+      "coverShortTitle": "女镖师拒接的盐票",
+      "intro": "盐行的封门告示贴到第三日，沈知雨在渡口找到陆照雪。江南人称陆照雪是首屈一指的女镖师，她却守着一间小小的镖铺，靠在小树林外削竹箭，连头",
+      "chapterCount": 1,
+      "wordCount": 107,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-50-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-50-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-50-640.webp 640w"
+    },
+    {
+      "id": "book-51",
+      "no": 51,
+      "title": "暴雨淹掉首展当天，女律师扣住了我的签字笔",
+      "genre": "双女主·都市",
+      "coverShortTitle": "暴雨中的第一场展览",
+      "intro": "新馆开幕前两小时，程绫蹚进积水，展厅中央的白色陶片正在散开。下午的展览突然成了抢救现场，入场口浮着票根。她退到干燥处呼叫电工断电，同",
+      "chapterCount": 1,
+      "wordCount": 120,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-51-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-51-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-51-640.webp 640w"
+    },
+    {
+      "id": "book-52",
+      "no": 52,
+      "title": "反派夺城第三天，账房算出他赢来的江山只够吃十二天",
+      "genre": "古风奇幻",
+      "coverShortTitle": "江山只够吃十二天",
+      "intro": "庆功钟敲到第七响，裴照把一张破产告示按在谢临渊的剑鞘上。“你赢了这座城，”她说，“可粮仓只够撑十二天。”武将以为她在开玩笑，直到她摊",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-52-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-52-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-52-640.webp 640w"
+    },
+    {
+      "id": "book-53",
+      "no": 53,
+      "title": "老书店贴出停业通知那晚，隔壁分析师撕掉了我的打折海报",
+      "genre": "双男主·都市",
+      "coverShortTitle": "老书店的停业通知",
+      "intro": "沈见川贴上停业通知，雨水正沿招牌往下淌。父亲留下的“拾光”书店开了二十七年，如今却因涨租和逾期欠款陷入绝境。最后一场商业促销只卖出十",
+      "chapterCount": 1,
+      "wordCount": 84,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-53-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-53-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-53-640.webp 640w"
+    },
+    {
+      "id": "book-54",
+      "no": 54,
+      "title": "母亲安排的相亲对象抱着伤猫离席，我追出去时她正替我挡雨",
+      "genre": "双女主·都市",
+      "coverShortTitle": "她抱着伤猫离开相亲",
+      "intro": "唐栀三十一岁，在婚礼策划公司做了八年主管，最怕母亲突然发来的相亲地址。这次地点是一家河畔咖啡馆，备注写着：“她也是姑娘。”唐栀盯着那",
+      "chapterCount": 1,
+      "wordCount": 100,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-54-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-54-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-54-640.webp 640w"
+    },
+    {
+      "id": "book-55",
+      "no": 55,
+      "title": "辞掉百万年薪回乡，我亲手拆了父亲的AI招牌",
+      "genre": "家庭成长",
+      "coverShortTitle": "回乡拆掉父亲的招牌",
+      "intro": "顾知遥回南方海岛县城的第一天，就叫人把父亲厂门口那块三米高的招牌卸下来。上面写着“AI看一眼，庄稼增产三成”。她刚辞掉城里的工作，离",
+      "chapterCount": 1,
+      "wordCount": 107,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-55-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-55-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-55-640.webp 640w"
+    },
+    {
+      "id": "book-56",
+      "no": 56,
+      "title": "封号公告挂上热搜那晚，队长把备用账号也交给了他",
+      "genre": "双男主·电竞",
+      "coverShortTitle": "封号之后的备用账号",
+      "intro": "联盟发布封号公告时，季燃正在训练馆的竞技场模拟图上练最后一轮攻防。不断增加的质疑涌进手机，热搜把他与“作弊”绑在一起。俱乐部总部来电",
+      "chapterCount": 1,
+      "wordCount": 102,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-56-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-56-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-56-640.webp 640w"
+    },
+    {
+      "id": "book-57",
+      "no": 57,
+      "title": "决赛前泳镜被人调包，退役队友却让我闭眼十秒",
+      "genre": "双女主·体育",
+      "coverShortTitle": "决赛前的十秒钟",
+      "intro": "自由泳决赛前四十分钟，许沫发现泳镜不见了。盒里只剩一副陌生的镜片，鼻桥宽了两毫米，戴上压眼角。她已凭积分取得决赛资格，但作为运动员，",
+      "chapterCount": 1,
+      "wordCount": 113,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-57-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-57-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-57-640.webp 640w"
+    },
+    {
+      "id": "book-58",
+      "no": 58,
+      "title": "婚礼请柬印了我十年前的情诗，摄影师却知道最后一句写给谁",
+      "genre": "双女主·都市",
+      "coverShortTitle": "请柬上的十年前情诗",
+      "intro": "温祈接到婚礼请柬时，正在替一对新人调整誓词的语言，连因为这样的连接词也斟酌再三。信封里有一张奶油色卡纸，烫金字旁印着当年校刊发表过的",
+      "chapterCount": 1,
+      "wordCount": 94,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-58-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-58-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-58-640.webp 640w"
+    },
+    {
+      "id": "book-59",
+      "no": 59,
+      "title": "御史台来拿我那夜，曾当众参我的漕运官递来一本粮册",
+      "genre": "双男主·古风",
+      "coverShortTitle": "漕运官递来的粮册",
+      "intro": "御史台的差役从入口撞进院门时，沈砚正一丝不苟地核对北仓的卷宗。领头人说他涉嫌在赈粮批注上造假，奉命拘捕他。窗外结着薄霜，灯下那枚私印",
+      "chapterCount": 1,
+      "wordCount": 122,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-59-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-59-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-59-640.webp 640w"
+    },
+    {
+      "id": "book-60",
+      "no": 60,
+      "title": "档案室提前收到明日死亡病历，急诊女医生偏要今晚救人",
+      "genre": "双女主·悬疑",
+      "coverShortTitle": "明日病历与今夜救援",
+      "intro": "凌晨两点，许知微在医院档案室发现一本奇怪的病历。封皮日期写着明天，页内甚至记着尚未发生的事件：地铁旧通道进水，十一人受伤。最末一栏却",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-60-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-60-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-60-640.webp 640w"
+    },
+    {
+      "id": "book-61",
+      "no": 61,
+      "title": "休庭十分钟，证人递来空白车票，法医记录员认出了旧票机的齿痕",
+      "genre": "双男主·悬疑职场",
+      "coverShortTitle": "空白车票背后的旧案",
+      "intro": "上午的庭审时段宣布休庭十分钟，援助律师顾临舟合上案卷。拄杖老人穿过旁听席的通道，从旧钱包里取出空白车票，手指因恐惧轻颤：“我不敢说这",
+      "chapterCount": 1,
+      "wordCount": 110,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-61-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-61-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-61-640.webp 640w"
+    },
+    {
+      "id": "book-62",
+      "no": 62,
+      "title": "重生后我没揭穿冒名女学徒，她却交来了商会真正的账册",
+      "genre": "双女主·重生经商",
+      "coverShortTitle": "重生后假学徒交来真账",
+      "intro": "商会签约那天，秦昭宁看见学徒名册上的假印章，手里的笔停住。上一世，她自以为精明，当众指认郁知微是窃贼，说她偷用了别人的入会证明。那场",
+      "chapterCount": 1,
+      "wordCount": 98,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-62-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-62-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-62-640.webp 640w"
+    },
+    {
+      "id": "book-63",
+      "no": 63,
+      "title": "禁塔解封那晚，女校长在百年前的墙上看见了自己的名字",
+      "genre": "双女主·学院奇幻",
+      "coverShortTitle": "禁塔墙上写着我的名字",
+      "intro": "封塔百周年的钟声才敲到第七下，锁链便自己断了，声响在多山的谷地回荡。学院的女校长闻栀站在雨里，看见白塔内壁亮起一行字：“下一位引灾者",
+      "chapterCount": 1,
+      "wordCount": 87,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-63-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-63-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-63-640.webp 640w"
+    },
+    {
+      "id": "book-64",
+      "no": 64,
+      "title": "裁员名单泄露的夜里，人事总监把工会顾问留在了会议室",
+      "genre": "双男主·都市职场",
+      "coverShortTitle": "裁员名单泄露的那一夜",
+      "intro": "周四晚九点，裁员名单泄露。恒川制造的装配车间外，员工通道里拥挤得像旋涡，四十六个名字印成两页，还盖着深红色人事电子章。有人把资料夹拍",
+      "chapterCount": 1,
+      "wordCount": 99,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-64-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-64-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-64-640.webp 640w"
+    },
+    {
+      "id": "book-65",
+      "no": 65,
+      "title": "合伙合同签了三次都没成，暴雨夜她却把厨房钥匙交给了我",
+      "genre": "双女主·都市经营",
+      "coverShortTitle": "暴雨夜她把厨房钥匙给了我",
+      "intro": "签第三次合伙合同那天，社区活动站打来求助电话：暴雨进水，四十七人等待安置。站长问她的店铺能不能借出炉灶。她看着桌上没签完的合同约定的",
+      "chapterCount": 1,
+      "wordCount": 122,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-65-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-65-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-65-640.webp 640w"
+    },
+    {
+      "id": "book-66",
+      "no": 66,
+      "title": "回国第一天，前未婚夫以普通求职者身份坐进了面试间",
+      "genre": "男女主·都市重逢",
+      "coverShortTitle": "回国当天前未婚夫来面试",
+      "intro": "陆栖岚回国的前夕，董事会刚批准她接手新公司的运营。飞机落地后，她拎着行李走进办公楼，迎面遇见贴满黏胶标签的招聘展板。人事经理递来面试",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-66-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-66-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-66-640.webp 640w"
+    },
+    {
+      "id": "book-67",
+      "no": 67,
+      "title": "重生第四回，我没再替将军逃命，却替他保住了边城的百姓",
+      "genre": "双男主·古风重生",
+      "coverShortTitle": "重生后我替他守住边城",
+      "intro": "第四次听见城楼的更鼓，沈砚没有去找贺既明。前三回死后，他都醒在这夜。他在药房惊醒，指尖还残留上一世缰绳勒出的痛。窗外暴风雪猛击屋檐，",
+      "chapterCount": 1,
+      "wordCount": 118,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-67-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-67-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-67-640.webp 640w"
+    },
+    {
+      "id": "book-68",
+      "no": 68,
+      "title": "首映前三小时，她删掉了全片最美的一帧，我却替她按下了确认键",
+      "genre": "双女主·都市影像",
+      "coverShortTitle": "她删掉最美一帧我按下确认",
+      "intro": "下午一点，距离四点的首映还有三小时，摄影师陆岑在放映室叫停试片。银幕上，白发女人站在旧码头前，背后的船坞宏伟壮观的，连试片的工作人员",
+      "chapterCount": 1,
+      "wordCount": 98,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-68-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-68-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-68-640.webp 640w"
+    },
+    {
+      "id": "book-69",
+      "no": 69,
+      "title": "赐婚圣旨还没念完，边关军报便送到了花厅",
+      "genre": "男女主·古风权谋",
+      "coverShortTitle": "赐婚未完边关急报先到",
+      "intro": "沈知微跪在花厅第三排，闻着芬芳的梅花香，内侍的诵读刚到“择吉完婚”，院外的马忽然撞翻了铜铃。在贵族出身的宾客眼里，这就是政客安排的政",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-69-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-69-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-69-640.webp 640w"
+    },
+    {
+      "id": "book-70",
+      "no": 70,
+      "title": "最后一封密电迟到了二十分钟，译员决定公开名单",
+      "genre": "双男主·民国悬疑",
+      "coverShortTitle": "迟到的密电与公开的名单",
+      "intro": "临江入冬的第一场雨下在九点之前。裴知远在印刷厂的地下室里等一封密电。内容属于秘密，只能由他亲自译读，桌上的时钟指向八点五十。按约定，",
+      "chapterCount": 1,
+      "wordCount": 112,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-70-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-70-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-70-640.webp 640w"
+    },
+    {
+      "id": "book-71",
+      "no": 71,
+      "title": "太后说旧河图不能见光，她偏陪我把一座城找回来",
+      "genre": "古风·女官寻城",
+      "coverShortTitle": "她陪我找回被抹去的城",
+      "intro": "临洄城在今年的官图上消失了。只是通往它的河道被人用一笔朱砂划成了荒滩。我核对旧图册，翻到那页时，正好看见三封申请援助的文书被退回来，",
+      "chapterCount": 1,
+      "wordCount": 118,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-71-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-71-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-71-640.webp 640w"
+    },
+    {
+      "id": "book-72",
+      "no": 72,
+      "title": "最后一棒掉在终点前，他逼我把那十秒看了七遍",
+      "genre": "双男主·校园竞技",
+      "coverShortTitle": "掉棒后他逼我重看那十秒",
+      "intro": "接力棒落地时，季闻舟听见的不是裁判哨，而是一声短促的撞击。蓝色田径的跑道上，那根银棒滚过最后一段交接区，观众席的欢呼忽然断了。校际决",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-72-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-72-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-72-640.webp 640w"
+    },
+    {
+      "id": "book-73",
+      "no": 73,
+      "title": "冒充公主的第三天，我当着满城百姓拆了祈雨台",
+      "genre": "双女主·古风民生",
+      "coverShortTitle": "冒充公主后我拆了祈雨台",
+      "intro": "我被抬进皇宫那天，卖花的竹篮还扣在宫门外。礼官说，只需扮三天公主，替病中的永宁殿下主持祈雨礼，便能挣得够开一间花铺的银子。我没答应，",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-73-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-73-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-73-640.webp 640w"
+    },
+    {
+      "id": "book-74",
+      "no": 74,
+      "title": "决赛前夜我的动作表被改，她把伤情记录摊在全队面前",
+      "genre": "双女主·体育竞技",
+      "coverShortTitle": "决赛前夜她拦下被改的动作",
+      "intro": "决赛前夜，我在体操馆发现自己的成套动作表被换了。平衡木原定的最后一组连接，忽然多了一次空翻。教练在红字旁写着“冲金”，那道醒目的笔迹",
+      "chapterCount": 1,
+      "wordCount": 114,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-74-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-74-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-74-640.webp 640w"
+    },
+    {
+      "id": "book-75",
+      "no": 75,
+      "title": "配音棚停电四小时，他把我删掉的三十秒留到了片尾",
+      "genre": "都市·声音制作",
+      "coverShortTitle": "停电之后他替我留下三十秒",
+      "intro": "断电发生在下午六点十七分，毫无预警。我刚把悬疑剧《末班雨声》最后一集的三十秒无台词镜头从草稿里删掉，监听室突然一片黑。耳机里的噪声戛",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-75-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-75-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-75-640.webp 640w"
+    },
+    {
+      "id": "book-76",
+      "no": 76,
+      "title": "董事会逼我裁掉一百八十六人，旧对手投了反对票",
+      "genre": "都市·制造业",
+      "coverShortTitle": "董事会逼我裁员旧对手却反对",
+      "intro": "董事会送来初步的裁员方案那天，我在名单第十七行看见老范的名字。他是老领班，曾在破桌上焊出第一枚传感器。如今有限的现金只够撑五十一天，",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-76-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-76-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-76-640.webp 640w"
+    },
+    {
+      "id": "book-77",
+      "no": 77,
+      "title": "电梯停运第七天，女律师拎着账本敲开了我的门",
+      "genre": "都市·邻里",
+      "coverShortTitle": "电梯停运她拎账本敲门",
+      "intro": "电梯停运的第七天，十二层旧楼的九楼拐角多了一张结实的椅子。住户把它留给爬不动楼梯的人。我抱着一袋杂货，在第六段楼梯上喘得说不出话，抬",
+      "chapterCount": 1,
+      "wordCount": 117,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-77-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-77-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-77-640.webp 640w"
+    },
+    {
+      "id": "book-78",
+      "no": 78,
+      "title": "药宗把最后九粒丹留给仙尊，他醒来先问山下三十七人",
+      "genre": "仙侠·救援",
+      "coverShortTitle": "仙尊醒来先问山下众生",
+      "intro": "药宗的药房有九十九格药柜，那夜空出一面。执事说所有稀缺的续命丹都要留给从战场抬回来的受伤的仙尊，动一粒，便逐出山门。我抱着湿名册站在",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-78-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-78-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-78-640.webp 640w"
+    },
+    {
+      "id": "book-79",
+      "no": 79,
+      "title": "失联两年后，我在仲裁材料末页认出了前任的签名",
+      "genre": "都市·重逢",
+      "coverShortTitle": "失联两年旧案里认出他的签名",
+      "intro": "仲裁委员会寄来的并不是道歉信，而是一份正式的证据交换通知。我拆开信封，先看申请人的名字，再核对仲裁编号。最后一页那行突兀的签名却让我",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-79-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-79-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-79-640.webp 640w"
+    },
+    {
+      "id": "book-80",
+      "no": 80,
+      "title": "我的研发署名被删，女总监当众要求重做试验",
+      "genre": "都市·研发",
+      "coverShortTitle": "署名被删她要求重做试验",
+      "intro": "新品发布前四十八小时，一次突然的修改，让我的名字从研发名单上消失了。屏幕里那份最新的文件只剩“负责人邵哲明”，我看着他的签名，手里的",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-80-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-80-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-80-640.webp 640w"
+    },
+    {
+      "id": "book-81",
+      "no": 81,
+      "title": "药铺账本里藏着明日判词，冷面县令让我当堂对账",
+      "genre": "古风·穿越悬疑",
+      "coverShortTitle": "药铺账本藏着明日判词",
+      "intro": "药铺落锁前，我合上装订松脱的账本，夹层抖出一张薄薄的公文。上面的判决写着“济安堂以假药害民，明日巳时封铺”。我望着落款的日期，后背骤",
+      "chapterCount": 1,
+      "wordCount": 113,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-81-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-81-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-81-640.webp 640w"
+    },
+    {
+      "id": "book-82",
+      "no": 82,
+      "title": "死去五年的妹妹寄来快递，我在旧案里找到了第二扇门",
+      "genre": "都市·旧案悬疑",
+      "coverShortTitle": "死去的妹妹寄来了包裹",
+      "intro": "五年前就死去的沈知遥，今天竟向刑侦队邮寄了一个小包裹。收件人写的是办案民警顾衡，寄件人一栏却填着她的姓名。标签上的墨迹很新，封口处的",
+      "chapterCount": 1,
+      "wordCount": 117,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-82-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-82-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-82-640.webp 640w"
+    },
+    {
+      "id": "book-83",
+      "no": 83,
+      "title": "茶会输掉三万两后，她捧来一壶我不敢喝的水",
+      "genre": "双女主·古风商事",
+      "coverShortTitle": "茶会惨败后她递来一壶水",
+      "intro": "我接掌沈家茶行的第十七日，在春茶会上一口气输掉三万两。这场茶会兼作交货验样，茶样不合约，买主当场退货，要我退回三万两预付款。对面的富",
+      "chapterCount": 1,
+      "wordCount": 117,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-83-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-83-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-83-640.webp 640w"
+    },
+    {
+      "id": "book-84",
+      "no": 84,
+      "title": "庆功宴上我退回了捷报，将军冒雨闯进封死的山谷",
+      "genre": "古风·边城救援",
+      "coverShortTitle": "我退回捷报将军冒雨救人",
+      "intro": "边城的庆功宴还没开席，我便把裴照川的捷报退回案上。文书写着这场战役大获全胜，敌军已撤，百姓无一伤亡。我用朱笔划去最后六个字。军帐里立",
+      "chapterCount": 1,
+      "wordCount": 94,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-84-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-84-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-84-640.webp 640w"
+    },
+    {
+      "id": "book-85",
+      "no": 85,
+      "title": "酒店继承人递来私人支票，我却把三张发票拍在他面前",
+      "genre": "都市·职场情感",
+      "coverShortTitle": "私人支票换不走我的三张发票",
+      "intro": "酒店重新迎接客人那天，我带着三张发票站在休息厅门口。大理石地面擦得光亮，接待员正在摆放免费赠送的点心，工头老蔡把工具箱收好，坐在台阶",
+      "chapterCount": 1,
+      "wordCount": 117,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-85-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-85-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-85-640.webp 640w"
+    },
+    {
+      "id": "book-86",
+      "no": 86,
+      "title": "辩论赛抽签那晚，我最想赢的人坐到了反方席",
+      "genre": "校园·辩论重逢",
+      "coverShortTitle": "最想赢的人坐到了反方席",
+      "intro": "这场联赛的抽签箱打开时，校园笼在雨里。我替法学院抽到正方，题目是“城市临时避寒站是否应将实名登记设为常规程序”。主持人念完主题，哲学",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-86-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-86-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-86-640.webp 640w"
+    },
+    {
+      "id": "book-87",
+      "no": 87,
+      "title": "创业赛决赛前夜，我和前合伙人一起拒绝了夺冠捷径",
+      "genre": "双男主·创业重逢",
+      "coverShortTitle": "拒绝夺冠捷径后我们重新靠近",
+      "intro": "决赛前夜的筹备的会议开到凌晨，签到处仍亮着灯。陆栖迟领到第七组参赛者的证件，转身看见第八组的负责人程闻。两年前，他们拆了伙。工作人员",
+      "chapterCount": 1,
+      "wordCount": 112,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-87-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-87-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-87-640.webp 640w"
+    },
+    {
+      "id": "book-88",
+      "no": 88,
+      "title": "夺冠那天，我拒绝替赞助商的问题食品签安全证明",
+      "genre": "校园·食品调查",
+      "coverShortTitle": "夺冠当天我拒签那张安全证明",
+      "intro": "奖杯刚举过头顶，唐知意就被人塞来一张签字单。全国大学生食品创新赛的冠军还没走下舞台，冠名企业的人已把甜点试吃盒推到她手边，笑着让她为",
+      "chapterCount": 1,
+      "wordCount": 121,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-88-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-88-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-88-640.webp 640w"
+    },
+    {
+      "id": "book-89",
+      "no": 89,
+      "title": "避难所按积分分水那天，她和女工程师撕掉了排名表",
+      "genre": "灾后生存·双女主",
+      "coverShortTitle": "积分分水那天她撕掉了排名表",
+      "intro": "避难所宣布按贡献积分分水的早晨，九岁的霜霜拿着空的杯子排到窗口，却被告知她的等级不够。玻璃后，配水员把一桶饮水留给修理队；她的外婆扶",
+      "chapterCount": 1,
+      "wordCount": 125,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-89-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-89-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-89-640.webp 640w"
+    },
+    {
+      "id": "book-90",
+      "no": 90,
+      "title": "新帝要立功德碑，我与故人却在河图上圈出死城",
+      "genre": "古代·河防悬疑",
+      "coverShortTitle": "新帝立碑我们却找到了死城",
+      "intro": "新帝登基第三日，宫门前正在搭一座纪念性的石碑。我奉命撰写颂词，工匠已把巨石吊上基座，碑后却站着一个泥人。江允衡曾与我共读寒窗，如今任",
+      "chapterCount": 1,
+      "wordCount": 117,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-90-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-90-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-90-640.webp 640w"
+    },
+    {
+      "id": "book-91",
+      "no": 91,
+      "title": "新歌下架那晚，她让我留下那段不肯修平的呼吸",
+      "genre": "音乐创作·双女主",
+      "coverShortTitle": "新歌下架她要留下那段呼吸",
+      "intro": "《潮汐信箱》上线不到两个小时，平台播放页就变成了已关闭状态。歌手林见萤刚结束一场小型音乐会，台下还有人跟唱副歌；转眼，手机上涌进数不",
+      "chapterCount": 1,
+      "wordCount": 111,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-91-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-91-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-91-640.webp 640w"
+    },
+    {
+      "id": "book-92",
+      "no": 92,
+      "title": "全城骂他见死不救，底片另一半却拍下了真正的救援",
+      "genre": "都市·摄影悬疑",
+      "coverShortTitle": "被骂见死不救后底片替他说话",
+      "intro": "旧照片铺满地铁站屏幕时，苏照正赶去一场采访。画面里，男人胸前挂着相机，面对跪在洪水边的女人，一动不动。配文只写：“七年前，他只拍照不",
+      "chapterCount": 1,
+      "wordCount": 115,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-92-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-92-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-92-640.webp 640w"
+    },
+    {
+      "id": "book-93",
+      "no": 93,
+      "title": "火灾报告少了两页，来认错的档案员替我守了三个月的灯",
+      "genre": "都市·档案悬疑",
+      "coverShortTitle": "火灾报告少两页他来认了错",
+      "intro": "旧印染厂失火案结案五年后，我在档案室接到一份没有署名的举报。信说报告缺两页，那场原本认定意外的火灾另有隐情。我打开封卷，第三十二页直",
+      "chapterCount": 1,
+      "wordCount": 121,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-93-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-93-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-93-640.webp 640w"
+    },
+    {
+      "id": "book-94",
+      "no": 94,
+      "title": "实习名额只剩一个，我和室友却先把举报信送进了院办",
+      "genre": "校园职场·现实情感",
+      "coverShortTitle": "只剩一个名额我们先去举报",
+      "intro": "实习名单公布前夜，我在医院走廊看见自己的名字被划掉。白板只剩一个名额，贴着“奉献积分”。结束手术观摩的学生未散，值班室里的时钟已经越",
+      "chapterCount": 1,
+      "wordCount": 116,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-94-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-94-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-94-640.webp 640w"
+    },
+    {
+      "id": "book-95",
+      "no": 95,
+      "title": "重生第一天，我把争产遗嘱寄给了最恨我的堂兄",
+      "genre": "重生·家族与公益",
+      "coverShortTitle": "重生后我把遗嘱寄给堂兄",
+      "intro": "我第二次睁眼时，会客厅里正摆着祖母的遗像。墙角一束矮牵牛尚未凋谢，花边旧相框里是祖母六十岁那年留影，花瓶旁的老时钟指向九点。我知道下",
+      "chapterCount": 1,
+      "wordCount": 111,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-95-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-95-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-95-640.webp 640w"
+    },
+    {
+      "id": "book-96",
+      "no": 96,
+      "title": "被剪掉的采访登上银幕，导演却让我看完最后一行字幕",
+      "genre": "电影创作·旧城纪实",
+      "coverShortTitle": "被删的采访谁又放回了银幕",
+      "intro": "电影节技术放映的第七分钟，我看见自己亲手删掉的画面出现在银幕上。那是一段沿岸的旧城采访，镜头越过海滨的防波墙，停在女人没有拉好窗帘的",
+      "chapterCount": 1,
+      "wordCount": 99,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-96-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-96-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-96-640.webp 640w"
+    },
+    {
+      "id": "book-97",
+      "no": 97,
+      "title": "宫鼓早响半刻，她陪我拦下出城的八百骑",
+      "genre": "古代·宫门悬疑",
+      "coverShortTitle": "宫鼓早响她陪我拦下骑兵",
+      "intro": "宫鼓敲响第三更时，我正将一份夜间记录压在宫门石案上。掌更官说时辰到了，西门可以放行；可我看见宫墙外那株老槐的树枝还没有被月影移过。今",
+      "chapterCount": 1,
+      "wordCount": 98,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-97-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-97-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-97-640.webp 640w"
+    },
+    {
+      "id": "book-98",
+      "no": 98,
+      "title": "分居第二天，我翻到了丈夫记满七年的家务账",
+      "genre": "都市·婚姻家庭",
+      "coverShortTitle": "分居之后才看见他的家务账",
+      "intro": "结婚第七年，我第一次拖箱子出家门。薛临川没拦，只问住隔壁是否方便。我们争论到凌晨，彼此的问题却没人回答。女儿朵朵抱着一只旧恐龙玩偶，",
+      "chapterCount": 1,
+      "wordCount": 118,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-98-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-98-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-98-640.webp 640w"
+    },
+    {
+      "id": "book-99",
+      "no": 99,
+      "title": "长明灯灭了三息，他却求我别替他续上",
+      "genre": "奇幻·民俗志怪",
+      "coverShortTitle": "长明灯灭他求我别再续上",
+      "intro": "长明灯熄灭时，我正往供桌上放录音笔。火苗只灭了三次心跳，门外却忽然响起一阵慌乱的声响，像听见了地狱传来的回音。端着香烛的村民停在台阶",
+      "chapterCount": 1,
+      "wordCount": 119,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-99-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-99-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-99-640.webp 640w"
+    },
+    {
+      "id": "book-100",
+      "no": 100,
+      "title": "监控里没人进屋，她却让我别用鞋印指认任何人",
+      "genre": "都市·痕迹调查",
+      "coverShortTitle": "监控里没人鞋印指向谁",
+      "intro": "吴老师的门锁没有撬痕，楼道摄像机从晚八点录到清晨六点，画面里没人进出那道门。可她放在书房的铁匣子不见了，地上偏偏留着两种鞋的鞋底纹。",
+      "chapterCount": 1,
+      "wordCount": 103,
+      "cover": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-100-640.webp",
+      "coverSrcSet": "https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-100-320.webp 320w, https://novel.quwanclass.com/assets/ielts/shorts-v1/covers/book-100-640.webp 640w"
+    }
+  ],
+  "longNovel": {
+    "id": "ielts-long",
+    "title": "京圈豪门弃女",
+    "sourceTitle": "京圈豪门弃女 · 边追爽文边学雅思",
+    "partCount": 5,
+    "chapterCount": 100,
+    "parts": [
+      {
+        "id": "part-01",
+        "no": "Part 01",
+        "title": "绝境觉醒",
+        "range": "Chapter 01 - 20",
+        "cover": "https://novel.quwanclass.com/assets/optimized-v1/covers/part-01-cover.webp",
+        "intro": "一睁眼成了豪门弃女，潜规则与网暴接踵而至。这具身体里，藏着满级公关的灵魂。",
+        "chapters": [
+          {
+            "no": 1,
+            "id": "story-001",
+            "title": "刚穿来就身陷潜规则死局",
+            "wordCount": 104,
+            "sourceAvailable": true
+          },
+          {
+            "no": 2,
+            "id": "story-002",
+            "title": "试图自证清白却遭遇全网网暴",
+            "wordCount": 126,
+            "sourceAvailable": true
+          },
+          {
+            "no": 3,
+            "id": "story-003",
+            "title": "假千金递来的带毒百合花",
+            "wordCount": 109,
+            "sourceAvailable": true
+          },
+          {
+            "no": 4,
+            "id": "story-004",
+            "title": "霍景尘居高临下的冷酷旁观",
+            "wordCount": 107,
+            "sourceAvailable": true
+          },
+          {
+            "no": 5,
+            "id": "story-005",
+            "title": "疯批影帝将她当做逗猫草",
+            "wordCount": 117,
+            "sourceAvailable": true
+          },
+          {
+            "no": 6,
+            "id": "story-006",
+            "title": "孤立无援的雨夜被赶出剧组",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 7,
+            "id": "story-007",
+            "title": "资本牌桌上根本没有弱者的席位",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 8,
+            "id": "story-008",
+            "title": "满身泥泞仍试图寻找微茫公道",
+            "wordCount": 104,
+            "sourceAvailable": true
+          },
+          {
+            "no": 9,
+            "id": "story-009",
+            "title": "顾明珠暗中剪断她的高空威亚",
+            "wordCount": 109,
+            "sourceAvailable": true
+          },
+          {
+            "no": 10,
+            "id": "story-010",
+            "title": "坠落瞬间只有冷漠的闪光灯",
+            "wordCount": 118,
+            "sourceAvailable": true
+          },
+          {
+            "no": 11,
+            "id": "story-011",
+            "title": "霍景尘把她当做探路的弃子",
+            "wordCount": 122,
+            "sourceAvailable": true
+          },
+          {
+            "no": 12,
+            "id": "story-012",
+            "title": "裴寒之掐着她的脖子欣赏挣扎",
+            "wordCount": 126,
+            "sourceAvailable": true
+          },
+          {
+            "no": 13,
+            "id": "story-013",
+            "title": "亲生父母竟然只向着假千金",
+            "wordCount": 98,
+            "sourceAvailable": true
+          },
+          {
+            "no": 14,
+            "id": "story-014",
+            "title": "天真被无底线的恶意彻底粉碎",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 15,
+            "id": "story-015",
+            "title": "陷入绝境的最后一次微弱求救",
+            "wordCount": 117,
+            "sourceAvailable": true
+          },
+          {
+            "no": 16,
+            "id": "story-016",
+            "title": "换来的只有豪门更残忍的嘲笑",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 17,
+            "id": "story-017",
+            "title": "被关进漆黑阴冷的废弃地下室",
+            "wordCount": 107,
+            "sourceAvailable": true
+          },
+          {
+            "no": 18,
+            "id": "story-018",
+            "title": "濒死边缘满级公关意识彻底觉醒",
+            "wordCount": 107,
+            "sourceAvailable": true
+          },
+          {
+            "no": 19,
+            "id": "story-019",
+            "title": "擦干眼泪砸碎玻璃窗泣血越狱",
+            "wordCount": 106,
+            "sourceAvailable": true
+          },
+          {
+            "no": 20,
+            "id": "story-020",
+            "title": "斩断长发告别所有软弱的过去",
+            "wordCount": 108,
+            "sourceAvailable": true
+          }
+        ],
+        "chapterCount": 20
+      },
+      {
+        "id": "part-02",
+        "no": "Part 02",
+        "title": "反杀起势",
+        "range": "Chapter 21 - 40",
+        "cover": "https://novel.quwanclass.com/assets/optimized-v1/covers/part-02-cover.webp",
+        "intro": "跌到谷底的人最懂递刀。从弃子到执刀人，她撕开反杀的第一道口子。",
+        "chapters": [
+          {
+            "no": 21,
+            "id": "story-021",
+            "title": "不做猎物那就成为最狠的执刀人",
+            "wordCount": 134,
+            "sourceAvailable": true
+          },
+          {
+            "no": 22,
+            "id": "story-022",
+            "title": "顶尖公关的冷血逻辑正式上线",
+            "wordCount": 135,
+            "sourceAvailable": true
+          },
+          {
+            "no": 23,
+            "id": "story-023",
+            "title": "借力打力反噬第一波黑水军",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 24,
+            "id": "story-024",
+            "title": "霍景尘眼底初次闪过一抹惊艳",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 25,
+            "id": "story-025",
+            "title": "带着血迹的教科书级危机公关",
+            "wordCount": 80,
+            "sourceAvailable": true
+          },
+          {
+            "no": 26,
+            "id": "story-026",
+            "title": "顾明珠的绿茶人设初次翻车",
+            "wordCount": 103,
+            "sourceAvailable": true
+          },
+          {
+            "no": 27,
+            "id": "story-027",
+            "title": "裴寒之发觉手里的玩具变成了狼",
+            "wordCount": 93,
+            "sourceAvailable": true
+          },
+          {
+            "no": 28,
+            "id": "story-028",
+            "title": "抛弃幻想开始收集致命筹码",
+            "wordCount": 85,
+            "sourceAvailable": true
+          },
+          {
+            "no": 29,
+            "id": "story-029",
+            "title": "恋综上不再配合演出受害者剧本",
+            "wordCount": 85,
+            "sourceAvailable": true
+          },
+          {
+            "no": 30,
+            "id": "story-030",
+            "title": "冷脸手撕恶剪节目组惊呆全网",
+            "wordCount": 71,
+            "sourceAvailable": true
+          },
+          {
+            "no": 31,
+            "id": "story-031",
+            "title": "霍大佬亲自递来试探的橄榄枝",
+            "wordCount": 101,
+            "sourceAvailable": true
+          },
+          {
+            "no": 32,
+            "id": "story-032",
+            "title": "拒绝施舍我要平起平坐的交易",
+            "wordCount": 124,
+            "sourceAvailable": true
+          },
+          {
+            "no": 33,
+            "id": "story-033",
+            "title": "步步为营设下反杀的连环局",
+            "wordCount": 105,
+            "sourceAvailable": true
+          },
+          {
+            "no": 34,
+            "id": "story-034",
+            "title": "猎杀时刻的帷幕在暗夜拉开",
+            "wordCount": 95,
+            "sourceAvailable": true
+          },
+          {
+            "no": 35,
+            "id": "story-035",
+            "title": "用魔法打败魔法的绿茶克星",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 36,
+            "id": "story-036",
+            "title": "捏住王导演命脉的致命录音",
+            "wordCount": 125,
+            "sourceAvailable": true
+          },
+          {
+            "no": 37,
+            "id": "story-037",
+            "title": "舆论逆转她成了最拽清醒大女主",
+            "wordCount": 130,
+            "sourceAvailable": true
+          },
+          {
+            "no": 38,
+            "id": "story-038",
+            "title": "成立独立工作室单挑半个京圈",
+            "wordCount": 101,
+            "sourceAvailable": true
+          },
+          {
+            "no": 39,
+            "id": "story-039",
+            "title": "顾明珠眼红抢夺高奢品牌代言",
+            "wordCount": 124,
+            "sourceAvailable": true
+          },
+          {
+            "no": 40,
+            "id": "story-040",
+            "title": "全英文流利提案当面碾压假千金",
+            "wordCount": 106,
+            "sourceAvailable": true
+          }
+        ],
+        "chapterCount": 20
+      },
+      {
+        "id": "part-03",
+        "no": "Part 03",
+        "title": "豪门清算",
+        "range": "Chapter 41 - 60",
+        "cover": "https://novel.quwanclass.com/assets/optimized-v1/covers/part-03-cover.webp",
+        "intro": "假千金的面具、父母的偏心、资本的水军，一笔笔旧账该清算了。",
+        "chapters": [
+          {
+            "no": 41,
+            "id": "story-041",
+            "title": "霍景尘心甘情愿借出他的东风",
+            "wordCount": 125,
+            "sourceAvailable": true
+          },
+          {
+            "no": 42,
+            "id": "story-042",
+            "title": "疯批影帝的因爱生恨与病态纠缠",
+            "wordCount": 169,
+            "sourceAvailable": true
+          },
+          {
+            "no": 43,
+            "id": "story-043",
+            "title": "剧本围读会上的演技降维打击",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 44,
+            "id": "story-044",
+            "title": "潜入查阅十年前孤儿院加密档案",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 45,
+            "id": "story-045",
+            "title": "顺藤摸瓜揪出当年的黑手护士",
+            "wordCount": 97,
+            "sourceAvailable": true
+          },
+          {
+            "no": 46,
+            "id": "story-046",
+            "title": "顾明珠惊慌失措疯狂销毁证据",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 47,
+            "id": "story-047",
+            "title": "慈善晚宴红毯的绝地反杀",
+            "wordCount": 98,
+            "sourceAvailable": true
+          },
+          {
+            "no": 48,
+            "id": "story-048",
+            "title": "亲手撕开假千金岁月静好的画皮",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 49,
+            "id": "story-049",
+            "title": "霍景尘在暗夜里的致命试探",
+            "wordCount": 103,
+            "sourceAvailable": true
+          },
+          {
+            "no": 50,
+            "id": "story-050",
+            "title": "亲生父母的痛哭与迟来的懊悔",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 51,
+            "id": "story-051",
+            "title": "绝对控股权与重塑内娱秩序",
+            "wordCount": 97,
+            "sourceAvailable": true
+          },
+          {
+            "no": 52,
+            "id": "story-052",
+            "title": "顾氏帝国覆灭与资本女王的加冕",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 53,
+            "id": "story-053",
+            "title": "带着铁证一脚踢开顾家别墅大门",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 54,
+            "id": "story-054",
+            "title": "真假千金血统的当众公开审判",
+            "wordCount": 101,
+            "sourceAvailable": true
+          },
+          {
+            "no": 55,
+            "id": "story-055",
+            "title": "拒绝虚伪亲情我要你们倾家荡产",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 56,
+            "id": "story-056",
+            "title": "顾明珠被扫地出门流落街头",
+            "wordCount": 135,
+            "sourceAvailable": true
+          },
+          {
+            "no": 57,
+            "id": "story-057",
+            "title": "强势入股顾氏娱乐夺回大权",
+            "wordCount": 106,
+            "sourceAvailable": true
+          },
+          {
+            "no": 58,
+            "id": "story-058",
+            "title": "董事会上冷血大换血清洗老顽固",
+            "wordCount": 88,
+            "sourceAvailable": true
+          },
+          {
+            "no": 59,
+            "id": "story-059",
+            "title": "裴寒之动用暗网切断她资金链",
+            "wordCount": 104,
+            "sourceAvailable": true
+          },
+          {
+            "no": 60,
+            "id": "story-060",
+            "title": "霍景尘砸下百亿身家陪她发疯",
+            "wordCount": 100,
+            "sourceAvailable": true
+          }
+        ],
+        "chapterCount": 20
+      },
+      {
+        "id": "part-04",
+        "no": "Part 04",
+        "title": "巅峰博弈",
+        "range": "Chapter 61 - 80",
+        "cover": "https://novel.quwanclass.com/assets/optimized-v1/covers/part-04-cover.webp",
+        "intro": "她坐上牌桌，对面已是财阀本人。这一局赌的，是谁先露怯。",
+        "chapters": [
+          {
+            "no": 61,
+            "id": "story-061",
+            "title": "利益绝对捆绑下的灵魂高度契合",
+            "wordCount": 131,
+            "sourceAvailable": true
+          },
+          {
+            "no": 62,
+            "id": "story-062",
+            "title": "联手设局做空裴氏海外产业",
+            "wordCount": 110,
+            "sourceAvailable": true
+          },
+          {
+            "no": 63,
+            "id": "story-063",
+            "title": "疯批影帝的资金盘面临全面崩盘",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 64,
+            "id": "story-064",
+            "title": "顾明珠出卖肉体沦为暗网恶臭棋子",
+            "wordCount": 120,
+            "sourceAvailable": true
+          },
+          {
+            "no": 65,
+            "id": "story-065",
+            "title": "揭开顾家跨国洗钱的惊天黑幕",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 66,
+            "id": "story-066",
+            "title": "惊觉幕后大Boss竟是裴寒之",
+            "wordCount": 101,
+            "sourceAvailable": true
+          },
+          {
+            "no": 67,
+            "id": "story-067",
+            "title": "霍景尘家族内乱爆发腹背受敌",
+            "wordCount": 117,
+            "sourceAvailable": true
+          },
+          {
+            "no": 68,
+            "id": "story-068",
+            "title": "这次换我站出来做你的最强底牌",
+            "wordCount": 114,
+            "sourceAvailable": true
+          },
+          {
+            "no": 69,
+            "id": "story-069",
+            "title": "兵不血刃瓦解霍氏家族内鬼势力",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 70,
+            "id": "story-070",
+            "title": "并肩站上内娱不可撼动的巅峰",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 71,
+            "id": "story-071",
+            "title": "一封带血的匿名信重启终极死局",
+            "wordCount": 123,
+            "sourceAvailable": true
+          },
+          {
+            "no": 72,
+            "id": "story-072",
+            "title": "原主母亲当年竟然没有死于难产",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 73,
+            "id": "story-073",
+            "title": "孤身探秘裴寒之的私人禁忌疗养院",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 74,
+            "id": "story-074",
+            "title": "惊天骇浪十五年的暗无天日",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 75,
+            "id": "story-075",
+            "title": "黑暗中被裴寒之死死按在墙角",
+            "wordCount": 107,
+            "sourceAvailable": true
+          },
+          {
+            "no": 76,
+            "id": "story-076",
+            "title": "玻璃碎片毫不留情刺穿他的胸口",
+            "wordCount": 117,
+            "sourceAvailable": true
+          },
+          {
+            "no": 77,
+            "id": "story-077",
+            "title": "异国街头枪林弹雨中的生死逃亡",
+            "wordCount": 117,
+            "sourceAvailable": true
+          },
+          {
+            "no": 78,
+            "id": "story-078",
+            "title": "霍景尘血泊中替她挡下致命一枪",
+            "wordCount": 98,
+            "sourceAvailable": true
+          },
+          {
+            "no": 79,
+            "id": "story-079",
+            "title": "抢救室外立下不死不休的毒誓",
+            "wordCount": 107,
+            "sourceAvailable": true
+          },
+          {
+            "no": 80,
+            "id": "story-080",
+            "title": "代理霍氏掌权人化身冷血修罗",
+            "wordCount": 153,
+            "sourceAvailable": true
+          }
+        ],
+        "chapterCount": 20
+      },
+      {
+        "id": "part-05",
+        "no": "Part 05",
+        "title": "女王终局",
+        "range": "Chapter 81 - 100",
+        "cover": "https://novel.quwanclass.com/assets/optimized-v1/covers/part-05-cover.webp",
+        "intro": "从弃女到女王，她把所有人踩在脚下，而那个冷眼旁观的男人想做她裙下之臣。",
+        "chapters": [
+          {
+            "no": 81,
+            "id": "story-081",
+            "title": "启动天罗地网全面围剿暗网势力",
+            "wordCount": 101,
+            "sourceAvailable": true
+          },
+          {
+            "no": 82,
+            "id": "story-082",
+            "title": "策反裴寒之身边最信任的冷血亲信",
+            "wordCount": 118,
+            "sourceAvailable": true
+          },
+          {
+            "no": 83,
+            "id": "story-083",
+            "title": "公海绝命游轮的最后惊天博弈.",
+            "wordCount": 112,
+            "sourceAvailable": true
+          },
+          {
+            "no": 84,
+            "id": "story-084",
+            "title": "读秒爆炸前救出被折磨疯癫的母亲",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 85,
+            "id": "story-085",
+            "title": "裴寒之在火海中与帝国同归于尽",
+            "wordCount": 100,
+            "sourceAvailable": true
+          },
+          {
+            "no": 86,
+            "id": "story-086",
+            "title": "霍景尘苏醒紧紧扣住她的十指",
+            "wordCount": 111,
+            "sourceAvailable": true
+          },
+          {
+            "no": 87,
+            "id": "story-087",
+            "title": "顾明珠在无尽逃亡中彻底疯魔",
+            "wordCount": 101,
+            "sourceAvailable": true
+          },
+          {
+            "no": 88,
+            "id": "story-088",
+            "title": "所有的罪恶终于在阳光下伏法",
+            "wordCount": 106,
+            "sourceAvailable": true
+          },
+          {
+            "no": 89,
+            "id": "story-089",
+            "title": "肃清所有残局加冕真正的商界女王",
+            "wordCount": 129,
+            "sourceAvailable": true
+          },
+          {
+            "no": 90,
+            "id": "story-090",
+            "title": "包下全城地标屏幕的霸道世纪求婚",
+            "wordCount": 101,
+            "sourceAvailable": true
+          },
+          {
+            "no": 91,
+            "id": "story-091",
+            "title": "顾家父母跪在雨中痛哭流涕求原谅",
+            "wordCount": 110,
+            "sourceAvailable": true
+          },
+          {
+            "no": 92,
+            "id": "story-092",
+            "title": "连一个眼神都不屑给的绝对漠视",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 93,
+            "id": "story-093",
+            "title": "商业死敌企图大婚前夕联手偷家",
+            "wordCount": 106,
+            "sourceAvailable": true
+          },
+          {
+            "no": 94,
+            "id": "story-094",
+            "title": "雌雄双煞雷霆手腕十天捏碎狂徒",
+            "wordCount": 105,
+            "sourceAvailable": true
+          },
+          {
+            "no": 95,
+            "id": "story-095",
+            "title": "母亲记忆恢复残缺人生终于圆满",
+            "wordCount": 114,
+            "sourceAvailable": true
+          },
+          {
+            "no": 96,
+            "id": "story-096",
+            "title": "娱乐帝国敲钟上市缔造财富神话",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 97,
+            "id": "story-097",
+            "title": "海岛世纪婚礼群星闪耀贺新后",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 98,
+            "id": "story-098",
+            "title": "无论前世今生我只对你低头臣服",
+            "wordCount": 113,
+            "sourceAvailable": true
+          },
+          {
+            "no": 99,
+            "id": "story-099",
+            "title": "重返穿越原点笑看一路风云变幻",
+            "wordCount": 102,
+            "sourceAvailable": true
+          },
+          {
+            "no": 100,
+            "id": "story-100",
+            "title": "财阀女王与她的首席裙下臣",
+            "wordCount": 117,
+            "sourceAvailable": true
+          }
+        ],
+        "chapterCount": 20
+      }
+    ]
+  }
+}

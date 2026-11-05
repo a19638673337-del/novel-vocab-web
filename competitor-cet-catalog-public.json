@@ -1,0 +1,430 @@
+{
+  "source": "https://novel.quwanclass.com/cet/",
+  "kind": "public catalog metadata only",
+  "books": [
+    {
+      "id": "book-01",
+      "no": 1,
+      "title": "穿越成死囚，却发现冷面县令活不过这个夏天",
+      "genre": "穿越·甜宠",
+      "chapterCount": 1,
+      "wordCount": 129
+    },
+    {
+      "id": "book-02",
+      "no": 2,
+      "title": "嫁给仇人的儿子，是我复仇的第一步",
+      "genre": "霸总·追妻",
+      "chapterCount": 1,
+      "wordCount": 109
+    },
+    {
+      "id": "book-03",
+      "no": 3,
+      "title": "我要登报揭发的军阀，每晚往我窗台上放一碗甜汤",
+      "genre": "民国·悬疑",
+      "chapterCount": 1,
+      "wordCount": 110
+    },
+    {
+      "id": "book-04",
+      "no": 4,
+      "title": "替师尊挡下天雷后，他娶了一个和我长得一模一样的人",
+      "genre": "仙侠·虐恋",
+      "chapterCount": 1,
+      "wordCount": 107
+    },
+    {
+      "id": "book-05",
+      "no": 5,
+      "title": "灭我满门的太子，要我每天替他试毒",
+      "genre": "古偶·权谋",
+      "chapterCount": 1,
+      "wordCount": 105
+    },
+    {
+      "id": "book-06",
+      "no": 6,
+      "title": "暗恋校草一整年，我在他课桌里藏了365张错题",
+      "genre": "校园·甜宠",
+      "chapterCount": 1,
+      "wordCount": 102
+    },
+    {
+      "id": "book-07",
+      "no": 7,
+      "title": "公主知道我是刺客，还是夜夜等我回来",
+      "genre": "双女主·虐恋",
+      "chapterCount": 1,
+      "wordCount": 117
+    },
+    {
+      "id": "book-08",
+      "no": 8,
+      "title": "捡回来的瞎眼男人，从不肯说自己是谁",
+      "genre": "耽美·虐转甜",
+      "chapterCount": 1,
+      "wordCount": 111
+    },
+    {
+      "id": "book-09",
+      "no": 9,
+      "title": "一只狐狸来敲门，说它欠我奶奶一条命",
+      "genre": "志怪·温情",
+      "chapterCount": 1,
+      "wordCount": 122
+    },
+    {
+      "id": "book-10",
+      "no": 10,
+      "title": "霸总英语太烂，系统让我当他的私人老师",
+      "genre": "沙雕轻喜",
+      "chapterCount": 1,
+      "wordCount": 110
+    },
+    {
+      "id": "book-11",
+      "no": 11,
+      "title": "领证才发现，老公是没收过我小抄的监考老师",
+      "genre": "霸总·先婚后爱",
+      "chapterCount": 1,
+      "wordCount": 126
+    },
+    {
+      "id": "book-12",
+      "no": 12,
+      "title": "凌晨两点，电台里有人给死人点歌",
+      "genre": "悬疑",
+      "chapterCount": 1,
+      "wordCount": 124
+    },
+    {
+      "id": "book-13",
+      "no": 13,
+      "title": "被退婚那天，我收下了他家所有的聘礼",
+      "genre": "大女主",
+      "chapterCount": 1,
+      "wordCount": 113
+    },
+    {
+      "id": "book-14",
+      "no": 14,
+      "title": "捡回家的穷书生，说他要回天上去了",
+      "genre": "仙侠·甜虐",
+      "chapterCount": 1,
+      "wordCount": 109
+    },
+    {
+      "id": "book-15",
+      "no": 15,
+      "title": "穿成炮灰女配，我只想考个状元",
+      "genre": "穿书·轻喜",
+      "chapterCount": 1,
+      "wordCount": 112
+    },
+    {
+      "id": "book-16",
+      "no": 16,
+      "title": "新婚夜，将军告诉和亲郡主，他娶她只为复仇",
+      "genre": "古偶·虐恋",
+      "chapterCount": 1,
+      "wordCount": 111
+    },
+    {
+      "id": "book-17",
+      "no": 17,
+      "title": "报错了社团，高冷社长却带我看了一夜流星",
+      "genre": "校园·甜宠",
+      "chapterCount": 1,
+      "wordCount": 125
+    },
+    {
+      "id": "book-18",
+      "no": 18,
+      "title": "他守了三百年的桥，她来拆了",
+      "genre": "志怪·虐恋",
+      "chapterCount": 1,
+      "wordCount": 113
+    },
+    {
+      "id": "book-19",
+      "no": 19,
+      "title": "替嫁冲喜，植物人老公新婚夜醒了",
+      "genre": "霸总·甜宠",
+      "chapterCount": 1,
+      "wordCount": 112
+    },
+    {
+      "id": "book-20",
+      "no": 20,
+      "title": "孤岛民宿里，多出了第七个客人",
+      "genre": "悬疑·推理",
+      "chapterCount": 1,
+      "wordCount": 102
+    },
+    {
+      "id": "book-21",
+      "no": 21,
+      "title": "全校最凶的转学生，只对我一个人笑",
+      "genre": "双女主·校园",
+      "chapterCount": 1,
+      "wordCount": 104
+    },
+    {
+      "id": "book-22",
+      "no": 22,
+      "title": "女法医穿越了，验的第一具尸体是她自己",
+      "genre": "大女主·悬疑",
+      "chapterCount": 1,
+      "wordCount": 107
+    },
+    {
+      "id": "book-23",
+      "no": 23,
+      "title": "被他淘汰的替补，回来抢他的首发位了",
+      "genre": "耽美·现代",
+      "chapterCount": 1,
+      "wordCount": 99
+    },
+    {
+      "id": "book-24",
+      "no": 24,
+      "title": "我在太后寿宴上，绣出了灭我满门的凶手",
+      "genre": "古偶·悬疑",
+      "chapterCount": 1,
+      "wordCount": 104
+    },
+    {
+      "id": "book-25",
+      "no": 25,
+      "title": "我的猫成精了，天天逼我背单词",
+      "genre": "沙雕轻喜",
+      "chapterCount": 1,
+      "wordCount": 109
+    },
+    {
+      "id": "book-26",
+      "no": 26,
+      "title": "离婚三年，前夫在我的签售会上排队求复合",
+      "genre": "霸总·追妻",
+      "chapterCount": 1,
+      "wordCount": 107
+    },
+    {
+      "id": "book-27",
+      "no": 27,
+      "title": "将军不肯喝孟婆汤，他说还要等她",
+      "genre": "志怪·虐恋",
+      "chapterCount": 1,
+      "wordCount": 102
+    },
+    {
+      "id": "book-28",
+      "no": 28,
+      "title": "穿进末世文，我靠种菜被大佬宠上天",
+      "genre": "穿书·末世",
+      "chapterCount": 1,
+      "wordCount": 106
+    },
+    {
+      "id": "book-29",
+      "no": 29,
+      "title": "同学会他没来，只寄来一封情书",
+      "genre": "校园·虐恋",
+      "chapterCount": 1,
+      "wordCount": 119
+    },
+    {
+      "id": "book-30",
+      "no": 30,
+      "title": "被送去草原和亲那天，我在嫁妆里藏了一把刀",
+      "genre": "大女主",
+      "chapterCount": 1,
+      "wordCount": 106
+    },
+    {
+      "id": "book-31",
+      "no": 31,
+      "title": "医院十三楼封了十年，昨晚灯亮了",
+      "genre": "悬疑·反转",
+      "chapterCount": 1,
+      "wordCount": 110
+    },
+    {
+      "id": "book-32",
+      "no": 32,
+      "title": "亲手养大的小徒弟，带着魔军来灭师门",
+      "genre": "仙侠·虐恋",
+      "chapterCount": 1,
+      "wordCount": 112
+    },
+    {
+      "id": "book-33",
+      "no": 33,
+      "title": "全公司以为我暗恋总裁，其实我爱的是他的翻译",
+      "genre": "霸总·轻喜",
+      "chapterCount": 1,
+      "wordCount": 109
+    },
+    {
+      "id": "book-34",
+      "no": 34,
+      "title": "我和她，互相接了刺杀对方的单",
+      "genre": "双女主·虐恋",
+      "chapterCount": 1,
+      "wordCount": 116
+    },
+    {
+      "id": "book-35",
+      "no": 35,
+      "title": "贵妃假死出宫，皇帝追到了江南",
+      "genre": "古偶·甜虐",
+      "chapterCount": 1,
+      "wordCount": 116
+    },
+    {
+      "id": "book-36",
+      "no": 36,
+      "title": "画皮女鬼，爱上了一个不怕鬼的书生",
+      "genre": "志怪·虐恋",
+      "chapterCount": 1,
+      "wordCount": 126
+    },
+    {
+      "id": "book-37",
+      "no": 37,
+      "title": "只说中文的交换生，只对我说英语",
+      "genre": "校园·甜宠",
+      "chapterCount": 1,
+      "wordCount": 119
+    },
+    {
+      "id": "book-38",
+      "no": 38,
+      "title": "少年天子亲政第一天，贬了他最爱的帝师",
+      "genre": "古风言情",
+      "chapterCount": 1,
+      "wordCount": 122
+    },
+    {
+      "id": "book-39",
+      "no": 39,
+      "title": "我继承的道观，香客全是妖怪",
+      "genre": "奇幻故事",
+      "chapterCount": 1,
+      "wordCount": 135
+    },
+    {
+      "id": "book-40",
+      "no": 40,
+      "title": "全网都在骂她那天，她在直播里放出了一段录音",
+      "genre": "现代言情",
+      "chapterCount": 1,
+      "wordCount": 138
+    },
+    {
+      "id": "book-41",
+      "no": 41,
+      "title": "一封迟到二十年的情书",
+      "genre": "现代言情",
+      "chapterCount": 1,
+      "wordCount": 135
+    },
+    {
+      "id": "book-42",
+      "no": 42,
+      "title": "穿成反派白月光，我只想活过第三章",
+      "genre": "奇幻故事",
+      "chapterCount": 1,
+      "wordCount": 139
+    },
+    {
+      "id": "book-43",
+      "no": 43,
+      "title": "月老实习第一天，我把战神和一只鹅配成了对",
+      "genre": "奇幻故事",
+      "chapterCount": 1,
+      "wordCount": 138
+    },
+    {
+      "id": "book-44",
+      "no": 44,
+      "title": "等了他三年，等来他的结婚请柬",
+      "genre": "现代言情",
+      "chapterCount": 1,
+      "wordCount": 132
+    },
+    {
+      "id": "book-45",
+      "no": 45,
+      "title": "每天来买花的女警，那天没有来",
+      "genre": "双女主",
+      "chapterCount": 1,
+      "wordCount": 130
+    },
+    {
+      "id": "book-46",
+      "no": 46,
+      "title": "山神娶亲，新娘是个不信神的博士",
+      "genre": "古风言情",
+      "chapterCount": 1,
+      "wordCount": 121
+    },
+    {
+      "id": "book-47",
+      "no": 47,
+      "title": "替姐姐高考那年，我也替她爱上了他",
+      "genre": "现代言情",
+      "chapterCount": 1,
+      "wordCount": 123
+    },
+    {
+      "id": "book-48",
+      "no": 48,
+      "title": "女扮男装考科举，小侯爷非要和我同住",
+      "genre": "古风言情",
+      "chapterCount": 1,
+      "wordCount": 133
+    },
+    {
+      "id": "book-49",
+      "no": 49,
+      "title": "浣衣局最不起眼的小宫女，被皇后点名去了御书房",
+      "genre": "奇幻故事",
+      "chapterCount": 1,
+      "wordCount": 130
+    },
+    {
+      "id": "book-50",
+      "no": 50,
+      "title": "失忆后，丈夫讲的每个故事里，都少了一个人",
+      "genre": "现代言情",
+      "chapterCount": 1,
+      "wordCount": 125
+    },
+    {
+      "id": "book-51",
+      "no": 51,
+      "title": "入殓师认出了他送走的人，是当年的少年",
+      "genre": "双男主",
+      "chapterCount": 1,
+      "wordCount": 128
+    },
+    {
+      "id": "book-52",
+      "no": 52,
+      "title": "弄丢了总裁的狗，他要我以身相赔",
+      "genre": "奇幻故事",
+      "chapterCount": 1,
+      "wordCount": 138
+    },
+    {
+      "id": "book-53",
+      "no": 53,
+      "title": "废柴师妹一剑劈碎了宗门擂台",
+      "genre": "奇幻故事",
+      "chapterCount": 1,
+      "wordCount": 129
+    }
+  ]
+}
